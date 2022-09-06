@@ -36,6 +36,8 @@ class Line(ClickDetectionWidget):
         else :
             self.savename = os.path.join(PATH_TO_TEMP_SOUND_FILES, "{}.wav".format(liste[0]))
         self.textToPronounce = liste[1] if liste[1] != "" else liste[2]
+        if self.textToPronounce == "":
+            return None
         self.perso = liste[3]
         self.recorded = os.path.exists(self.savename)
         return (self)

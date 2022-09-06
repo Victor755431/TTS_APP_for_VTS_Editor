@@ -113,5 +113,5 @@ class SoundRecorder(QMainWindow):
     @pyqtSlot()
     def onConfirmButtonClicked (self):
         tempData = self.extractFromFile()
-        self.data = [l.Line(self).fromLine(replique) for replique in tempData]
+        self.data = [l.Line(self).fromLine(replique) for replique in tempData if l.Line(self).fromLine(replique) !=None]
         self.toRecording()
