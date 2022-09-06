@@ -1,0 +1,44 @@
+﻿FORMAT:REFORMULATION					
+[TEXT ID]	[TEXTE PRONONCÉ (ENGLISH)]	[TEXTE AFFICHÉ]	[PERSONNAGE]	[NOTES]	
+tm_r08tnwhvh7zdyrc1		Hi Isabelle ! Come have a seat.	Hubert		
+tm_8gre4kvtx68uyvr8		I asked you to come here to put you in charge of a mission.	Hubert		
+tm_0iz9d386lwju25kg	You know, that little village of Ramatowa, who forces us to make a 36 miles detour, because it is on the other side of the Bamalowi river ?	You know, that little village of Ramatowa who forces us to make a 36 miles detour because it is right accross Bamalowi's river ?	Hubert		
+tm_kw8v6qxjamy8iz92		Listen. I thought about it, and I think we could make the situation better.	Hubert		
+tm_uxo40zqarf2qr40h	We just need one or two powerful enough drones, that could carry the medicines accross the river to Ramatowa.	We just need one or two powerful enough drones that could carry the medicines accross the river to Ramatowa.	Hubert		
+tm_jm7kyh5hdal998kk		Yes, the idea is interesting. But maybe, we should study a bit more closely the costs, and hoped benefits of such an operation ?	Isabelle		
+tm_y14j0y25cadef2hb	But Isabelle, the economy is evident ! The truck takes two hours to drive the 36 miles, because the road is really horrendous.	But Isabelle, the economy is evident ! The truck takes two hours to drive the 36 miles because the road is really horrendous.	Hubert		
+tm_wjb7ihwj75622sc5		This avoids us 24 hours of travel and would spare 48 gallons each year. 48 gallons is not negligeable, and this would mean at least 2 000 € spared each year.	Hubert		
+tm_4tcdn1xw7otjl43c	In every project, a cost/benefit study needs to be seriously made. Even if the direct benefits seem obvious at first glance, we need to evaluate precisely the costs and benefits, study the realisation strategies and the drawbacks. And never forget that benefits and drawbacks aren't always linked to money. They need to be linked with the company's strategy.	"In every project, a cost/benefit study needs to be seriously made.
+
+Even if the direct benefits seem obvious at first glance, we need to evaluate precisely the costs and benefits, study the realisation strategies and the drawbacks. And never forget that benefits and drawbacks aren't always linked to money. They need to be linked with the company's strategy."	APPRENANT		
+tm_6hugeluxlg0tfktv	All of that is explained in the Project Management classes you will follow in your first and second year.	All of that is explained in the <b>Project Management</b> classes you will follow in your first and second year.	APPRENANT		
+tm_xvw2hvo8054mp24z		Allow me to insist. I'll look more closely at your idea.	Isabelle		
+tm_cl1p6mj12o9tvp7y	In every project, a cost/benefit study needs to be seriously made. Even if the direct benefits seem obvious at first glance, we need to evaluate precisely the costs and benefits, study the realisation strategies and the drawbacks. And never forget that benefits and drawbacks aren't always linked to money. They need to be linked with the company's strategy.	"In every project, a cost/benefit study needs to be seriously made.
+
+Even if the direct benefits seem obvious at first glance, we need to evaluate precisely the costs and benefits, study the realisation strategies and the drawbacks. And never forget that benefits and drawbacks aren't always linked to money. They need to be linked with the company's strategy."	APPRENANT		
+tm_5d2jgott7qo4nvjf		I thougt about your idea.	Isabelle		
+tm_hb49xuxp2jmllz59		And I have a better idea of what we could hope to achieve.	Isabelle		
+tm_bdxwdpi9oz3ce2d2		In the costs, you seem to have forgotten about the batteries to charge and the time it will take to go accross the river with 16lbs of medicines.	Isabelle		
+tm_i5khbj6vkl61300d		If every drone can carry 4lbs, you'll need to send them twice. So it will still take around 20 minutes, mostly to load and unload them.	Isabelle		
+tm_8mn7jnhl813mfhiy		You're right, I didn't think about all of that.	Hubert		
+tm_v9s9w6uazy90f9e1		In a nutshell, I think we need to reevaluate the budget to at least 4 000 €, as indicated in the documents I printed you.	Isabelle		
+tm_x55ewcgg9frwtd6l		Here, Isabelle took the time to study the benefits and costs linked to the strategic goals of the association !	APPRENANT		
+tm_nxdbb9gss1cqojcd	We have to go through a new go/no-go step to get more precise border, some clear objectives and success criteria, consult all involved parties, define constraints and major risks, and to getan initial planification who identifies the expected deliverables, and the required activities to  produce them. For each activity, we also need to identify the required human ressources and their availability. We also need to think about material ressources associated with each activity. In a nutshell, we need a heap of elements to determine if the project is really doable, and to guarantee a success if it's the case.	"We have to go through a new go/no-go step to get more precise borders, some clear objectives and success criteria, consulting all involved parties, defined constraints and major risks, and an initial planification who identifies the expected deliverables, and the required activities to  produce them.
+
+For each activity, we also need to identify the required human ressources and their availability.
+
+We also need to think about material ressources associated with each activity. In a nutshell, we need a heap of elements to determine if the project is really doable, and to guarantee a success if it's the case."	APPRENANT		
+tm_55fco564okz8eru7	These aspects will be developed in the Project Management class of your first year.	These aspects will be developed in the <b>Project Management</b> class of your first year.	APPRENANT		
+tm_0hqrwnjzczzg7xmo		How much time do you need  to run this initial planifiaction phase ?	Hubert		
+tm_a99thttyaweswz8e	We have to go through a new go/no-go step to get more precise border, some clear objectives and success criteria, consult all involved parties, define constraints and major risks, and to getan initial planification who identifies the expected deliverables, and the required activities to  produce them. For each activity, we also need to identify the required human ressources and their availability. We also need to think about material ressources associated with each activity. In a nutshell, we need a heap of elements to determine if the project is really doable, and to guarantee a success if it's the case.	"We have to go through a new go/no-go step to get more precise borders, some clear objectives and success criteria, consult all involved parties, define constraints and major risks, and an initial planification who identifies the expected deliverables, and the required activities to  produce them.
+
+For each activity, we also need to identify the required human ressources and their availability.
+
+We also need to think about material ressources associated with each activity. In a nutshell, we need a heap of elements to determine if the project is really doable, and to guarantee a success if it's the case."	APPRENANT		
+tm_fjr83vf4s4m6rs7i	A functionnal analysis isn't sufficient to build a complete set of requirements. For that, it's necessary to complete it by an analysis centered around the users who will ask some other functions an engineer maybe wouldn't think about during his analysis.	"A functionnal analysis isn't sufficient to build a complete set of requirements. 
+
+For that, it's necessary to complete it by an analysis centered around the users who will ask some other functions an engineer maybe wouldn't think about during his analysis."	APPRENANT		
+tm_f7iskbxx6ko9gto1	This way of elaborating a specification sheet is studied in detail in the Requirements Engineering class of your first year.	This way of elaborating a specification sheet is studied in detail in the <b>Requirements Engineering</b> class of your first year.	APPRENANT		
+tm_tmdhtxwsrmotqqzv	A functionnal analysis isn't sufficient to build a complete set of requirements. For that, it's necessary to complete it by an analysis centered around the users who will ask some other functions an engineer maybe wouldn't think about during his analysis.	"A functionnal analysis isn't sufficient to build a complete set of requirements. 
+
+For that, it's necessary to complete it by an analysis centered around the users who will ask some other functions an engineer maybe wouldn't think about during his analysis."	APPRENANT		
