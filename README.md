@@ -3,7 +3,7 @@ This application was developped by Victor de CREVOISER
 _____________________________________________________________________
 It was developped to register voices for a serious game produced by the LII team in ENAC.
 
-If you want to use it in a personnal project, you might want to change the picture in data/img/,
+If you want to use it in a personnal project, you might want to change the pictures in data/img/,
 the characyer list in recorder.py, and repackage the app with pyinstaller.
 _____________________________________________________________________
 You are free to use it for whatever reason. If you need to edit it, please fork the project though.
