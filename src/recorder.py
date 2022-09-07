@@ -11,6 +11,8 @@ from pydub import AudioSegment
 from pydub.playback import play
 
 #         Liste des personnages officiels du serious game
+# (à changer si vous utlisez l'application pour un autre projet)
+#note : les noms doivent correspondre aux noms des images de data/img/
 LISTE_PERSO =["Agente", "Alice", "Bruno", "Édouard", "Émilie", "Gérard", "Hubert", "Isabelle",
         "John", "Marc", "Marjorie", "Mathieu", "Mathilde", "Nurumbé", "Odile"]
 
