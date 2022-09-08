@@ -1,0 +1,12 @@
+﻿FORMAT:REFORMULATION					
+[TEXT ID]	[TEXTE PRONONCÉ (FRANÇAIS (FRANCE))]	[TEXTE AFFICHÉ]	[PERSONNAGE]	[NOTES]	
+tm_sfy9h7k820uq6p4u		Un nouveau projet ?	Mathieu		
+tm_yd70p044sjxx2xi3		Mais pour nous, chaque tournée est un nouveau projet.	Mathieu		
+tm_rmd3jaj911da9vyp		Mais quelle taille ça a un drone capable de faire cela ?	Mathieu		
+tm_yrds2avqkw7vwhb8		Tu sais que dans nos camions, on n'a pratiquement aucune place de libre à l'arrière.	Mathieu		
+tm_u9m7ztlhb8trtczq		Ils sont bourrés de cartons de médicaments et de nos affaires.	Mathieu		
+tm_e6xnm826ss0j0nsv		En plus, les paquets tombent parfois les uns sur les autres.	Mathieu		
+tm_owxq0rd7dsitm79p		Il faudra que le drone soit bien coincé et que la caisse soit solide.	Mathieu		
+tm_mtpr3vqg573y0a4b		C'est vrai que je préfère m'occuper de gosses malades plutôt que d'être chahuté dans ce foutu camion aux amortisseurs épouvantables !	Mathieu		
+tm_t8d3sivfqqouz96g		Tu veux dire qu'on va assister à une séance complètes de troc aérien ?	Mathieu		
+					

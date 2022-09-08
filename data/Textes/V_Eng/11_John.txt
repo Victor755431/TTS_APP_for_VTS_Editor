@@ -1,0 +1,76 @@
+﻿FORMAT:REFORMULATION					
+[TEXT ID]	[TEXTE PRONONCÉ (ENGLISH)]	[TEXTE AFFICHÉ]	[PERSONNAGE]	[NOTES]	
+tm_swcnf9j47qgnftcl		In that case, shouldn't we also precise the maximum weight of the medicines to carry ?	John		
+tm_sy0xo8preervsko5		Yes. We're going to have to check that with the distribution team, but that looks reasonnable.	John		
+tm_7m694au5kmcwwyyx		Maybe the pilot won't be in charge of loading the pack aboard the drone. Maybe we need to identify a second guy in Bamalowi to load it on the drone ?	John		
+tm_0bmr6pyns6wucmxb		The river may have an impact, but if all goes well, it shouldn't interact !	John		
+tm_lqeym32ideu7eyau		For the pilot, it seems obvious. He guides the drone to the other bank.	John		
+tm_qgt576j4x2rz7gwg		A telecommand, why ?	John		
+tm_t36iub1wzj4jdamj		Yes, but will our system obey to emitted orders ?	John		
+tm_07kfaapxervkvsca		Well, we're going to have to move the medicine pack. This looks like a main function.	John		
+tm_v9h2rpog5tbrrdja		Yes, we should protect both the electronics and the medicines.	John		
+tm_ecwm4w5lc1fas47k		Water must be kept away from these elements	John		
+tm_3yv72mim21pr82nj		Piloting makes me think about something else.	John		
+tm_hin1kvkzr5pgefh0		Last time I tried to buil da remote controlled circuit, my system was picking up signals from another source, and was acting randomly.	John		
+tm_qi1am9qzp3byz0i8		Tell me, Marc, an hour ago, I was thinking about the way we could make our drone fall-proof.	John		
+tm_qos6lknnsy7s5i1d		And then, suddenly, I had an idea.	John		
+tm_kcilhlw7mkr7962m		We could build some kind of airbag for the drone !	John		
+tm_wdh3aq6mutj3dyu7		Something especially conceived so that, at a given vertical acceleration, it would deploy a protective ballon to protect the drone from the fall.	John		
+tm_ybcktlf0nda12y6g		I even think we could make it the shape of an inverted umbrella.	John		
+tm_uyih2jgwdcxttvvo		That way, it would even act as a little boat on the river.	John		
+tm_j4rror8n3jh6zpu3		I'm almost certain this doesn't exist yet. We could maybe try to file a patent for it...	John		
+tm_4ixnl3mnfnq1ga74		Ok Marc, I'll follow that advice.	John		
+tm_92t21hyplvono4tk		I tried to look for it on Google, and I didn't find anything.	John		
+tm_dcz25eqppltg20vf		And if there, I also find nothing ?	John		
+tm_gn7jyocc7uzekq5q		What do you mean ?	John		
+tm_9sydqu7kdwyv3w72		Euh, true,... True, but the idea seemed interesting to me.	John		
+tm_wo6zkwdfvbybep4j		On the other hand, a patent might get a bit expensive...	John		
+tm_gw9p0isu609jielc		I'll think about it.	John		
+tm_g69zj2w2fv7pumsg		I'll think about it	John		
+tm_gpg2y4gcv2gbjbgj		Yes great !	John		
+tm_3vr056o3ma11noin		Here it is !	John		
+tm_3hdt6cjmsv8nyc53		And the FC5 and FC3 functions could be linked to a stabilization subsystem ?	John		
+tm_uro5p0qofsa69e5u		Nice, I'll finally be able to develop that drone !	John		
+tm_i9d3se4xp12crn2q		I finally will be able to do some programming !	John		
+tm_iyz7gmz51cnakco8		Nice, can I start programming now ?	John		
+tm_ep9bpuugem46z7pw		I think I need one too...	John		
+tm_8iupvy3kqq0mb2gm		Finally !	John		
+tm_o5oz8lb1v8n6c76j		OK, we'll do that.	John		
+tm_o285yz6fv3w3p1gq		Yes sir !	John		
+tm_4yrmzosq4fa30c7s			John		
+tm_yqv2quqlnkbspogk		Yes, I'm the one who took that part.	John		
+tm_mbqc9fgd0j6snel0		I already started to develop it.	John		
+tm_l6viczhwyk4ctrbr		Not exactly. I did some object oriented conception, but it is extremely simple.	John		
+tm_zrct99owepgg8trk		The app only has to show the drone on a map, and to display a message in case the battery needs to be charged.	John		
+tm_vencosr1rhfdz6b7		So I only have 5 classes to create.	John		
+tm_mnv4gp5fnqnd9w07		There's just not much to say about it.	John		
+tm_vjzx9bub0nr8dt5p		Yes ?	John		
+tm_atxoxonwnf6rra7o		Yes.	John		
+tm_f17t6q1sstvp6vtk		Yes, I doubled checked it yestersday.	John		
+tm_nfm0dorpjaw82c5w		Signal emission ?	John		
+tm_eb74cslbsksbi1pe		That wasn't on my part.	John		
+tm_xub1i3hxo59prk48		Thinking about it, I don't recall seeing any tests on that subject either.	John		
+tm_ptbx6ozwvg78vo28		Sorry, I don't understand...	John		
+tm_49ivbqtf7yhkacz2		No...	John		
+tm_dy2miye0ps6ss3ru		You did exceptionally well !	John		
+tm_nq3cguq9oq7vgcrl		Looks like we just have two broken propellers.	John		
+tm_xut0ybjzq3nqpby5		But we will have to investigate this problem.	John		
+tm_98rou7cqf7wf5p2f		"Listen, that's simple :  go in the ""Edit"" menu."	John		
+tm_wkq6wyc597plicyv		"There, you'll find the ""Preferences"" menu."	John		
+tm_n1paohcxjfmhwqvh		"In that menu, there is a ""Display preferences"" menu."	John		
+tm_9m7292tk5vowr1hd		"And in this last menu, you'll see ""Background map choice""."	John		
+tm_ia2da10oh2wqm5jt	There I put all the maps of the diffrent regions, with a 1 to 25000 scale.	There I put all the maps of the diffrent regions, with a 1:25 000 scale.	John		
+tm_8j8vyrghvsugfc8a		Well, I thought it might be interesting to give that choice to the user.	John		
+tm_xesd6y45belwlppg		Yes, but we never know for sure...	John		
+tm_2z0tryu1b41kroj0		Bye boss !	John		
+tm_in114w4f4q0t24vb		I'm all ears.	John		
+tm_x495y2g04361sr9q		I was said I might be useful to investigate the problem ?	John		
+tm_cvzw8lukn5b4gkl8		Not that I remember...	John		
+tm_11myi8k1a9thha9v		Wait ! In fact, yes...	John		
+tm_6jkt3ernn2jdpymz		I received a weird email from a colleague, talking about a problem with my localization app.	John		
+tm_hi0fakpi8ogw8nq9		It contained a weird attachment I couldn't charge or at least properly display when I opened it...	John		
+tm_y4fasm04yq40wn43		But we have lots of time before we actually make these tests.	John		
+tm_22bjh6te9yahxq4k		Maybe we should start developing these drones now ?	John		
+tm_tszs045sh5d4d975		I refuse to spend more time of drafting more papers before that.	John		
+tm_ngym24wzsapbfb20		Good grace, still more paper, won't it ever stop...	John		
+					

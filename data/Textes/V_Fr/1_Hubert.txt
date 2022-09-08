@@ -1,0 +1,114 @@
+﻿FORMAT:REFORMULATION					
+[TEXT ID]	[TEXTE PRONONCÉ (FRANÇAIS (FRANCE))]	[TEXTE AFFICHÉ]	[PERSONNAGE]	[NOTES]	
+tm_r08tnwhvh7zdyrc1		Bonjour Isabelle, assieds-toi.	Hubert		
+tm_8gre4kvtx68uyvr8		Je t'ai fait venir ici pour te confier une mission.	Hubert		
+tm_0iz9d386lwju25kg	Tu sais, ce petit village de Ramatowa, qui nous oblige à faire un détour de 60 km, parce qu'il se situe de l'autre côté de la rivière de Bamalowi ?	Tu sais, ce petit village de Ramatowa qui nous oblige à faire un détour de 60 km parce qu'il se situe de l'autre côté de la rivière de Bamalowi ?	Hubert		
+tm_kw8v6qxjamy8iz92		Écoute, j'ai bien réfléchi et je pense que l'on peut améliorer la situation.	Hubert		
+tm_uxo40zqarf2qr40h		Il suffirait de disposer d'un ou deux drones assez costauds qui nous permettraient  de faire franchir la rivière aux médicaments destinés à Ramatowa.	Hubert		
+tm_hcflw54q7u0t65f5		Les gens du dispensaire les récupéreraient de l'autre côté de la rivière, et hop le tour est joué.	Hubert		
+tm_vwg897irypadwy8r		T'imagines le gain en essence et en temps !!	Hubert		
+tm_y14j0y25cadef2hb		Mais Isabelle, les gains sont évidents !	Hubert		
+tm_263scxnxazg6jev7		Le camion mets deux heures pour parcourir les 60 km car la piste est très difficile.	Hubert		
+tm_4m5nlebk7yho4xqc	De plus, il consomme au moins 15 litres pour parcourir cette distance. Nous effectuons cette tournée douze fois dans l'année.	De plus, il consomme au moins 15 L  pour parcourir cette distance. Nous effectuons cette tournée douze fois dans l'année.	Hubert		
+tm_wjb7ihwj75622sc5	Cela nous ferait économiser 180 litres d'essence, et l'essence est rare en brousse.	Cela nous ferait économiser 180 L d'essence, et l'essence est rare en brousse.	Hubert		
+tm_nr1uvt4od3eei3br	180 litres ce n'est pas négligeable, ça nous ferait économiser plus de 2000€ par an. Si on construit deux drones à moins de 2000 € chacun, nous revenons dans nos frais en 2 ans.	180 L ce n'est pas négligeable, ça nous ferait économiser plus de 2000 € par an. Si on construit deux drones à moins de 2000 € chacun, nous revenons dans nos frais en 2 ans.	Hubert		
+tm_v86f0hfe3pdzbb4e		OK Isabelle, je reconnais bien ta rigueur. On se revoit dans deux jours pour en rediscuter ?	Hubert		
+tm_56g57kv2764gvqbk		OK ! Allez, je te libère. Bonne journée !	Hubert		
+tm_8mn7jnhl813mfhiy		Effectivement, je n'avais pas pensé à tous ces aspects.	Hubert		
+tm_0wp4l82kultm4ct2		Mais penses-tu que le projet reste intéressant ?	Hubert		
+tm_a7dwlwn7m1iksffr		Je vois que tu as pensé à tous les aspects de ce projet. Vu les enjeux évoqués, je suis OK pour te débloquer ces 4000 €.	Hubert		
+tm_ktgy3s250vnzwjme		Bon, ben on y va alors ! Allez, au boulot, tu as 6 mois pour finir ce projet, motivant, non ?	Hubert		
+tm_4qd1eooy4wd5m7rq		Pas de problème, j'enverrai Magali à ta place. Ce projet est plus urgent.	Hubert		
+tm_enxxtudgz48fy73n		Oh, que d'exigences !	Hubert		
+tm_tt75npzegug6oe39		Tu ne veux pas un bureau avec un distributeur de café aussi ?	Hubert		
+tm_wqjnpbnsjk2mvr8l		OK, OK, tout ce que tu voudra. Je lui dirai demain matin de venir t'aider.	Hubert		
+tm_0hqrwnjzczzg7xmo		Il te faut combien de temps pour ce cadrage et la planification initiale ?	Hubert		
+tm_bnz16x3ntowonzo7		Trois semaines ? Mais c'est beaucoup trop !	Hubert		
+tm_7xxwsq8itm9yd04b		Très bien, je te fais confiance.	Hubert		
+tm_2al3rey3ck5etpqw		Bonjour à tous !	Hubert		
+tm_n2wbm13banhf4oce		Je vous ai réuni aujourd’hui pour décider officiellement du lancement, ou de l’abandon de notre projet de drone.	Hubert		
+tm_4u102oj6klfl9y8p		J’ai bien relu votre cahier des charges et l’estimation budgétaire d’Isabelle.	Hubert		
+tm_hclkwllklmp746wq		Je propose que Marc nous fasse un point sur la faisabilité technique et qu’Isabelle nous parle du budget nécessaire et des bénéfices attendus.	Hubert		
+tm_nfd6my20uw0mjfry		Ensuite, nous déciderons ensemble de l’avenir de ce projet.	Hubert		
+tm_44eyw25zlopwap1s		 À toi la parole Marc.	Hubert		
+tm_r3afs6x9ohdy3bpi		Merci Marc, effectivement le budget tient une place importante dans notre projet.	Hubert		
+tm_7cmkw4gg186fij5h		Mais il nous faut aussi considérer d’autres enjeux comme l’image de marque de notre association, l’aspect de modernité que l’on veut donner et aussi et surtout le bien-être de notre équipe.	Hubert		
+tm_xs00yew2uxaxm0fy		Avant de prendre une quelconque décision, laissons Isabelle nous présenter les impacts budgétaires et le coût en ressources humaines. À toi Isabelle.	Hubert		
+tm_akrzsfsb6l6ejs7g		À toi Isabelle !	Hubert		
+tm_5zddp3xnmp6xqvl9		Non, je te fais confiance.	Hubert		
+tm_3t1jc7bfeqy632pe		Oui, avec plaisir.	Hubert		
+tm_0nhdavq8hwjyyf9r		Qu’avez-vous prévu pour atténuer ces risques ?	Hubert		
+tm_wtacqs65jq3g06tm		Ces commandes de matériel ne vont-elles pas augmenter le budget ?	Hubert		
+tm_gtcbf4r6vojnsa66		Bravo ! C'est très professionnel tout ça !	Hubert		
+tm_w1c8awst5cw0f3rc		Merci beaucoup Isabelle pour cette synthèse.	Hubert		
+tm_p702kalzxf4g2mi2		Bien, le débat est ouvert.	Hubert		
+tm_f6khdz2ok4je1ve3		Qui veut prendre la parole ?	Hubert		
+tm_1sv9c0vabym0ade5		Oui, effectivement, bonne remarque !	Hubert		
+tm_fnzzgum1ptmls9zc		As-tu une idée du coût d’une formation basique ?	Hubert		
+tm_sucei1x5npx5zk6y		Oups, effectivement. Il nous faudrait combien de pilotes ?	Hubert		
+tm_mt9usrhvdwycp1je		Donc si je comprends bien, il faut rajouter 3000 € supplémentaires pour ce projet.	Hubert		
+tm_ig8jgo1di0b7sxnc		D’autres remarques ?	Hubert		
+tm_he42fcltw4p70u9n		Merci Odile, et bien s’il n’y a plus d’autres remarques, je vais aller dans ce sens.	Hubert		
+tm_i6wzpg2ffh5axfug		Ce projet, on va le faire !	Hubert		
+tm_k0z48j85f8pbcg6f		Car il va dans le sens de nos valeurs et en plus, il donnera un petit coup de jeune à notre asso.	Hubert		
+tm_ia06q0i0y8cfekgz		Pour le budget, je vous propose de partir sur l’estimation globale faire par Isabelle, soit 3 200 €, plus les 3000 € de formation suggérée par Émilie.	Hubert		
+tm_743cq9y6s9i8kqtj		Donc globalement un budget de 6 200 €.	Hubert		
+tm_30ikrdjowo454axz		Et je nomme officiellement Isabelle cheffe de ce projet.	Hubert		
+tm_zmethj1d3m3e24lb		Merci de lui apporter tout votre soutien.	Hubert		
+tm_89fr5drhjjv06yqj		Tout le monde est d’accord ?	Hubert		
+tm_hotrrxvq3ouq5sut		Dans le compte rendu, il faudra noter approbation à l’unanimité du projet et budget de 6200 €.	Hubert		
+tm_y445sz14kcizqyb7		Pour la durée, on part sur les huit mois que tu as estimé avec Marc.	Hubert		
+tm_3g2bxzafu76lzl0v		On a un nom pour ce projet ?	Hubert		
+tm_o328pqygewhr6o0j		Merci à tous pour votre participation.	Hubert		
+tm_hteg4vug83080xq5		Je vous propose une réunion intermédiaire d’avancement dans deux mois.	Hubert		
+tm_30knjupq6l6z6t58		Ma secrétaire fixera la date en fonction de vos agendas.	Hubert		
+tm_s3f9mdvzpu3b6153		Bonne journée !	Hubert		
+tm_5uwgznvowst0ccmb		N'y a-t-il vraiment aucune sauvegarde du projet ?	Hubert		
+tm_h02k7gcb70i595av		Si nous devons reprendre de 0, cela risque d'être catastrophique.	Hubert		
+tm_xosljbe1cudms00p		Cela ferait 5 mois de travail partis en fumée...	Hubert		
+tm_wkrbams2gvvpb0w3		Désolé du retard, j'avais une réunion qui a duré plus longtemps que prévu.	Hubert		
+tm_m8tt3hed480a68m7		Merci de m'avoir attendu.	Hubert		
+tm_y69a9aoq3lvgy8tw		Isabelle, ne tire pas de conclusions trop hâtives.	Hubert		
+tm_ecjin7g66zgc2hjm		Il est tout à fait possible que quelqu'un extérieur ait réussi à pirater le compte d'un employé pour envoyer cette pièce jointe véreuse.	Hubert		
+tm_rycvzli2z6qdcgde		La police locale fera probablement la lumière sur cette affaire.	Hubert		
+tm_q8uek39pastim6il		Oui, la démo a été brillante.	Hubert		
+tm_whwgkho56ti3rz5q		Émilie est une excellente pilote !	Hubert		
+tm_9uwfjbanxk37kf02		Elle maitrise parfaitement l’engin.	Hubert		
+tm_j4ilbxevzpox91cq		C’est quoi ces user stories, Marc ?	Hubert		
+tm_w2y7h9dk4dhrqg9b		Et c’est quoi cette user story 3 ?	Hubert		
+tm_8lzqs6ia49uhh7rk		Ah OK, donc l’autonomie n’est pas suffisante.	Hubert		
+tm_98tp43stk0tbj2tr		Bon, ben, globalement, moyennant cette correction, je suis satisfait de cette deuxième version, qui est déjà bien fonctionnelle.	Hubert		
+tm_63kztay6zyewa8aq		Je suis OK pour l’accepter et passer à la suite.	Hubert		
+tm_vnffk2kdnl5jdrpm		Que fait-on maintenant ?	Hubert		
+tm_ckg2138zu808ayk7	Planning poker ?	"""Planning poker"" ?"	Hubert		
+tm_kx75phcxb00a3lju	Encore un terme de la méthode screum, je présume ?	Encore un terme de la méthode SCRUM, je présume ?	Hubert		
+tm_vdkafjj81if4hqz5		Vous ne jouez quand même pas au poker pendant le travail ?	Hubert		
+tm_le6uezg11m2hb9gh		Intéressant...	Hubert		
+tm_auryjughae2pvu5l		Je pourrai jouer avec vous ?	Hubert		
+tm_mqipwqav34f3h2pk		Il me semble que ce package va sécuriser nettement le fonctionnement.	Hubert		
+tm_aexdjr1bzvcntsx3		Donc OK pour la localisation !	Hubert		
+tm_pk0bizcy2x83b5eo		Mes chers amis, aujourd’hui est un grand jour pour notre association, le village de Ramatowa, et le village de Bamalowi.	Hubert		
+tm_cdhgkf246lgn9z8c		Nous inaugurons une nouvelle ère de communication moderne et plus sécurisante : la voie des drones.	Hubert		
+tm_4717x8eggj1yj8fe		Elle va nous permettre d’améliorer notre service de livraison de médicaments en diminuant le nombre de kilomètres que nous avons à parcourir à chaque tournée pour le consacrer à votre santé et au dialogue.	Hubert		
+tm_j5sc8bp1kszpiuz9		Les drones vous permettront aussi de mettre en place quelques petits échanges commerciaux entre vos deux villages.	Hubert		
+tm_wspoqdgg967jg63j		Je tiens d’ailleurs à remercier vos deux chefs Gérard et Nurumbé pour leur collaboration active.	Hubert		
+tm_kk20fltm6x4b6k1y		Ceci dit, fini les beaux discours et place à l’action.	Hubert		
+tm_5b86ddei067l8jtb		Émilie sera le pilote pour l’aller avec un premier drone.	Hubert		
+tm_p6g4l4u2yv1iqf57		Nous l’avons envoyé en formation pendant une semaine à l’École Nationale de l’Aviation Civile française, et depuis je vous assure qu’elle s'entraîne jour et nuit.	Hubert		
+tm_g75cdyz8ivrv3rpx		Édouard, le neveu de votre chef bien-aimé, fera le retour avec un deuxième drone.	Hubert		
+tm_wpc8l1pirq7hfqg3		Je suis sûr qu’il ne déméritera pas non plus, car Gérard  m’a assuré qu’il s'entraînait depuis de nombreuses semaines dans les champs voisins.	Hubert		
+tm_ozwmmkn4j4a46xx4		Il parraîtrait même que cela faisait un peu de bruit !!	Hubert		
+tm_u82q43qdpe5u7sle		À toi Émilie !	Hubert		
+tm_b749zvfkn7knto2g		Je voudrais maintenant remercier au nom des deux villages et de notre association ceux sans lesquels cette réalisation n’aurait pas été possible.	Hubert		
+tm_jzxa5z2wvqq7xsma		J’ai nommé : Isabelle, Marc, John et Odile.	Hubert		
+tm_o0e302kpqix5iu7o		Avancez les enfants !	Hubert		
+tm_lx7sqr2iuv1ohy1l		La réalisation de ce drone n’a pas été sans obstacle, je le sais.	Hubert		
+tm_j1jahbnshkm114b4		Vous avez dû surmonter de nombreuses difficultés techniques, et aussi quelques crashs.	Hubert		
+tm_fsfqp1ewqma1yjpo		Il faudra d’ailleurs se rappeler de faire plus de test en amont avant d’aller faire des essais sur site.	Hubert		
+tm_l5vizvpkp21u3awm		Ça peut faire faire quelques économies !	Hubert		
+tm_52q3ygzoepk4p1v8		Enfin, bref, ceci est notre cuisine interne.	Hubert		
+tm_8kzau3yee8m479sp		Toujours est-il qu’aujourd’hui, vous avez fait la démonstration que votre système marche et qu’il est fiable, même face aux rafales de vent.	Hubert		
+tm_ss5fbuotna3yycfc		"C’est pourquoi, au nom du village de Ramatowa, du village de Bamalowi,  et de la Croix Rouge, je vous fais les parrains officiels de cette nouvelle voie aérienne, que nous venons d’ouvrir, et que nous allons baptiser la voie ""Ramatowi""."	Hubert		
+tm_f7z492cdxrhjbnd4		Bravo à tous les quatre, et merci pour le magnifique travail effectué !	Hubert		
+tm_qe9bd4glemmcgfvs		Et longue vie à Ramatowi !	Hubert		
+					

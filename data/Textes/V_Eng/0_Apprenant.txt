@@ -1,0 +1,414 @@
+﻿FORMAT:REFORMULATION					
+[TEXT ID]	[TEXTE PRONONCÉ (ENGLISH)]	[TEXTE AFFICHÉ]	[PERSONNAGE]	[NOTES]	
+tm_8pshh05x7awu6vbx	For a few years, the Red Cross has been organising some trips to first aid stations in the region of Nairobi to bring some medicine. These trips can be hazardous, especially near the village of Ramatowa who is often at war with the neighboring village of Pazimanga.	"For a few years, the Red Cross has been organising some trips to first aid stations in the region of Nairobi to bring some medicine.
+These trips can be hazardous, especially near the village of Ramatowa who is often at war with the neighboring village of Pazimanga."	APPRENANT		
+tm_h8nmxqv19ldt9w6x		And that particular village is on the other side of the river from the preceding first aid station (Bamalowi). The Red Cross's truck need to drive up the river to the next bridge which is 19 miles North, and go down the river to Ramatowa. Once the drugs are distributed, the truck comes back to the bridge 30km to the North, and continues his journey West.	APPRENANT		
+tm_bvbli8psn9emqnwh		This year, the local director of the Red Cross, Hubert Gramont, is asking himself how to optimize this journey, looking to reduce aggression risks and to avoid this long way around the river. The solution he retained would be to use a few drones able to lift one or two kilos and go accross the river with drugs. The members of the Ramatowa center could go pick up the medicines on the other side. He wants to put Isabelle Boucicaut on charge of the project, as she knows well the topology of the place and the inhabitants of every village, and she has the largest experience on the conduct of humanitarian projects.	APPRENANT		
+tm_bty7ecxt7x6nh44d		According to you, are Hubert's points sufficients ? Is Isabelle wrong for arguing there ?	APPRENANT		
+tm_4tcdn1xw7otjl43c	In every project, a cost/benefit study needs to be seriously made. Even if the direct benefits seem obvious at first glance, we need to evaluate precisely the costs and benefits, study the realisation strategies and the drawbacks. And never forget that benefits and drawbacks aren't always linked to money. They need to be linked with the company's strategy.	"In every project, a cost/benefit study needs to be seriously made.
+
+Even if the direct benefits seem obvious at first glance, we need to evaluate precisely the costs and benefits, study the realisation strategies and the drawbacks. And never forget that benefits and drawbacks aren't always linked to money. They need to be linked with the company's strategy."	APPRENANT		
+tm_6hugeluxlg0tfktv	All of that is explained in the Project Management classes you will follow in your first and second year.	All of that is explained in the <b>Project Management</b> classes you will follow in your first and second year.	APPRENANT		
+tm_cl1p6mj12o9tvp7y	In every project, a cost/benefit study needs to be seriously made. Even if the direct benefits seem obvious at first glance, we need to evaluate precisely the costs and benefits, study the realisation strategies and the drawbacks. And never forget that benefits and drawbacks aren't always linked to money. They need to be linked with the company's strategy.	"In every project, a cost/benefit study needs to be seriously made.
+
+Even if the direct benefits seem obvious at first glance, we need to evaluate precisely the costs and benefits, study the realisation strategies and the drawbacks. And never forget that benefits and drawbacks aren't always linked to money. They need to be linked with the company's strategy."	APPRENANT		
+tm_x55ewcgg9frwtd6l		Here, Isabelle took the time to study the benefits and costs linked to the strategic goals of the association !	APPRENANT		
+tm_7n0uuz3giqy28m05		Can the project start like that ? Do we have enough data to go ahead ?	APPRENANT		
+tm_nxdbb9gss1cqojcd	We have to go through a new go/no-go step to get more precise border, some clear objectives and success criteria, consult all involved parties, define constraints and major risks, and to getan initial planification who identifies the expected deliverables, and the required activities to  produce them. For each activity, we also need to identify the required human resources and their availability. We also need to think about material resources associated with each activity. In a nutshell, we need a heap of elements to determine if the project is really doable, and to guarantee a success if it's the case.	"We have to go through a new go/no-go step to get more precise borders, some clear objectives and success criteria, consulting all involved parties, defined constraints and major risks, and an initial planification who identifies the expected deliverables, and the required activities to  produce them.
+
+For each activity, we also need to identify the required human resources and their availability.
+
+We also need to think about material resources associated with each activity. In a nutshell, we need a heap of elements to determine if the project is really doable, and to guarantee a success if it's the case."	APPRENANT		
+tm_55fco564okz8eru7	These aspects will be developed in the Project Management class of your first year.	These aspects will be developed in the <b>Project Management</b> class of your first year.	APPRENANT		
+tm_c7eu8vse2e1ekwfg		Hubert's reaction seems justified : three weeks to produce some paperwork, is it really necessary ?	APPRENANT		
+tm_igybkphf79jvvciy	The initial planification phase is often overlooked. It is nevertheless essential. It can make you win a lot of time down the road. It allows you to aim for some reachable objectives, to identify clearly what's every person's role, and their level of involvement about the project. It also identifies the difficult parts early on, and the major risks too. Involving an engineer very early is also necessary, because he will be the one giving the best estimations on what is doable or not, and on the time necessary to realize the technical parts.	"The initial planification phase is often overlooked. It is nevertheless essential.
+
+It can make you win a lot of time down the road. It allows you to aim for some reachable objectives, to identify clearly what's every person's role, and their level of involvement about the project. 
+
+It also identifies the difficult parts early on, and the major risks too. Involving an engineer very early is also necessary, because he will be the one giving the best estimations on what is doable or not, and on the time necessary to realize the technical parts."	APPRENANT		
+tm_348tsqtyururqyg5	There Isabelle makes the magic triangle of the project management appear : costs, quality, delays. A project manager always juggles with these three variables. If they change one of them, it generally impacts one or the other of these variables. For example,  reducing the delays could impact the quality of service and the cost. We could for exemple pay more to have everyone working at the same time to finish earlier...	"There Isabelle makes the magic triangle of the project management appear : 
+* <b>costs</b>
+* <b>quality</b>
+* <b>delays</b>
+
+A project manager always juggles with these three variables. If they change one of them, it generally impacts one or the other of these variables. 
+
+For example,  reducing the delays could impact the quality of service and the cost. We could for exemple pay more to have everyone working at the same time to finish earlier..."	APPRENANT		
+tm_e5kzts11lnmdvrlr	The initial planification phase is often overlooked. It is nevertheless essential. It can make you win a lot of time down the road. It allows you to aim for some reachable objectives, to identify clearly what's every person's role, and their level of involvement about the project. It also identifies the difficult parts early on, and the major risks too. Involving an engineer very early is also necessary, because he will be the one giving the best estimations on what is doable or not, and on the time necessary to realize the technical parts.	"The initial planification phase is often overlooked. It is nevertheless essential.
+
+It can make you win a lot of time down the road. It allows you to aim for some reachable objectives, to identify clearly what's every person's role, and their level of involvement about the project. 
+
+It also identifies the difficult parts early on, and the major risks too. Involving an engineer very early is also necessary, because he will be the one giving the best estimations on what is doable or not, and on the time necessary to realize the technical parts."	APPRENANT		
+tm_a99thttyaweswz8e	We have to go through a new go/no-go step to get more precise border, some clear objectives and success criteria, consult all involved parties, define constraints and major risks, and to getan initial planification who identifies the expected deliverables, and the required activities to  produce them. For each activity, we also need to identify the required human resources and their availability. We also need to think about material resources associated with each activity. In a nutshell, we need a heap of elements to determine if the project is really doable, and to guarantee a success if it's the case.	"We have to go through a new go/no-go step to get more precise borders, some clear objectives and success criteria, consult all involved parties, define constraints and major risks, and an initial planification who identifies the expected deliverables, and the required activities to  produce them.
+
+For each activity, we also need to identify the required human resources and their availability.
+
+We also need to think about material resources associated with each activity. In a nutshell, we need a heap of elements to determine if the project is really doable, and to guarantee a success if it's the case."	APPRENANT		
+tm_ntn313vkgcfgwzzy		Can the project start like that ? Do we have enough data to go ahead ?	APPRENANT		
+tm_0s5iwqabgr0bfsew	We have to go through a new go/no-go step to get more precise border, some clear objectives and success criteria, consult all involved parties, define constraints and major risks, and to getan initial planification who identifies the expected deliverables, and the required activities to  produce them. For each activity, we also need to identify the required human resources and their availability. We also need to think about material resources associated with each activity. In a nutshell, we need a heap of elements to determine if the project is really doable, and to guarantee a success if it's the case. This aspects will be developed in the project management class of your first year.	"We have to go through a new go/no-go step to get more precise borders, some clear objectives and success criteria, consulting all involved parties, defined constraints and major risks, and an initial planification who identifies the expected deliverables, and the required activities to  produce them.
+
+For each activity, we also need to identify the required human resources and their availability.
+
+We also need to think about material resources associated with each activity. In a nutshell, we need a heap of elements to determine if the project is really doable, and to guarantee a success if it's the case.
+
+This aspects will be developed in the <b>Project Management</b> class of your first year."	APPRENANT		
+tm_accx1v43eg8e44im	We have to go through a new go/no-go step to get more precise border, some clear objectives and success criteria, consult all involved parties, define constraints and major risks, and to getan initial planification who identifies the expected deliverables, and the required activities to  produce them. For each activity, we also need to identify the required human resources and their availability. We also need to think about material resources associated with each activity. In a nutshell, we need a heap of elements to determine if the project is really doable, and to guarantee a success if it's the case. This aspects will be developed in the project management class of your first year.	"We have to go through a new go/no-go step to get more precise borders, some clear objectives and success criteria, consult all involved parties, define constraints and major risks, and an initial planification who identifies the expected deliverables, and the required activities to  produce them.
+
+For each activity, we also need to identify the required human resources and their availability.
+
+We also need to think about material resources associated with each activity. In a nutshell, we need a heap of elements to determine if the project is really doable, and to guarantee a success if it's the case.
+
+This aspects will be developed in the <b>Project Management</b> class of your first year."	APPRENANT		
+tm_l8pqm704g432syax	As a good team manager, Isabelle is making sure of two things : the availability and the motivation of her team. As for qualification, she already knows that Marc is the best engineer in the association.	"As a good team manager, Isabelle is making sure of two things :
+* the <b>Availability</b> and
+* the <b>Motivation</b> of her team.
+
+As for qualification, she already knows that Marc is the best engineer in the association."	APPRENANT		
+tm_yk3uwcjjczjgg52e		Does Marc have enough information to define all the technicall requirements of the system ?	APPRENANT		
+tm_fjr83vf4s4m6rs7i	A functionnal analysis isn't sufficient to build a complete set of requirements. For that, it's necessary to complete it by an analysis centered around the users who will ask some other functions an engineer maybe wouldn't think about during his analysis.	"A functionnal analysis isn't sufficient to build a complete set of requirements. 
+
+For that, it's necessary to complete it by an analysis centered around the users who will ask some other functions an engineer maybe wouldn't think about during his analysis."	APPRENANT		
+tm_f7iskbxx6ko9gto1	This way of elaborating a specification sheet is studied in detail in the Requirements Engineering class of your first year.	This way of elaborating a specification sheet is studied in detail in the <b>Requirements Engineering</b> class of your first year.	APPRENANT		
+tm_tmdhtxwsrmotqqzv	A functionnal analysis isn't sufficient to build a complete set of requirements. For that, it's necessary to complete it by an analysis centered around the users who will ask some other functions an engineer maybe wouldn't think about during his analysis.	"A functionnal analysis isn't sufficient to build a complete set of requirements. 
+
+For that, it's necessary to complete it by an analysis centered around the users who will ask some other functions an engineer maybe wouldn't think about during his analysis."	APPRENANT		
+tm_nngs974loaodjz15		Will Nurumbé's communication need impact the specifications of the system ?	APPRENANT		
+tm_jom1ylqs3hlkc31b	The consequences of some needs can have no technical impact. Here, it's linked to the management of the service using the system. That service should also be described though. That's the role of the project leader, not the system engineer's job.	"The consequences of some needs can have no technical impact.
+
+Here, it's linked to the management of the service using the system. That service should also be described though. That's the role of the project leader, not the system engineer's job."	APPRENANT		
+tm_092ltabxe3nn56b9	The consequences of some needs can have no technical impact. Here, it's linked to the management of the service using the system. That service should also be described though. That's the role of the project leader, not the system engineer's job.	"The consequences of some needs can have no technical impact.
+
+Here, it's linked to the management of the service using the system. That service should also be described though. That's the role of the project leader, not the system engineer's job."	APPRENANT		
+tm_gvwufzpuj358dakj		Isabelle seems to agree with everything. Is this the right attitude ?	APPRENANT		
+tm_mm2fl1v2gk4aw3od	She's not exactly saying yes to everything. She's rather in favor of propositions. Indeed, they don't seem exagerated and in every project, we need to manage every parties. If an essential party doesn't see an interest in investing themself, the project will be a lot harder to realize. In our case, Gérard's interest will be multiplied if he can please his nephew and use the system to trade with the neighboring village.	"She's not exactly saying yes to everything. She's rather in favor of propositions. Indeed, they don't seem exagerated and in every project, we need to manage every parties. 
+
+If an essential party doesn't see an interest in investing themself, the project will be a lot harder to realize. In our case, Gérard's interest will be multiplied if he can please his nephew and use the system to trade with the neighboring village."	APPRENANT		
+tm_bofp76th7nkxfrez	All of that will be explained in the Project Management class of your first year.	All of that will be explained in the <b>Project Management</b> class of your first year.	APPRENANT		
+tm_obvfzsdm6lh6h5zz	She's not exactly saying yes to everything. She's rather in favor of propositions. Indeed, they don't seem exagerated and in every project, we need to manage every parties. If an essential party doesn't see an interest in investing themself, the project will be a lot harder to realize. In our case, Gérard's interest will be multiplied if he can please his nephew and use the system to trade with the neighboring village.	"She's not exactly saying yes to everything. She's rather in favor of propositions. Indeed, they don't seem exagerated and in every project, we need to manage every parties. 
+
+If an essential party doesn't see an interest in investing themself, the project will be a lot harder to realize. In our case, Gérard's interest will be multiplied if he can please his nephew and use the system to trade with the neighboring village."	APPRENANT		
+tm_psl20a5a5ii443vk	Why ask Marc to choose a technical solution? Isabelle is managing the budget, she can decide to buy a camera to answer that requirement !	"Why ask Marc to choose a technical solution? 
+Isabelle is managing the budget, she can decide to buy a camera to answer that requirement !"	APPRENANT		
+tm_9c1j8zy3k24tx37b	A project manager effectively manages the budget, and the time allotted to a project. But the quality and the technical contents must be discussed in the first place and mostly with the system enginner. The project manager's job is to identify the requirements. The technical engineer must find the technical solution.	"A project manager effectively manages the budget, and the time allotted to a project.
+
+But the quality and the technical contents must be discussed in the first place and mostly with the system enginner.
+
+The project manager's job is to identify the requirements. The technical engineer must find the technical solution."	APPRENANT		
+tm_d07c0met12q8fubu	That will be developed in the first year's Requirements Engineering class.	That will be developed in the first year's <b>Requirements Engineering</b> class.	APPRENANT		
+tm_vokj0adujcark7xm	A project manager effectively manages the budget, and the time allotted to a project. But the quality and the technical contents must be discussed in the first place and mostly with the system enginner. The project manager's job is to identify the requirements. The technical engineer must find the technical solution.	"A project manager effectively manages the budget, and the time allotted to a project.
+
+But the quality and the technical contents must be discussed in the first place and mostly with the system enginner.
+
+The project manager's job is to identify the requirements. The technical engineer must find the technical solution."	APPRENANT		
+tm_n7a4i8f91fgp0iex	He asked John and Matilde to come help him in his first brainstorming.	He asked John and Mathilde to come help him in his first brainstorming.	APPRENANT		
+tm_hcdjf7q4fuzk69b7		The start of a functionnal analysis of a system always starts by identifying its operationnal mission.	APPRENANT		
+tm_9u116u4dngs3jfa8	Here Marc is touching an important point of functionnal analysis : Defining the limits of the system that we want to develop. Several considerations have to taken into account : costs, safety, competency, etc These latter will impact the functionnal limits of the sytem who will be smaller or bigger.	"Here Marc is touching an important point of functionnal analysis :
+
+<b>Defining the limits of the system that we want to develop.</b>
+
+Several considerations have to taken into account :
+* <b>costs,</b>
+* <b>safety</b>,
+* <b>competency</b>,...
+
+These latter will impact the functionnal limits of the sytem who will be smaller or bigger."	APPRENANT		
+tm_4r6u9upgty9oekdb	In a functional analysis, the octopus diagram represents every main functions of the system and links to the actors involved. If a function only interacts with one actor, then it is a constraint function. Every functions are numbered. That's why Marc is giving them some numbers.	"In a functional analysis, the octopus diagram represents every main functions of the system and links to the actors involved.
+
+If a function only interacts with one actor, then it is a constraint function. Every functions are numbered. That's why Marc is giving them some numbers."	APPRENANT		
+tm_65w9du2puxscn5ey	Marc, John and Mathilde finished their functionnal analysis. Isabelle, who came back from her interviews, is creating the final requirements with Marc.	"Marc, John and Mathilde finished their functionnal analysis.
+
+Isabelle, who came back from her interviews, is creating the final requirements with Marc."	APPRENANT		
+tm_qgb2jl0bqla1pdx3		Marc just entered Isabelle's office.	APPRENANT		
+tm_x4vm6k6qqw9kfwiv	Choose what Marc will say :	<b>Choose what Marc will say </b>:	APPRENANT		
+tm_7mrka6wbjkm8hovo		"Safety studies are usefull, even if the system is not dangreous to its user, because they allow to predict the system's behaviour in critical situations.
+
+They prevent risks to other humans, but they can also prevent material damage."	APPRENANT		
+tm_4aupub9nmo5e9x33	Safety barrier methods and FMECA (Failure Mode, Effects, and Criticality Analysis) will be a part of your third year Operational Safety classes.	Safety barrier methods and FMECA (Failure Mode, Effects, and Criticality Analysis) will be a part of your third year <b>Operational Safety</b> classes.	APPRENANT		
+tm_kp63l53mtfi31www	Safety studies are developped in the Risk Management Process in the INCOSE handbook.	"Safety studies are developped in the ""<b>System Safety Engineering</b>"" part of the INCOSE handbook."	APPRENANT		
+tm_2beobrp4gyl0uxie		"The scene takes place during the first flight tests of the drone.
+
+The drone is flying above the river. Suddenly, the wind picks up.
+
+The pilot loses all control on the drone, who crashes in the river. It sinks after a few seconds."	APPRENANT		
+tm_pxm57lyhbckokrd6		"Was this crash preventable ?
+
+yes, if they had thought about the technical solutions that could be deployed to prevent or answer to the initial event.
+
+In our case, the implementation of an efficient algorithm in the drone's controller (like a PID), would have allowed the drone to stay in the air, even with turbulences.
+
+Or if they had build a floating structure on the drone, and equiped it with a GPS tracker, they could also just travel down the river and pick it up."	APPRENANT		
+tm_yfc89bs8ozzgfe4d		"Safety studies are usefull, even if the system is not dangreous to humans, because they allow to predict the system's behaviour in critical situations.
+
+They prevent risks to other humans, but they can also prevent material damage."	APPRENANT		
+tm_8rnrp37x99tx5lby	Safety barrier methods and FMECA (Failure Mode, Effects, and Criticality Analysis) will be a part of your third year Operational Safety classes.	Safety barrier methods and FMECA (Failure Mode, Effects, and Criticality Analysis) will be a part of your third year <b>Operational Safety</b> classes.	APPRENANT		
+tm_2kxh1pzk6gegke5n		Marc and his team have resumed their brainstorming.	APPRENANT		
+tm_g1qx8ytrtb7qqxnl		Marc and Isabelle meet around a good cup of coffee.	APPRENANT		
+tm_j5xsxsfasi1q3bxa	Choose what Isabelle will say :	<b>Choose what Isabelle will say</b> :	APPRENANT		
+tm_i7n7t7a2vjsje9l6		"As told in the beginning, Ramatowa is often in conflict with a neighbouring village.
+
+One of the inhabitants of this village heard about the drone project, asked a few questins about the communications with the remote, bought th esame model.
+
+He got on the river banks during the tests, and took control of the drone. He picks it up, and runs away."	APPRENANT		
+tm_rw9kc9ftq9rwiy2m		What is the goal of eco-conception studies ?	APPRENANT		
+tm_1fdhxmw4lzwqq88y	"Eco-conception studies must be made before the realisation of a project, as safety and cyber-security studies should be made. All three can potentially have huge impacts on the development of a system. 
+In our case, we could make the structure of the drone from an easily disposable material (like wood), and use intelligent batteries with a much greater lifespan."	"Eco-conception studies must be made before the realisation of a project, as safety and cyber-security studies should be made.
+
+All three can potentially have huge impacts on the development of a system. 
+
+In our case, we could make the structure of the drone from an easily disposable material (like wood), and use intelligent batteries with a much greater lifespan."	APPRENANT		
+tm_0o6rty3rphnmxjl3	You will see these aspects if you choose the easy option of the seeta major.	You will see these aspects if you choose the <b>ISI</b> option of the <b>SITA major</b>.	APPRENANT		
+tm_z18b13gs55uehev6	Eco-conception studies must be made before the realisation of a project, as safety and cyber-security studies should be made. All three can potentially have huge impacts on the development of a system. In our case, we could make the structure of the drone from an easily disposable material (like wood), and use intelligent batteries with a much greater lifespan.	"Eco-conception studies must be made before the realisation of a project, as safety and cyber-security studies should be made.
+
+All three can potentially have huge impacts on the development of a system. 
+
+In our case, we could make the structure of the drone from an easily disposable material (like wood), and use intelligent batteries with a much greater lifespan."	APPRENANT		
+tm_9r9vhoom5t0o8tfs		Is Marc right to send John to Marjorie before even having discussed the technical feasibility ?	APPRENANT		
+tm_ce6b4a95uvwc1tln	It is possible to file a patent on a concept that hasn't been developed yet, if you make a few drawings. You just need your concept : to be a legal invention. For example, animal or plant species obtained by specific breeding can't be patented. to be new. to have an industrial application. to be inventive. It shouldn't be seen as obvious by other workers in the field.	"It is possible to file a patent on a concept that hasn't been developed yet, if you make a few drawings.
+
+You just need your concept :
+
+_ to be a <b>legal invention<b>. For example, animal or plant species obtained by specific breeding can't be patented.
+_ to be <b>new</b>
+_ to have an <b>industrial application</b>
+_ to be <b>inventive</b>. It shouldn't be seen as obvious by other workers in the field."	APPRENANT		
+tm_c1btadwxoh9oyf2y	These aspects will be taught in the second year Intellectual Property classes.	These aspects will be taught in the second year <b>Intellectual Property</b> classes.	APPRENANT		
+tm_19xvuxmbggwiac7h	It is possible to file a patent on a concept that hasn't been developed yet, if you make a few drawings. You just need your concept : to be a legal invention. For example, animal or plant species obtained by specific breeding can't be patented. to be new. to have an industrial application. to be inventive. It shouldn't be seen as obvious by other workers in the field.	"It is possible to file a patent on a concept that hasn't been developed yet, if you make a few drawings.
+
+You just need your concept :
+
+_ to be a <b>legal invention<b>. For example, animal or plant species obtained by specific breeding can't be patented.
+_ to be <b>new</b>
+_ to have an <b>industrial application</b>
+_ to be <b>inventive</b>. It shouldn't be seen as obvious by other workers in the field."	APPRENANT		
+tm_0ywxu6b8tjuzxzua		John has described his invention to Marjorie. They are discussing it.	APPRENANT		
+tm_fre1arkm3hcig1p1		A long discussion about patent details later...	APPRENANT		
+tm_pteqwvt4twpnd4is	Here, Hubert introduces the meeting formally. He first describes the meeting's goal, then describes the different points that will be discussed. Sometimes, introducing evryone is usefull, but in this particular case, evryone already knows each other.	"Here, Hubert introduces the meeting formally. 
+
+He first describes the meeting's goal, then describes the different points that will be discussed.
+
+Sometimes, introducing evryone is usefull, but in this particular case, evryone already knows each other."	APPRENANT		
+tm_rxk5i13yrtyqjqr4		You will see this in the meeting management class of the second year International Week	APPRENANT		
+tm_rjgaztfw9w6rg7v1	Here, Marc acts as an exemplary system engineer. He showcases functionnalities, then challenges their significance and their priorities with regards to the strategical decsion of the Direction.	"Here, Marc acts as an exemplary system engineer.
+
+He showcases functionnalities, then challenges their significance and their priorities with regards to the strategical decsion of the Direction."	APPRENANT		
+tm_yo5z7mj9v1v26dbs		Choose Hubert's answer :	APPRENANT		
+tm_myaz42p24fyxrubv		"This agreement on the planification, and budget between Marc and Isabelle is very important.
+
+It is essential that the project leader, and the system engineer share the same vision of the project's complexity, and of the associated budget.
+
+Close coordination beween these two is therefore essential."	APPRENANT		
+tm_gti0ojt7axf9kpps	How to manage risks is taught in the Risk Management Process of the INCOSE handbook.	"How to manage risks is taught in the ""<b>Risk Management Process</b>"" of the INCOSE handbook."	APPRENANT		
+tm_65s2gzvvhyzgqqxg		"In most projects, training to use the new system is of paramount importance.
+
+It is sadly often overlooked or forgotten..."	APPRENANT		
+tm_3dzscdv8uw8cdalf		Why is SCRUM better than the V-Model ?	APPRENANT		
+tm_gfr685ekc21au4en		"In the first answer, indeed the development is more flexible, and the formalism on documents is lower. On the other hand, the SCRUM method is very strict, and follows a number of mandatory steps.
+
+The second and third answers match the principal benefits of this method."	APPRENANT		
+tm_um6b57qhd2gxl5ic	The choice of a development method will be taught in the Agile Method Development of the SITA major's second year.	The choice of a development method will be taught in the <b>Agile Method Development</b> of the SITA major's second year.	APPRENANT		
+tm_p23vqktotj2yk2ey	"In the Agile Method, the requirement sheet is called ""Backlog"". It consists of several User Stories, who represent the expected functionalities in the SCRUM formalism."	"In the Agile Method, the requirement sheet is called ""<b>Backlog</b>"".
+
+It consists of several ""<b>User Stories</b>"", who represent the expected functionalities in the SCRUM formalism."	APPRENANT		
+tm_8ljmoldeber4zd3p		Using the SCRUM method doesn't mean we stop project planning, and risk prevision.	APPRENANT		
+tm_k0ls4c9u2gb5bpk4		That's it. The requirements are finalized. All lights are green.	APPRENANT		
+tm_u7saujboa1pcygq7		Can we develop now ?	APPRENANT		
+tm_2mxdwv4jo6ab23xa		We now have to go through the functional architecture of the drone.	APPRENANT		
+tm_om56up98at4u551t	This step will be seen in your third year, in the Functionnal Conception classes.	This step will be seen in your third year, in the <b>Functionnal Conception</b> classes.	APPRENANT		
+tm_zpi8als3xaa23zvj	This step is normalized in the following INCOSE process : Architecture Definition Process.	"This step is normalized in the following INCOSE process : ""<b>Architecture Definition Process</b>""."	APPRENANT		
+tm_ytbg5hl47ld8qy4o		We indeed must conceive the functionnal architecture of the drone.	APPRENANT		
+tm_ubbalnzeyde973uu		"Work goes on like this, with John and Mathilde discussing with Marc.
+
+Two hours later, the meeting is about to end. On the board is projected the finalized functionnal schematic."	APPRENANT		
+tm_6xopz3o3khshkxyv		Can John start programming now ?	APPRENANT		
+tm_yymo88pyyf1hely7		No, we still have the material architecture of the drone to do.	APPRENANT		
+tm_ek5qw3t9ogk0egdn	That will be explained in the third year Functionnal Conception classes.	"That will be explained in the third year ""<b>Functionnal Conception</b>"" classes."	APPRENANT		
+tm_t1yt3fwwmnqn4keg	This step is detailed in the following INCOSE process : Design definition process.	"This step is detailed in the following INCOSE process : ""<b>Design Definition Process</b>""."	APPRENANT		
+tm_tyr1j2mh6zickt08		Indeed, we still have the material architecture of the drone to do.	APPRENANT		
+tm_8kd4p31yzsw5hsj4		"You can see here that several material architectures can answer the same functions.
+
+In some mre complex cases, the number of possible architectures could be huge. 
+
+The system's engineer must use his knowledge, and some methods to choose the one that will answer to the need the best way possible."	APPRENANT		
+tm_omb0rwsmmkgqu4f8		Will John fianlly be able to start programming now ?	APPRENANT		
+tm_9rqtralzrihcfjz0		Not quite... There's still a step before poor John is allowed to program : realize the software conception of the system.	APPRENANT		
+tm_58gmruuzavhcdxzf	This step would correspond to the Software Development Process of the INCOSE standard.	"This step would correspond to the ""<b>Software Development Process</b>"" of the INCOSE standard."	APPRENANT		
+tm_6pr6d1yk5t4ry0qv		"This step will be explained during the ""Object Oriented Conception"" classes you will follow in the 8th semester of the SITA major."	APPRENANT		
+tm_hqj0coltiibx47tf		John will again have to wait for another step : realize the softaware conception of the system.	APPRENANT		
+tm_wijvfrkak2smyi9p		Marc came back from Nairobi.	APPRENANT		
+tm_gmfyg3bc06gut18i		"You will see that in more details in the ""Object Oriented Conception"" classes of the SITA major."	APPRENANT		
+tm_83klv1o240bohm76		Object Oriented Programmation is first seen in the Python class of you first year.	APPRENANT		
+tm_7mv0rxx6jeoqufkg	It is developped further in the Object Oriented Programmation of the SITA major's second year.	It is developped further in the <b>Object Oriented Programmation</b> of the SITA major's second year.	APPRENANT		
+tm_65547vjkm4qp2w29		Marc came to ask John about his localization app	APPRENANT		
+tm_daievuisfticn86e		Is John right to not spend much time on the conception, knowing that the app seems really simple ?	APPRENANT		
+tm_xatvz4xvbq1vwmd0	No, John is wrong. Especially because in this case, human-machine interactions will play a large role. The user should be involved there, and HMI conception is the object of some entire education cycles. The most important point are : Involving the users from the start, Prototype, evolve versions or jettison them until the user is satisfied. Only then, you can start the object oriented conception and programming.	"No, John is wrong.
+
+Especially because in this case, human-machine interactions will play a large role.
+
+The user should be involved there, and HMI conception is the object of some entire education cycles.
+
+The most important point are :
+
+_ Involving the users from the start;
+
+_Prototype, evolve versions or jettison them until the user is satisfied.
+
+Only then, you can start the object oriented conception and programming."	APPRENANT		
+tm_bwr50gp7r3ma9o8y	In the IENAC training, it is taught in the HMI Conception classes in the second year.	"In the IENAC training, it is taught in the ""<b>HMI Conception</b>"" classes in the second year."	APPRENANT		
+tm_7ao8xpp54c11aywt	In the INCOSE handbook, it is referenced in the 9-6 chapter : Interface management.	"In the INCOSE handbook, it is referenced in the 9-6 chapter : ""<b>Interface management</b>""."	APPRENANT		
+tm_frmxwhhvzdij290n	You're right, John is wrong. Especially because in this case, human-machine interactions will play a large role. The user should be involved there, and HMI conception is the object of some entire education cycles. The most important point are : Involving the users from the start, and Prototype, evolve versions or jettison them until the user is satisfied. Only then, you can start the object oriented conception and programming.	"You're right, John is wrong.
+
+Especially because in this case, human-machine interactions will play a large role.
+
+The user should be involved there, and HMI conception is the object of some entire education cycles.
+
+The most important point are :
+
+_ Involving the users from the start;
+
+_Prototype, evolve versions or jettison them until the user is satisfied.
+
+Only then, you can start the object oriented conception and programming."	APPRENANT		
+tm_5eym9mnlb0ulggsj		Émilie is standing in front of the drone	APPRENANT		
+tm_z4zu3rixu8vzp9si		"Émilie pushes on the gas command. The rotors start spinning.
+
+The drone starts to take off, but takes some list. Émilie tries to counter it. The drone stabilizes, resumes its ascent for three feets, then becomes unstable again. 
+
+Émilie tries a last ditch effort to save the situation, but the drone capsizes, and crashes on the ground, with one broken rotor and a smoking motor."	APPRENANT		
+tm_se8na2xk7qgkqqdp		A few minutes later, Marc comes back	APPRENANT		
+tm_o4rem6q6oqr33ueg	"What happened ? The internal function ""<b>Distribute power to all the subsystems</b>"" was only partially realized. It was forgotten about for the satabilization subsystem. So the inertial unit power connection wasn't checked, and it was never activated. With no way to know its position, the drone crashed."	"What happened ?
+
+The internal function ""<b>Distribute power to all the subsystems</b>"" was only partially realized. 
+
+It was forgotten about for the satabilization subsystem. So the inertial unit power connection wasn't checked, and it was never activated.
+
+With no way to know its position, the drone crashed."	APPRENANT		
+tm_cz3fhefe04zsxbul		"It's a really foggy day.
+
+Émilie, the drone's pilot, is trying use the video feed as the drone crosses the river.
+
+It is soon near the other bank, but Émilie can not see the landing target."	APPRENANT		
+tm_lowpkuq6b28gx0mp		"Suddenly, the drone sweeps in above their heads.
+
+Émilie tries a maneuver, but the drone is too low, crashes on the ground before overturning himself, breaking two rotors."	APPRENANT		
+tm_bv47j05lgewnh9tm		"After a short review, the problem was found : 
+
+Because they forgot to make a complete material architecture before hand, the team forgot that the FC8 function (""<b>Show the GPS position to the pilot</b>"") wasn't properly divided. 
+
+As a result, the GPS position message emission was forgotten about, and never developed. 
+
+John was only tasked with the reception of that signal, which is the only part of that system who was developed."	APPRENANT		
+tm_euis4c8ae1o1rqam		One hour later	APPRENANT		
+tm_hdotf0mswavla65s		"By overlooking the software conception step, Jacques made his program very difficult to maintain. 
+
+He should have anticipated possible changes in the algorithm, and made sure that his code was in a method of an object to make a chang more easy."	APPRENANT		
+tm_7i04b7w2yyaee3k4		Émilie and Édouard came with Marc to do some outdoor tests with the drone.	APPRENANT		
+tm_03p15ns7pl4o4wcb		"Édouard flies the drone  for a short time to get used to the commands, then hands the remote to Émilie. 
+
+She gently lands the drone on the river, and they watch it disapear as the current takes it away.
+
+Édouard takes the tablet. He tries a few manipulation, looks intrigued, tries again, and starts to look panicked..."	APPRENANT		
+tm_1mdn9rco5lvw3gne	Émilie takes the tablet, and tries to center the map around Ramatowa. After a short time navigating menus, she also doesn't find anything.	"Émilie takes the tablet, and tries to center the map around Ramatowa. 
+
+After a short time navigating menus, she also doesn't find anything."	APPRENANT		
+tm_h0yxh241ch7bijgh		Marc takes out his satellite phone and calls John.	APPRENANT		
+tm_wjxfapp9dj4eqrop		"Marc takes the tablet, and struggles a bit with the app's menus.
+
+A map with the drone's position appears at last. For now, it is 6 miles downstream, and still moving.
+
+It takes more than one hour for the team to get that drone back."	APPRENANT		
+tm_d3oyp5bzm523xmyc		"Because he forgot the HMI conception phase, John totally forgot to ask the final users.
+
+By doing that, he developped an interface considering that some complex interactions were obvious for a user, which wasn't that case. 
+
+He also invented some needs the users did not have, like the amount of different maps required.
+
+A good HMI conception would have simplified the intercation, for example by allowing the user to zoom in and out, and move on a global map"	APPRENANT		
+tm_tkv9p5q0pcwge9yg		In Hubert's office, Marc organizes an emergency meeting with Hubert and Isabelle.	APPRENANT		
+tm_rb5fwiexrsyfauto		Clic on the screen to help Marc find out what happened	APPRENANT		
+tm_9sbeifratg4ni9yt		After looking again at the logs for a short time, Marc's expression changes	APPRENANT		
+tm_tsrab0psbxmtdot7	Copying critical data to create saves on reliable supports separated from the network (like an external hard drive, a backup server,...) is an important part of any IT system security policy. It allows for a faster relaunch of activities after a cyberattack. Such saves are generally stored with ways to prove that their integrity has not been compromized, to make sure we still have usable data.	"Copying critical data to create saves on reliable supports separated from the network (like an external hard drive, a backup server,...) is an important part of any IT system security policy.
+
+It allows for a faster relaunch of activities after a cyberattack. 
+
+Such saves are generally stored with ways to prove that their integrity has not been compromized, to make sure we still have usable data."	APPRENANT		
+tm_4jegkm5q6woucbli	You will see that in the second year IT Systems Security classes.	"You will see that in the second year ""<b>IT Systems Security</b>"" classes."	APPRENANT		
+tm_5gr4v23oqvu5rddk	Copying critical data to create saves on reliable supports separated from the network (like an external hard drive, a backup server,...) is an important part of any IT system security policy. It allows for a faster relaunch of activities after a cyberattack. Such saves are generally stored with ways to prove that their integrity has not been compromized, to make sure we still have usable data. Here, the team is lucky to have created a partial save by accident, and because of it, they won't have to restart from scratch.	"Copying critical data to create saves on reliable supports separated from the network (like an external hard drive, a backup server,...) is an important part of any IT system security policy.
+
+It allows for a faster relaunch of activities after a cyberattack. 
+
+Such saves are generally stored with ways to prove that their integrity has not been compromized, to make sure we still have usable data.
+
+Here, the team is lucky to have created a partial save by accident, and because of it, they won't have to restart from scratch."	APPRENANT		
+tm_61d08wyw3lc7hamv		A few days later, a police officer came to explain their findings	APPRENANT		
+tm_v3efmgcybhbsr2ku	Cyberattacks don't always come from the outside. Quite the opposite actually. A large part of cyberattacks (some studies estimate it at 60%) is launched by employees or ancient employees of the targeted company. That's why you have to stay on your guards, even when a known coworker is sending you an email. Furthermore, the Human resources management is extremely important for cybersecurity. Companies must give a minimum of attention to the interns and other other people who might access their network. And departure management policies must be implemented. It's impertive to delete accounts that have no more reasons to exist, particularly after a retirement departure, or an employee quiting or being fired.	"Cyberattacks don't always come from the outside. 
+
+Quite the opposite actually. A large part of cyberattacks (some studies estimate it at 60%) is launched by employees or ancient employees of the targeted company. That's why you have to stay on your guards, even when a known coworker is sending you an email.
+
+Furthermore, the Human resources management is extremely important for cybersecurity. Companies must give a minimum of attention to the interns and other other people who might access their network. And departure management policies must be implemented. It's impertive to delete accounts that have no more reasons to exist, particularly after a retirement departure, or an employee quiting or being fired."	APPRENANT		
+tm_yajukrhef097dbqx		Hubert draws an interesting point. By the way, could you put the steps of a classical cyberattack back in order ?	APPRENANT		
+tm_giwos7nbayz32qpj		After a short wait, John comes in.	APPRENANT		
+tm_6skxuvanv612zcv8	E-mails and attachments are one of the most common way to introduce some mailicious programs in a company.That's why you need to be extra sure the message is legitimate before opening them. Here, the message might have been a bit weird, but John could have thought the message really contained some legitimate informations. These kind of manipulations are called Social Enginnering.	"E-mails and attachments are one of the most common way to introduce some mailicious programs in a company.That's why you need to be extra sure the message is legitimate before opening them.
+
+Here, the message might have been a bit weird, but John could have thought the message really contained some legitimate informations.
+
+These kind of manipulations are called ""<b>Social Enginnering</b>""."	APPRENANT		
+tm_i4yk9ooqv8a294yn	This is developped with more details in the Advanced Security classes of the third year of the SITA major.	"This is developped with more details in the ""<b>Advanced Security</b>"" classes of the third year of the SITA major."	APPRENANT		
+tm_3tjyd4w5ej3te0ib	No, operational validation tests for the system should be written, as soon as the requirements are fixed. This allows to check if every requirement is checkable, realist, and what is the materila we need to test them for the validation. Some testing tools might demand some time to be developped or ordered ! And the tests duration must be integrated in the previsionnal planning.	"No, operational validation tests for the system should be written, as soon as the requirements are fixed.
+
+This allows to check if every requirement is checkable, realist, and what is the materila we need to test them for the validation.
+
+Some testing tools might demand some time to be developped or ordered ! And the tests duration must be integrated in the previsionnal planning."	APPRENANT		
+tm_19lhmbjcz8043xnb	You will see these principles in the Verification and Validation classes of you second and third year.	"You will see these principles in the ""<b>Verification & Validation</b>"" classes of you second and third year."	APPRENANT		
+tm_87a9sqa969b857hh	These methods are described in the INCOSE handbook, in the Verification Process.	"These methods are described in the INCOSE handbook, in the ""<b>Verification Process</b>""."	APPRENANT		
+tm_7964isxfzhp5009o		Do you want to follow Mathilde's advice ?	APPRENANT		
+tm_27d78o6f6oqnn3t7	Indeed, operational validation tests for the system should be written, as soon as the requirements are fixed. This allows to check if every requirement is checkable, realist, and what is the materila we need to test them for the validation. Some testing tools might demand some time to be developped or ordered ! And the tests duration must be integrated in the previsionnal planning.	"Indeed, operational validation tests for the system should be written, as soon as the requirements are fixed.
+
+This allows to check if every requirement is checkable, realist, and what is the materila we need to test them for the validation.
+
+Some testing tools might demand some time to be developped or ordered ! And the tests duration must be integrated in the previsionnal planning."	APPRENANT		
+tm_tvbq9l5tr2069wmn		"Émilie presses on the power command, and the drone slowly takes off.
+
+Suddenly, a small gust of wind hits the drone. It gets shaken, and slowly recovers his trajectory, but starts to rock back and forth, with an increasingly varying pitch. It finally crashes on the ground, with a broken rotor and a burnt motor."	APPRENANT		
+tm_gusciykerkrko026		"Doing individual component tests and integration tests before on site operationnal tests are very important, because they make it possible to catch most technical issues if the tests approach realistically the operationnal reality.
+
+For the drone, it might be a good idea to test the flight capabilities in a hangar to see how it reacts to small perturbations, and check for conception or development errors and fien tune the parameters a bit better."	APPRENANT		
+tm_bktxnw4l1mzwcnvt	The scrum method is taught in the Project Management classes, in the second year of the IENAC training.	"The ""<b>SCRUM</b>"" method is taught in the ""<b>Project Management</b>"" classes, in the second year of the IENAC training."	APPRENANT		
+tm_a6lnblu9z3rpjsw9		That method is described in the chapter X of the INCOSE handbook.	APPRENANT		
+tm_vfuo6un9548thzbn	"The SCRUM method translates the expected functions of the system in small stories to realize. They are written with a precise formalism. For example : ""As a pilot, I wish to act on the motor's power to make the drone take off"". They are called User Stories because they always imply one and only one specified user. In this case, we have the pilot's User Stories, those of the guy in charge ofthe medicines, ..."	"The <b>SCRUM</b> method translates the expected functions of the system in small stories to realize.
+
+They are written with a precise formalism. For example : ""As a pilot, I wish to act on the motor's power to make the drone take off"".
+
+They are called ""<b>User Stories</b>"", because they always imply one and only one specified user.
+
+In this case, we have the pilot's User Stories, those of the guy in charge ofthe medicines, ..."	APPRENANT		
+tm_pxkx7we3t95hnj4n	Despite some prejudices, agile development isn't an empiric method where the budget and sprint durations moves freely with the needs and events. The only true adjustment variable in this method is the number of user stories in each sprint.	"Despite some prejudices, agile development isn't an empiric method where the budget and sprint durations moves freely with the needs and events.
+
+The only true adjustment variable in this method is the number of user stories in each sprint."	APPRENANT		
+tm_dbtymstob7viooic	All the people from Bamalowi are gathered near the river. A delegation from Ramatowa, including Nurumbé, is also present. Émilie is a bit moved. The drone is ready to take off. Bruno attached the medicine payload underneath the drone, and Hubert just asked for silence.	"All the people from Bamalowi are gathered near the river. A delegation from Ramatowa, including Nurumbé, is also present.
+
+Émilie is a bit moved. The drone is ready to take off.
+
+Bruno attached the medicine payload underneath the drone, and Hubert just asked for silence."	APPRENANT		
+tm_esv6inkaculn2yup	Émilie takes the remote, and presses a few buttons. The rotors start spinning and whizzing. The drone takes off slowly and starts crossing the river. Everything is running smoothly. Suddenly, a gust of wind pushes the drone, who starts to roll to starboard. Everyone looks the scene anxiously. But the drone automatically rights itself, and continues its navigation. The crowd lets ou a sigh of relief. Émilie lands the drone at 3 yards from the target with the camera fixed in front of the drone. Everyone applauds her. Then comes Édoaurd's turn. A new payload is fixed. Édoaurd presses the commands, and the drone takes off fast. His piloting is less smooth than Émilie's, and the drone flies in a slight zig-zag pattern. He finally reaches the shore. Everyone also apploads him. The payload the drone brought back is unveiled : four pretty necklaces. Hubert takes them and starts speaking again :	"Émilie takes the remote, and presses a few buttons. The rotors start spinning and whizzing. The drone takes off slowly and starts crossing the river.
+
+Everything is running smoothly. Suddenly, a gust of wind pushes the drone, who starts to roll to starboard. Everyone looks the scene anxiously. But the drone automatically rights itself, and continues its navigation. The crowd lets ou a sigh of relief.
+
+Émilie lands the drone at 3 yards from the target with the camera fixed in front of the drone. Everyone applauds her.
+
+Then comes Édoaurd's turn. A new payload is fixed. Édoaurd presses the commands, and the drone takes off fast. His piloting is less smooth than Émilie's, and the drone flies in a slight zig-zag pattern. He finally reaches the shore. Everyone also apploads him. 
+
+The payload the drone brought back is unveiled : four pretty necklaces. Hubert takes them and starts speaking again :"	APPRENANT		
+tm_qzfbnxdas09u0777		Hubert put a necklace around the necks of each team member, as the crowd applauds again.	APPRENANT		
+tm_1pjoz7tjq3pndln4	Hubert's speech perfectly shows what to do after a project : A festive event, where every partaker is invited, and a positive evaluation of the job done is made, with an emphasis on what went right and some mentions of what could be improved. The goal is to thank the project's team. The conclusion phase of a project is often rushed through, which could create frictions and frustrations. It could even deter the partaker from taking part in future projects. It should not be overlooked. It is moreover the occasion for a company to capitalize on the knowledge and the lessons they learned in a dediacted document.	"Hubert's speech perfectly shows what to do after a project :
+
+A festive event, where every partaker is invited, and a positive evaluation of the job done is made, with an emphasis on what went right and some mentions of what could be improved. The goal is to thank the project's team.
+
+The conclusion phase of a project is often rushed through, which could create frictions and frustrations. It could even deter the partaker from taking part in future projects. It should not be overlooked.
+
+It is moreover the occasion for a company to capitalize on the knowledge and the lessons they learned in a dediacted document."	APPRENANT		
+tm_nx3z5k11rpl26pu9	There it is, you finished the game. You just have to come aboard in this fabulous adventure of aeronautics engineering, which will allow you to conceive, develop, and maintain our futur navigation systems in a reliable, durable and responsible way. Good luck !	"There it is, you finished the game. 
+
+You just have to come aboard in this fabulous adventure of aeronautics engineering, which will allow you to conceive, develop, and maintain our futur navigation systems in a reliable, durable and responsible way.
+
+Good luck !"	APPRENANT		
+					

@@ -1,0 +1,25 @@
+﻿FORMAT:REFORMULATION					
+[TEXT ID]	[TEXTE PRONONCÉ (ENGLISH)]	[TEXTE AFFICHÉ]	[PERSONNAGE]	[NOTES]	
+tm_6eirwit5rantaayv		Yes Isabelle. As you said.	Gérard		
+tm_zb0clpcx9djsb089		And if you stayed an hour more once every two months, it'll be perfect.	Gérard		
+tm_qad7765oy3mbrfoi		Also, your idea gave me a new one.	Gérard		
+tm_efekxxjn0p33rusp		We could maybe use the system to trade with Ramatowa. They have spices that we can't grow here, and in exchange, we could send them some sandals or leather belts that we make here.	Gérard		
+tm_v3fzei8o1eshnpxb		Could the drones carry this ?	Gérard		
+tm_24j3y7xz1915iq3f		And why not use our solar panels ?	Gérard		
+tm_87bz72u1lsvjq373		We could maybe charge them on our car battery charger ?	Gérard		
+tm_cxkvv2xf0tcajx9r		And while you're at it, it would be great if my nephew Edouard could pilot one.	Gérard		
+tm_tmse58nry6a07fno		 He's passionated about drones, and he is a bit of a local celebrity.	Gérard		
+tm_p32umc6y6uszpu1h		He bought a little quadcopter that he uses to gather the animals.	Gérard		
+tm_3uhv02z37ptacul4		But of course, it's probably much smaller that the ones you're going to build.	Gérard		
+tm_hjqz51xvu0hjtxl1		And maybe give him a handbook ?	Gérard		
+tm_avjy3gzat3uioxak		So that he could read it before going to the training.	Gérard		
+tm_y73ftscu4jq4agdx		Let's check the river to see where we could use your drones to exchange ?	Gérard		
+tm_3a1xzpt3vkbexohx		Here is the perfect spot. The river is a bit narrower than everywhere else, and there's already a pontoon to land your drone on the other side.	Gérard		
+tm_n4ny93aaoyf2aixs		Nature is wild here.	Gérard		
+tm_lukusdpx8r9tp7k4		Sometimes, we can't even see the other bank because it gets quite foggy here.	Gérard		
+tm_ulpbfv2fku7ra2ck		And that fog is almost unpredictable.	Gérard		
+tm_yhr643wq29po8yr0			Gérard		
+tm_tvz3s8xlllutedth		Well, it would be better to avoid these days, because it'll surely be more difficult.	Gérard		
+tm_jpmroxspxmx31ylg		In that case, you'd better find a solution to know where your drone is, and to make it land on the other side. The Eastern bank is half a mile away.	Gérard		
+tm_xive1shji76e25xo		Your drone is going to get expensive !	Gérard		
+					

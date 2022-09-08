@@ -1,0 +1,14 @@
+﻿FORMAT:REFORMULATION					
+[TEXT ID]	[TEXTE PRONONCÉ (ENGLISH)]	[TEXTE AFFICHÉ]	[PERSONNAGE]	[NOTES]	
+tm_j3grup48xj9j0rj5		This part is a pain. And the path is horrible with a lot of potholes !	Bruno		
+tm_fsqagkx9q2gut36n		Oh, the idea must be quite good !	Bruno		
+tm_mpi9oyir1m8z5lie		Ah, I start to believe a bit more in your project !	Bruno		
+tm_avi9xiazdre7j99y		Well, I think a 20 inch square box could fit in there.	Bruno		
+tm_5b0e5syvenah5wx0		What do you think you guys ?	Bruno		
+tm_wzpcsn2u4n5mmrx2		Well, the transport problem is solved, but who's going to pilot them ?	Bruno		
+tm_4wrngjklij39vyva		I don't know anything about these things !	Bruno		
+tm_h975vgkx58oyras1		So, it looks like we're saved.	Bruno		
+tm_5ynrsmpnkzn7uy2k		A training ?	Bruno		
+tm_vv1dzr0me4xv78jf		But I don't want no training !	Bruno		
+tm_n6r4ampxd95l6360		I'll be able to sort it out myself.	Bruno		
+					

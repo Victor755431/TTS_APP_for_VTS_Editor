@@ -1,0 +1,37 @@
+﻿FORMAT:REFORMULATION					
+[TEXT ID]	[TEXTE PRONONCÉ (ENGLISH)]	[TEXTE AFFICHÉ]	[PERSONNAGE]	[NOTES]	
+tm_9pnc221gjb9o2o8o		The sun is shining, all is fine.	Nurumbé		
+tm_2lx4z9wivwybpqva		Our crops are growing, the harvest will be good this year.	Nurumbé		
+tm_9hgx4fj62vcvbl8w		What's bringing you in our village ?	Nurumbé		
+tm_x8uqg3ijtkkb1d1e		It's rare to see you outside of the resupply runs !	Nurumbé		
+tm_yrfz4ie9p7i5vg9l		Why would you do that ?	Nurumbé		
+tm_yx32w93imzl0y169		Things are fine now.	Nurumbé		
+tm_idypw0pqgtbu2nx5		We get our medicines every first monday each month, and they treat most diseases we have.	Nurumbé		
+tm_px3y5vd0fmf70xro		Yes, I know it's a long way around the river.	Nurumbé		
+tm_fl8ptmkioe2y6gu5		But how do you want to cross ?	Nurumbé		
+tm_zioql8gxyx5mi0nb		Here the rapids are very fast, you know it's impossible to cross with a small boat !	Nurumbé		
+tm_y537sudchk2ccgf8		Drones ? Here ?	Nurumbé		
+tm_9f5lk1e5ma7fmxl0		I get that for you, it makes the journey a lot easier.	Nurumbé		
+tm_y1pni9oel1qwc1x0		And the track to our village is uneasy.	Nurumbé		
+tm_1uf2amm1k0ael5u3		But for us, there isn't much interest !	Nurumbé		
+tm_2i74jp5varhrpt5l		Except for the children who will love it.	Nurumbé		
+tm_b4elbmbh20mcnzv5		Don't forget that we always await you each month.	Nurumbé		
+tm_vdtgu921un09tevh		You bring some fresh air in our everyday lives, you give us fresh news from the capital, you chat with the children and the elderly to see if they're fine.	Nurumbé		
+tm_dzlsb2qv9nvvdgxw		All of that would be gone !	Nurumbé		
+tm_yy25xudkvgzx1gsh		On the other hand, as time goes on, you always stop for a shorter time. Last time, Jacques was in a hurry, and the team only stayed an hour !	Nurumbé		
+tm_qfr4m754xtfjl72b		Yes, each time there's a good excuse.	Nurumbé		
+tm_x6lkhzyj0wd6dg5d		Enough, it doesn't matter anymore as you won't even come to see us !	Nurumbé		
+tm_570bf7k056m80hfj		Why couldn't you switch ?	Nurumbé		
+tm_ldppq378zg4zy9ao		You could take the Pituru bridge downstream and come visit us ?	Nurumbé		
+tm_41nt6tg5v4ymvgi6		You could even fly your drones from here !	Nurumbé		
+tm_dei5nlcu1y5ymm31		Yes, that would be better.	Nurumbé		
+tm_zpgvpdbo2gxorra4		But tell me, what are you really trying to do here ?	Nurumbé		
+tm_xh86fil1nse62hgn		Gain some time, or avoid getting too tired by reducing driving times ?	Nurumbé		
+tm_lj3eaj4889z6hc3h		Well, if time isn't the issue, why not also stay a bit longer each time you go ?	Nurumbé		
+tm_41vfxo44nqndo6jf		If you stayed here for three hours, the inhabitants would see a real improvement !	Nurumbé		
+tm_1jqnjmsh0df9j23r		They would be able to discuss a bit more about their health issues.	Nurumbé		
+tm_5buwlxzgxmezrhjj		Ah, I see the travel sharpened your appetite.	Nurumbé		
+tm_jk1zk2pcm4df0415		Don't worry.	Nurumbé		
+tm_uu541ndjnrbyup0k		As soon as I learned you'd come, I cooked you a nice spicy meal.	Nurumbé		
+tm_stp1hvt5qm1t4z6d		Let's go eat then !	Nurumbé		
+					

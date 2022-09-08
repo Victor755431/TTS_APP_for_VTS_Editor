@@ -1,0 +1,1681 @@
+﻿FORMAT:REFORMULATION					
+[TEXT ID]	[TEXTE PRONONCÉ (ENGLISH)]	[TEXTE AFFICHÉ]	[PERSONNAGE]	[NOTES]	
+tm_8pshh05x7awu6vbx	For a few years, the Red Cross has been organising some trips to first aid stations in the region of Nairobi to bring some medicine. These trips can be hazardous, especially near the village of Ramatowa who is often at war with the neighboring village of Pazimanga.	"For a few years, the Red Cross has been organising some trips to first aid stations in the region of Nairobi to bring some medicine.
+These trips can be hazardous, especially near the village of Ramatowa who is often at war with the neighboring village of Pazimanga."	APPRENANT		
+tm_h8nmxqv19ldt9w6x		And that particular village is on the other side of the river from the preceding first aid station (Bamalowi). The Red Cross's truck need to drive up the river to the next bridge which is 19 miles North, and go down the river to Ramatowa. Once the drugs are distributed, the truck comes back to the bridge 30km to the North, and continues his journey West.	APPRENANT		
+tm_bvbli8psn9emqnwh		This year, the local director of the Red Cross, Hubert Gramont, is asking himself how to optimize this journey, looking to reduce aggression risks and to avoid this long way around the river. The solution he retained would be to use a few drones able to lift one or two kilos and go accross the river with drugs. The members of the Ramatowa center could go pick up the medicines on the other side. He wants to put Isabelle Boucicaut on charge of the project, as she knows well the topology of the place and the inhabitants of every village, and she has the largest experience on the conduct of humanitarian projects.	APPRENANT		
+tm_r08tnwhvh7zdyrc1		Hi Isabelle ! Come have a seat.	Hubert		
+tm_8gre4kvtx68uyvr8		I asked you to come here to put you in charge of a mission.	Hubert		
+tm_0iz9d386lwju25kg	You know, that little village of Ramatowa, who forces us to make a 36 miles detour, because it is on the other side of the Bamalowi river ?	You know, that little village of Ramatowa who forces us to make a 36 miles detour because it is right accross Bamalowi's river ?	Hubert		
+tm_m1rovwlvkvfru350		Oh yes, I see.	Isabelle		
+tm_1ggmq07a0j9me108		It's a shame there's no bridge closer !	Isabelle		
+tm_ihhkffd5knflmlbm			Isabelle		
+tm_kw8v6qxjamy8iz92		Listen. I thought about it, and I think we could make the situation better.	Hubert		
+tm_uxo40zqarf2qr40h	We just need one or two powerful enough drones, that could carry the medicines accross the river to Ramatowa.	We just need one or two powerful enough drones that could carry the medicines accross the river to Ramatowa.	Hubert		
+tm_hcflw54q7u0t65f5		The guys from the station pick them on the other side, and that's it !	Hubert		
+tm_vwg897irypadwy8r		Do you imagine the economy of fuel and time ?	Hubert		
+tm_jm7kyh5hdal998kk		Yes, the idea is interesting. But maybe, we should study a bit more closely the costs, and hoped benefits of such an operation ?	Isabelle		
+tm_y14j0y25cadef2hb	But Isabelle, the economy is evident ! The truck takes two hours to drive the 36 miles, because the road is really horrendous.	But Isabelle, the economy is evident ! The truck takes two hours to drive the 36 miles because the road is really horrendous.	Hubert		
+tm_263scxnxazg6jev7		Moreover, it burns 4 gallons of fuel to drive that distance.	Hubert		
+tm_4m5nlebk7yho4xqc		We do this trip 12 times a year.	Hubert		
+tm_wjb7ihwj75622sc5		This avoids us 24 hours of travel and would spare 48 gallons each year. 48 gallons is not negligeable, and this would mean at least 2 000 € spared each year.	Hubert		
+tm_nr1uvt4od3eei3br		If we build 2 drones for less than 2000€ each, we will break even in 2 years.	Hubert		
+tm_ji6toe2v231n6are		Yeah, you're probably right.	Isabelle		
+tm_bty7ecxt7x6nh44d		According to you, are Hubert's points sufficients ? Is Isabelle wrong for arguing there ?	APPRENANT		
+tm_4tcdn1xw7otjl43c	In every project, a cost/benefit study needs to be seriously made. Even if the direct benefits seem obvious at first glance, we need to evaluate precisely the costs and benefits, study the realisation strategies and the drawbacks. And never forget that benefits and drawbacks aren't always linked to money. They need to be linked with the company's strategy.	"In every project, a cost/benefit study needs to be seriously made.
+
+Even if the direct benefits seem obvious at first glance, we need to evaluate precisely the costs and benefits, study the realisation strategies and the drawbacks. And never forget that benefits and drawbacks aren't always linked to money. They need to be linked with the company's strategy."	APPRENANT		
+tm_6hugeluxlg0tfktv	All of that is explained in the Project Management classes you will follow in your first and second year.	All of that is explained in the <b>Project Management</b> classes you will follow in your first and second year.	APPRENANT		
+tm_xvw2hvo8054mp24z		Allow me to insist. I'll look more closely at your idea.	Isabelle		
+tm_v86f0hfe3pdzbb4e		OK Isabelle, I recognize you were right. Let's meet in 2 days to talk about it ?	Hubert		
+tm_nj0q5y8oxpzpl2m7		This could work. Let's say Wednesday, after the team briefing ?	Isabelle		
+tm_56g57kv2764gvqbk		That alright for me. Have a nice day !	Hubert		
+tm_21wqgd00wt4ntbza		Have a nice day too !	Isabelle		
+tm_cl1p6mj12o9tvp7y	In every project, a cost/benefit study needs to be seriously made. Even if the direct benefits seem obvious at first glance, we need to evaluate precisely the costs and benefits, study the realisation strategies and the drawbacks. And never forget that benefits and drawbacks aren't always linked to money. They need to be linked with the company's strategy.	"In every project, a cost/benefit study needs to be seriously made.
+
+Even if the direct benefits seem obvious at first glance, we need to evaluate precisely the costs and benefits, study the realisation strategies and the drawbacks. And never forget that benefits and drawbacks aren't always linked to money. They need to be linked with the company's strategy."	APPRENANT		
+tm_5d2jgott7qo4nvjf		I thougt about your idea.	Isabelle		
+tm_hb49xuxp2jmllz59		And I have a better idea of what we could hope to achieve.	Isabelle		
+tm_bdxwdpi9oz3ce2d2		In the costs, you seem to have forgotten about the batteries to charge and the time it will take to go accross the river with 16lbs of medicines.	Isabelle		
+tm_i5khbj6vkl61300d		If every drone can carry 4lbs, you'll need to send them twice. So it will still take around 20 minutes, mostly to load and unload them.	Isabelle		
+tm_m44kqc5ivyx1i1j3		So the benefit in time and cost will be less important.	Isabelle		
+tm_8mn7jnhl813mfhiy		You're right, I didn't think about all of that.	Hubert		
+tm_0wp4l82kultm4ct2		Do you estimate the project is still relevant ?	Hubert		
+tm_j9zdghbl5w76sv00		Yes, but the development costs will probably be a bit higher, because we want to build our own drones to be able to repair them easily, and as rarely as possible.	Isabelle		
+tm_os94gwg1zloi1ulm		And we will probably need a spare drone. We will also have to train the guys who do the runs.	Isabelle		
+tm_v9s9w6uazy90f9e1		In a nutshell, I think we need to reevaluate the budget to at least 4 000 €, as indicated in the documents I printed you.	Isabelle		
+tm_5dom4v1gom162o7w		So don't expect a break-even before five or six years.	Isabelle		
+tm_w3r4tvl9b4rzu64k		Anyway, the financial benefit shouldn't be our priority.	Isabelle		
+tm_vx19wlzbis9ppy09		On the other hand, a benefit we didn't talk about, and seems important to me because it's linked to our values is the welfare of our personnel.	Isabelle		
+tm_b6ze0c3qq3omo6z0		This journey is very tiring, and every time everyone comes back exhausted.	Isabelle		
+tm_be90wkgvch92cmgl		If we could avoid 2 hours of poor track, this would be an important benefit !	Isabelle		
+tm_ltrrj9n1ggrfp7av		And there's the ecological aspect too : burning less fossil fuels is one of our engagements.	Isabelle		
+tm_x55ewcgg9frwtd6l		Here, Isabelle took the time to study the benefits and costs linked to the strategic goals of the association !	APPRENANT		
+tm_a7dwlwn7m1iksffr		I see you thought about every aspect. With these selling points, I'm OK for a 4000€ budget.	Hubert		
+tm_ktgy3s250vnzwjme		So let's go ! You have six months, motivating isn't it ?	Hubert		
+tm_7n0uuz3giqy28m05		Can the project start like that ? Do we have enough data to go ahead ?	APPRENANT		
+tm_nxdbb9gss1cqojcd	We have to go through a new go/no-go step to get more precise border, some clear objectives and success criteria, consult all involved parties, define constraints and major risks, and to getan initial planification who identifies the expected deliverables, and the required activities to  produce them. For each activity, we also need to identify the required human resources and their availability. We also need to think about material resources associated with each activity. In a nutshell, we need a heap of elements to determine if the project is really doable, and to guarantee a success if it's the case.	"We have to go through a new go/no-go step to get more precise borders, some clear objectives and success criteria, consulting all involved parties, defined constraints and major risks, and an initial planification who identifies the expected deliverables, and the required activities to  produce them.
+
+For each activity, we also need to identify the required human resources and their availability.
+
+We also need to think about material resources associated with each activity. In a nutshell, we need a heap of elements to determine if the project is really doable, and to guarantee a success if it's the case."	APPRENANT		
+tm_55fco564okz8eru7	These aspects will be developed in the Project Management class of your first year.	These aspects will be developed in the <b>Project Management</b> class of your first year.	APPRENANT		
+tm_jdeyvdtc1jczpd7y		Sorry to curb your enthousiasm Hubert, I have a job to do.	Isabelle		
+tm_kray55a7gryuiyio		Before starting, I also have a mission and a journey to Pali Wani to plan.	Isabelle		
+tm_4qd1eooy4wd5m7rq		No problem, I'll send Magali instead. The drone project is a lot more urgent to me.	Hubert		
+tm_dy3lh5o9nty0epg1		OK, but before starting, I'll have to make a more precise planification for the project, with clear goals and limits.	Isabelle		
+tm_01i5cc9v5da0bixa		Then, you could decide if we go forward or not.	Isabelle		
+tm_xvysfzrnjww3mwzf		And in the case we proceed forward, you'll need to name me responsible for that project so that everyone understands more clearly what's my role.	Isabelle		
+tm_u2tjdvwu0ttn3g87		Moreover, I'd like to ask our system's engineer Marc Aurile to participate as soon as possible so that he could help me in the planification of the project.	Isabelle		
+tm_enxxtudgz48fy73n		How many demands do you have ?	Hubert		
+tm_tt75npzegug6oe39		Don't you also want an office with a coffee machine ?	Hubert		
+tm_h0zvz2snesdz3v4l		I was thinking about it, but Marc Aurile will do just fine.	Isabelle		
+tm_wqjnpbnsjk2mvr8l		OK, OK, fine. I'll tell him to come help you tomorrow morning.	Hubert		
+tm_0hqrwnjzczzg7xmo		How much time do you need  to run this initial planifiaction phase ?	Hubert		
+tm_1vsls6at6luvzkw2		Three weeks.	Isabelle		
+tm_bnz16x3ntowonzo7		Three weeks ? That's way too much !	Hubert		
+tm_c7eu8vse2e1ekwfg		Hubert's reaction seems justified : three weeks to produce some paperwork, is it really necessary ?	APPRENANT		
+tm_igybkphf79jvvciy	The initial planification phase is often overlooked. It is nevertheless essential. It can make you win a lot of time down the road. It allows you to aim for some reachable objectives, to identify clearly what's every person's role, and their level of involvement about the project. It also identifies the difficult parts early on, and the major risks too. Involving an engineer very early is also necessary, because he will be the one giving the best estimations on what is doable or not, and on the time necessary to realize the technical parts.	"The initial planification phase is often overlooked. It is nevertheless essential.
+
+It can make you win a lot of time down the road. It allows you to aim for some reachable objectives, to identify clearly what's every person's role, and their level of involvement about the project. 
+
+It also identifies the difficult parts early on, and the major risks too. Involving an engineer very early is also necessary, because he will be the one giving the best estimations on what is doable or not, and on the time necessary to realize the technical parts."	APPRENANT		
+tm_0dv8facxttk5468p		Yes, I really need that much time. I'm not an expert in drones, and Marc will have to  invest himself there.	Isabelle		
+tm_b70gjg8rplobpdzq		And what will we include in this project ? Should we train two or three pilots ? Should the drones really carry every type of drugs ? I should also study the major risks linked to our project. What could prevent us from meeting the deadlines ?	Isabelle		
+tm_6lns5mmiv10jluep		From staying in the allotted budget ? What could impact the quality of the service we try to put in place ?	Isabelle		
+tm_348tsqtyururqyg5	There Isabelle makes the magic triangle of the project management appear : costs, quality, delays. A project manager always juggles with these three variables. If they change one of them, it generally impacts one or the other of these variables. For example,  reducing the delays could impact the quality of service and the cost. We could for exemple pay more to have everyone working at the same time to finish earlier...	"There Isabelle makes the magic triangle of the project management appear : 
+* <b>costs</b>
+* <b>quality</b>
+* <b>delays</b>
+
+A project manager always juggles with these three variables. If they change one of them, it generally impacts one or the other of these variables. 
+
+For example,  reducing the delays could impact the quality of service and the cost. We could for exemple pay more to have everyone working at the same time to finish earlier..."	APPRENANT		
+tm_tkprvv6ce8tx0kcq		I maintain that. You think I'm losing some time, but you'll see that it'll pay off on the long run.	Isabelle		
+tm_7xxwsq8itm9yd04b		Very well. I trust you !	Hubert		
+tm_e5kzts11lnmdvrlr	The initial planification phase is often overlooked. It is nevertheless essential. It can make you win a lot of time down the road. It allows you to aim for some reachable objectives, to identify clearly what's every person's role, and their level of involvement about the project. It also identifies the difficult parts early on, and the major risks too. Involving an engineer very early is also necessary, because he will be the one giving the best estimations on what is doable or not, and on the time necessary to realize the technical parts.	"The initial planification phase is often overlooked. It is nevertheless essential.
+
+It can make you win a lot of time down the road. It allows you to aim for some reachable objectives, to identify clearly what's every person's role, and their level of involvement about the project. 
+
+It also identifies the difficult parts early on, and the major risks too. Involving an engineer very early is also necessary, because he will be the one giving the best estimations on what is doable or not, and on the time necessary to realize the technical parts."	APPRENANT		
+tm_a99thttyaweswz8e	We have to go through a new go/no-go step to get more precise border, some clear objectives and success criteria, consult all involved parties, define constraints and major risks, and to getan initial planification who identifies the expected deliverables, and the required activities to  produce them. For each activity, we also need to identify the required human resources and their availability. We also need to think about material resources associated with each activity. In a nutshell, we need a heap of elements to determine if the project is really doable, and to guarantee a success if it's the case.	"We have to go through a new go/no-go step to get more precise borders, some clear objectives and success criteria, consult all involved parties, define constraints and major risks, and an initial planification who identifies the expected deliverables, and the required activities to  produce them.
+
+For each activity, we also need to identify the required human resources and their availability.
+
+We also need to think about material resources associated with each activity. In a nutshell, we need a heap of elements to determine if the project is really doable, and to guarantee a success if it's the case."	APPRENANT		
+tm_ntn313vkgcfgwzzy		Can the project start like that ? Do we have enough data to go ahead ?	APPRENANT		
+tm_0s5iwqabgr0bfsew	We have to go through a new go/no-go step to get more precise border, some clear objectives and success criteria, consult all involved parties, define constraints and major risks, and to getan initial planification who identifies the expected deliverables, and the required activities to  produce them. For each activity, we also need to identify the required human resources and their availability. We also need to think about material resources associated with each activity. In a nutshell, we need a heap of elements to determine if the project is really doable, and to guarantee a success if it's the case. This aspects will be developed in the project management class of your first year.	"We have to go through a new go/no-go step to get more precise borders, some clear objectives and success criteria, consulting all involved parties, defined constraints and major risks, and an initial planification who identifies the expected deliverables, and the required activities to  produce them.
+
+For each activity, we also need to identify the required human resources and their availability.
+
+We also need to think about material resources associated with each activity. In a nutshell, we need a heap of elements to determine if the project is really doable, and to guarantee a success if it's the case.
+
+This aspects will be developed in the <b>Project Management</b> class of your first year."	APPRENANT		
+tm_accx1v43eg8e44im	We have to go through a new go/no-go step to get more precise border, some clear objectives and success criteria, consult all involved parties, define constraints and major risks, and to getan initial planification who identifies the expected deliverables, and the required activities to  produce them. For each activity, we also need to identify the required human resources and their availability. We also need to think about material resources associated with each activity. In a nutshell, we need a heap of elements to determine if the project is really doable, and to guarantee a success if it's the case. This aspects will be developed in the project management class of your first year.	"We have to go through a new go/no-go step to get more precise borders, some clear objectives and success criteria, consult all involved parties, define constraints and major risks, and an initial planification who identifies the expected deliverables, and the required activities to  produce them.
+
+For each activity, we also need to identify the required human resources and their availability.
+
+We also need to think about material resources associated with each activity. In a nutshell, we need a heap of elements to determine if the project is really doable, and to guarantee a success if it's the case.
+
+This aspects will be developed in the <b>Project Management</b> class of your first year."	APPRENANT		
+tm_1syz3og4grjf2x7w		Oh, hi Marc ! Hubert probably talked to you about the drone project to carry the drugs from Bamalowi to Ramatowa ?	Isabelle		
+tm_ey24jrbkfsv7oge8		Yes, it's a very original idea. It doesn't surprise me from Hubert.	Marc		
+tm_surarrnstpkhn88z		He is always trying to find ideas to better the way we do our runs.	Marc		
+tm_fwu18m465kz3z8ck		But that time, it sure is original !	Marc		
+tm_0idu5l5uge9hsct8		Yes, I agree, but I think it's achievable.	Isabelle		
+tm_m8qdmxaf610hbokv		What do you think about it ?	Isabelle		
+tm_uhou15z01gb7zfov		Yes, we can do everything if we have the means.	Marc		
+tm_2nhzrhsvzhuzngcu		And if we apply the right engineering principles to build that new system !	Marc		
+tm_796ctu3zzecl35k6		And for that part, I'm counting on you ! And I suggest we share the starting activities on the specifications.	Isabelle		
+tm_zet6h68og6v7cx9l		Is this compatible with your workload, and are you motivated by that project ?	Isabelle		
+tm_l8pqm704g432syax	As a good team manager, Isabelle is making sure of two things : the availability and the motivation of her team. As for qualification, she already knows that Marc is the best engineer in the association.	"As a good team manager, Isabelle is making sure of two things :
+* the <b>Availability</b> and
+* the <b>Motivation</b> of her team.
+
+As for qualification, she already knows that Marc is the best engineer in the association."	APPRENANT		
+tm_j1jzaowvjr5xq3eh		I'm not available this week.	Marc		
+tm_xlycpf1042ddtn9u		But I have three free days next week.	Marc		
+tm_siyqvsiksvpefvbs		And yes, I'm eager to participate in the development of a drone to serve the people !	Marc		
+tm_lphgkth2zjsjz65l		Great, in this case, I'm suggesting you start the function analysis to define the main functions, and anticipate the biggest technical problems and what will cost the most.	Isabelle		
+tm_qq2sulp0txy8s14w		On my side, I'll try to see what the need is, and ask the other involved parties : the guys in the villages and the guys who do the run.	Isabelle		
+tm_aeqg4g6vd5uaan7b		The date is April 27th.	Isabelle		
+tm_no3yu1ix2mzb8lgc		Why not we see each other monday May 10th morning in my office at 9 ?	Isabelle		
+tm_globk1kfojzh73z6		Monday morning, I have a team reunion.	Marc		
+tm_yaflwo7bqtuxal5c		But I'm OK for the afternoon.	Marc		
+tm_5u4e8rdig367ysyp		What about 2PM ?	Isabelle		
+tm_y7miusnjd698ite5		OK for me !	Marc		
+tm_medlm5vl4kg1znyo		Thanks Marc ! Have a nice day !	Isabelle		
+tm_v4qaylbohlht85ii		Thank you, have a good day too !	Marc		
+tm_yk3uwcjjczjgg52e		Does Marc have enough information to define all the technicall requirements of the system ?	APPRENANT		
+tm_fjr83vf4s4m6rs7i	A functionnal analysis isn't sufficient to build a complete set of requirements. For that, it's necessary to complete it by an analysis centered around the users who will ask some other functions an engineer maybe wouldn't think about during his analysis.	"A functionnal analysis isn't sufficient to build a complete set of requirements. 
+
+For that, it's necessary to complete it by an analysis centered around the users who will ask some other functions an engineer maybe wouldn't think about during his analysis."	APPRENANT		
+tm_f7iskbxx6ko9gto1	This way of elaborating a specification sheet is studied in detail in the Requirements Engineering class of your first year.	This way of elaborating a specification sheet is studied in detail in the <b>Requirements Engineering</b> class of your first year.	APPRENANT		
+tm_tmdhtxwsrmotqqzv	A functionnal analysis isn't sufficient to build a complete set of requirements. For that, it's necessary to complete it by an analysis centered around the users who will ask some other functions an engineer maybe wouldn't think about during his analysis.	"A functionnal analysis isn't sufficient to build a complete set of requirements. 
+
+For that, it's necessary to complete it by an analysis centered around the users who will ask some other functions an engineer maybe wouldn't think about during his analysis."	APPRENANT		
+tm_1yely4z56511i9lv		Hi Nurumbé ! How are you ?	Isabelle		
+tm_9pnc221gjb9o2o8o		The sun is shining, all is fine.	Nurumbé		
+tm_2lx4z9wivwybpqva		Our crops are growing, the harvest will be good this year.	Nurumbé		
+tm_41vq0dyuk68uynqc		I'm delighted to hear that.	Isabelle		
+tm_9hgx4fj62vcvbl8w		What's bringing you in our village ?	Nurumbé		
+tm_x8uqg3ijtkkb1d1e		It's rare to see you outside of the resupply runs !	Nurumbé		
+tm_jodzt98a11jlr3jl		That's quite true.	Isabelle		
+tm_9ktzrkb82jpwlorg		I'm here to discuss another way of making these journeys.	Isabelle		
+tm_yrfz4ie9p7i5vg9l		Why would you do that ?	Nurumbé		
+tm_yx32w93imzl0y169		Things are fine now.	Nurumbé		
+tm_idypw0pqgtbu2nx5		We get our medicines every first monday each month, and they treat most diseases we have.	Nurumbé		
+tm_cisvcrnz09p5uqt1		Yes, and that will go on.	Isabelle		
+tm_75b77vodcuvryiw3		I wanted to discuss the way we deliver them.	Isabelle		
+tm_fcnem5h8axx1ao93		You know, each time, we're forced to go upstream from Bamalowi to the Bisotu bridge to get to your village.	Isabelle		
+tm_px3y5vd0fmf70xro		Yes, I know it's a long way around the river.	Nurumbé		
+tm_43bpgciftwfr7s6b		Hubert thought about a new way to do it.	Isabelle		
+tm_pf4ydehdv8keu3rq		The Pamalowi village is just accross the river.	Isabelle		
+tm_ixyuhdmznkv2rmqj		We just need to get the medicines accross, and that will be done !	Isabelle		
+tm_fl8ptmkioe2y6gu5		But how do you want to cross ?	Nurumbé		
+tm_zioql8gxyx5mi0nb		Here the rapids are very fast, you know it's impossible to cross with a small boat !	Nurumbé		
+tm_xtlboivkqfvsk4on		Yes, I know.	Isabelle		
+tm_qog5foyohbdw5ume		Our idea was to use two or three drones to do the job.	Isabelle		
+tm_y537sudchk2ccgf8		Drones ? Here ?	Nurumbé		
+tm_w50r4dd45t50jhtf		Yes. Hubert is about to fund a project to build a few of these to do that job.	Isabelle		
+tm_9f5lk1e5ma7fmxl0		I get that for you, it makes the journey a lot easier.	Nurumbé		
+tm_y1pni9oel1qwc1x0		And the track to our village is uneasy.	Nurumbé		
+tm_1uf2amm1k0ael5u3		But for us, there isn't much interest !	Nurumbé		
+tm_2i74jp5varhrpt5l		Except for the children who will love it.	Nurumbé		
+tm_b4elbmbh20mcnzv5		Don't forget that we always await you each month.	Nurumbé		
+tm_vdtgu921un09tevh		You bring some fresh air in our everyday lives, you give us fresh news from the capital, you chat with the children and the elderly to see if they're fine.	Nurumbé		
+tm_dzlsb2qv9nvvdgxw		All of that would be gone !	Nurumbé		
+tm_5x543df845vg4lny		That's true. I didn't think about it...	Isabelle		
+tm_yy25xudkvgzx1gsh		On the other hand, as time goes on, you always stop for a shorter time. Last time, Jacques was in a hurry, and the team only stayed an hour !	Nurumbé		
+tm_7b4xh5rnfsrkf6i0		Yes, Jacques told me, but he had an important meeting with an association to discuss new solar panel equipments.	Isabelle		
+tm_qfr4m754xtfjl72b		Yes, each time there's a good excuse.	Nurumbé		
+tm_x6lkhzyj0wd6dg5d		Enough, it doesn't matter anymore as you won't even come to see us !	Nurumbé		
+tm_32meq5g3py4iruu9		Stop being a drama-king Nurumbé.	Isabelle		
+tm_bmh6ud48t32qhsfi		Let's try to think together.	Isabelle		
+tm_570bf7k056m80hfj		Why couldn't you switch ?	Nurumbé		
+tm_ldppq378zg4zy9ao		You could take the Pituru bridge downstream and come visit us ?	Nurumbé		
+tm_41nt6tg5v4ymvgi6		You could even fly your drones from here !	Nurumbé		
+tm_qp1l2l2nkquwhpk3		Well, it could be a solution, but now that you told me you need communication with the village population, we're probably going to have the same problem with the Pamalowi village.	Isabelle		
+tm_1ti8hpn2lnx1gnl0		Let's think...	Isabelle		
+tm_ekxrme9wsybvrczk		And if we chose some middle ground ?	Isabelle		
+tm_aa6yp3vbpg9k0x8o		We could come here once every two months ?	Isabelle		
+tm_nngs974loaodjz15		Will Nurumbé's communication need impact the specifications of the system ?	APPRENANT		
+tm_jom1ylqs3hlkc31b	The consequences of some needs can have no technical impact. Here, it's linked to the management of the service using the system. That service should also be described though. That's the role of the project leader, not the system engineer's job.	"The consequences of some needs can have no technical impact.
+
+Here, it's linked to the management of the service using the system. That service should also be described though. That's the role of the project leader, not the system engineer's job."	APPRENANT		
+tm_dei5nlcu1y5ymm31		Yes, that would be better.	Nurumbé		
+tm_zpgvpdbo2gxorra4		But tell me, what are you really trying to do here ?	Nurumbé		
+tm_xh86fil1nse62hgn		Gain some time, or avoid getting too tired by reducing driving times ?	Nurumbé		
+tm_7v0jsey9ojimqt5k		A bit of both to be honnest.	Isabelle		
+tm_x2qq5oskhr4yhc47		Our teams always come back exhausted after these runs !	Isabelle		
+tm_lj3eaj4889z6hc3h		Well, if time isn't the issue, why not also stay a bit longer each time you go ?	Nurumbé		
+tm_41vfxo44nqndo6jf		If you stayed here for three hours, the inhabitants would see a real improvement !	Nurumbé		
+tm_1jqnjmsh0df9j23r		They would be able to discuss a bit more about their health issues.	Nurumbé		
+tm_pmetlq5pmggt53no		We'll think about it, but it looks like a good compromise.	Isabelle		
+tm_s37dgmgnlavdl8lt		I'll talk about it with my teams.	Isabelle		
+tm_t5jlwmswwf7fes0s		And let's stop talking about business !	Isabelle		
+tm_fxavrgbuhko9936x		Are your cooking skills still sharp ?	Isabelle		
+tm_5buwlxzgxmezrhjj		Ah, I see the travel sharpened your appetite.	Nurumbé		
+tm_jk1zk2pcm4df0415		Don't worry.	Nurumbé		
+tm_uu541ndjnrbyup0k		As soon as I learned you'd come, I cooked you a nice spicy meal.	Nurumbé		
+tm_stp1hvt5qm1t4z6d		Let's go eat then !	Nurumbé		
+tm_092ltabxe3nn56b9	The consequences of some needs can have no technical impact. Here, it's linked to the management of the service using the system. That service should also be described though. That's the role of the project leader, not the system engineer's job.	"The consequences of some needs can have no technical impact.
+
+Here, it's linked to the management of the service using the system. That service should also be described though. That's the role of the project leader, not the system engineer's job."	APPRENANT		
+tm_njh0ywkseqosx0h6		And so you'd agree with this new way of delivering once by drone, and the other time with our truck ?	Isabelle		
+tm_6eirwit5rantaayv		Yes Isabelle. As you said.	Gérard		
+tm_zb0clpcx9djsb089		And if you stayed an hour more once every two months, it'll be perfect.	Gérard		
+tm_qad7765oy3mbrfoi		Also, your idea gave me a new one.	Gérard		
+tm_efekxxjn0p33rusp		We could maybe use the system to trade with Ramatowa. They have spices that we can't grow here, and in exchange, we could send them some sandals or leather belts that we make here.	Gérard		
+tm_v3fzei8o1eshnpxb		Could the drones carry this ?	Gérard		
+tm_wef1g9xnqu1nnoof		That wasn't really planned, but why not ?	Isabelle		
+tm_1a50f64hq5mrio07		I don't think the drone will be able to lift a heavier weight than two or maybe four pounds, but it could be done.	Isabelle		
+tm_xz3nna94ev8mmwo7		The real problem is that our drones have a limited autonomy.	Isabelle		
+tm_lc0s2v7srby5ji8w		We risk to not have enough batteries for that.	Isabelle		
+tm_24j3y7xz1915iq3f		And why not use our solar panels ?	Gérard		
+tm_87bz72u1lsvjq373		We could maybe charge them on our car battery charger ?	Gérard		
+tm_61wuiackvns7fmk7		Do you think it'll work ?	Isabelle		
+tm_16oj2ha345nbntrv		We're going to have to study the question.	Isabelle		
+tm_cxkvv2xf0tcajx9r		And while you're at it, it would be great if my nephew Edouard could pilot one.	Gérard		
+tm_tmse58nry6a07fno		 He's passionated about drones, and he is a bit of a local celebrity.	Gérard		
+tm_j106siw07c345ib3		Oh oh, I see you're already onboard the project.	Isabelle		
+tm_356xf0a8jhsziqwh		But did he already pilot some drones ?	Isabelle		
+tm_p32umc6y6uszpu1h		He bought a little quadcopter that he uses to gather the animals.	Gérard		
+tm_3uhv02z37ptacul4		But of course, it's probably much smaller that the ones you're going to build.	Gérard		
+tm_ajcvu5lqwmdcuvl2		Yes of course.	Isabelle		
+tm_4y77ssqrh043d8us		So we're gonna have to train him with our teams.	Isabelle		
+tm_sxxmwfl197bborey		I'll see if I can arrange this.	Isabelle		
+tm_hjqz51xvu0hjtxl1		And maybe give him a handbook ?	Gérard		
+tm_avjy3gzat3uioxak		So that he could read it before going to the training.	Gérard		
+tm_kdzaqnnbw0kg799h		OK. I take note of that too.	Isabelle		
+tm_y73ftscu4jq4agdx		Let's check the river to see where we could use your drones to exchange ?	Gérard		
+tm_51ya6qk6k90p1q9w		That's a really good idea.	Isabelle		
+tm_gvwufzpuj358dakj		Isabelle seems to agree with everything. Is this the right attitude ?	APPRENANT		
+tm_mm2fl1v2gk4aw3od	She's not exactly saying yes to everything. She's rather in favor of propositions. Indeed, they don't seem exagerated and in every project, we need to manage every parties. If an essential party doesn't see an interest in investing themself, the project will be a lot harder to realize. In our case, Gérard's interest will be multiplied if he can please his nephew and use the system to trade with the neighboring village.	"She's not exactly saying yes to everything. She's rather in favor of propositions. Indeed, they don't seem exagerated and in every project, we need to manage every parties. 
+
+If an essential party doesn't see an interest in investing themself, the project will be a lot harder to realize. In our case, Gérard's interest will be multiplied if he can please his nephew and use the system to trade with the neighboring village."	APPRENANT		
+tm_bofp76th7nkxfrez	All of that will be explained in the Project Management class of your first year.	All of that will be explained in the <b>Project Management</b> class of your first year.	APPRENANT		
+tm_obvfzsdm6lh6h5zz	She's not exactly saying yes to everything. She's rather in favor of propositions. Indeed, they don't seem exagerated and in every project, we need to manage every parties. If an essential party doesn't see an interest in investing themself, the project will be a lot harder to realize. In our case, Gérard's interest will be multiplied if he can please his nephew and use the system to trade with the neighboring village.	"She's not exactly saying yes to everything. She's rather in favor of propositions. Indeed, they don't seem exagerated and in every project, we need to manage every parties. 
+
+If an essential party doesn't see an interest in investing themself, the project will be a lot harder to realize. In our case, Gérard's interest will be multiplied if he can please his nephew and use the system to trade with the neighboring village."	APPRENANT		
+tm_3a1xzpt3vkbexohx		Here is the perfect spot. The river is a bit narrower than everywhere else, and there's already a pontoon to land your drone on the other side.	Gérard		
+tm_3rwlx64jc3n6cidr		Ah, that's quite a thing to see.	Isabelle		
+tm_3cad25a9dtcvuol2		I didn't imagine the river was that large, and thought the rapids were less powerful !	Isabelle		
+tm_n4ny93aaoyf2aixs		Nature is wild here.	Gérard		
+tm_lukusdpx8r9tp7k4		Sometimes, we can't even see the other bank because it gets quite foggy here.	Gérard		
+tm_ulpbfv2fku7ra2ck		And that fog is almost unpredictable.	Gérard		
+tm_yhr643wq29po8yr0			Gérard		
+tm_smpccysvbtkym8wt		Do you mean it could interfere with our navigation and we can lose sight of the drone ?	Isabelle		
+tm_tvz3s8xlllutedth		Well, it would be better to avoid these days, because it'll surely be more difficult.	Gérard		
+tm_r0y2mvwzzqgqnbda		I see that, but when we programm a run, we can't modify it because of the fog.	Isabelle		
+tm_jpmroxspxmx31ylg		In that case, you'd better find a solution to know where your drone is, and to make it land on the other side. The Eastern bank is half a mile away.	Gérard		
+tm_5v6y4iqyc7utgrfh		I see.	Isabelle		
+tm_tx2bl9nrvo1wei78		I need to talk about that to Marc, our system engineer.	Isabelle		
+tm_diydkriw0xdenkp1		Maybe a camera or a GPS could do the trick !	Isabelle		
+tm_xive1shji76e25xo		Your drone is going to get expensive !	Gérard		
+tm_90r8uyzjkk8jjktq		Maybe Marc will have a cheaper solution.	Isabelle		
+tm_b6u1kp6qk9ok1ygk		Anyway, I'm going to tell him about this issue.	Isabelle		
+tm_psl20a5a5ii443vk	Why ask Marc to choose a technical solution? Isabelle is managing the budget, she can decide to buy a camera to answer that requirement !	"Why ask Marc to choose a technical solution? 
+Isabelle is managing the budget, she can decide to buy a camera to answer that requirement !"	APPRENANT		
+tm_9c1j8zy3k24tx37b	A project manager effectively manages the budget, and the time allotted to a project. But the quality and the technical contents must be discussed in the first place and mostly with the system enginner. The project manager's job is to identify the requirements. The technical engineer must find the technical solution.	"A project manager effectively manages the budget, and the time allotted to a project.
+
+But the quality and the technical contents must be discussed in the first place and mostly with the system enginner.
+
+The project manager's job is to identify the requirements. The technical engineer must find the technical solution."	APPRENANT		
+tm_d07c0met12q8fubu	That will be developed in the first year's Requirements Engineering class.	That will be developed in the first year's <b>Requirements Engineering</b> class.	APPRENANT		
+tm_vokj0adujcark7xm	A project manager effectively manages the budget, and the time allotted to a project. But the quality and the technical contents must be discussed in the first place and mostly with the system enginner. The project manager's job is to identify the requirements. The technical engineer must find the technical solution.	"A project manager effectively manages the budget, and the time allotted to a project.
+
+But the quality and the technical contents must be discussed in the first place and mostly with the system enginner.
+
+The project manager's job is to identify the requirements. The technical engineer must find the technical solution."	APPRENANT		
+tm_7k1x0srjrgkofdi3		Hello you all !	Isabelle		
+tm_rjiwvmxladd5ufah		Hello Isabelle !	Émilie		
+tm_lj4bw4n56wmzbjf4		You've been called here to discuss a new project.	Isabelle		
+tm_sfy9h7k820uq6p4u		A new project ?	Mathieu		
+tm_yd70p044sjxx2xi3		You know, for us each run is a project in itself.	Mathieu		
+tm_b4h23bcygqe4kc5l		Well, that one's goal is to make your journey East easier. You know, the one in which you drive 40 miles to get to a village on the other side of a river ?	Isabelle		
+tm_l70e9wcw9kqvwd2f		Yes, the Ramatowa village, right accross Pamalowi !	Odile		
+tm_j3grup48xj9j0rj5		This part is a pain. And the path is horrible with a lot of potholes !	Bruno		
+tm_cgqzhjs6gf04g4jv		What's your project ?	Émilie		
+tm_unym9zhflb778srl		The project isn't exactly mine, Hubert was the one to launch it.	Isabelle		
+tm_fsqagkx9q2gut36n		Oh, the idea must be quite good !	Bruno		
+tm_k51pbqeipfbevods		It's not that bad actually.	Isabelle		
+tm_qvg1wu77jhi3z7oz		Come on, tell us !	Odile		
+tm_4sqo9848ywzefxyi		Well, instead of going around for 40 miles, Hubert suggested using two drones to carry the medicines from one side to the other.	Isabelle		
+tm_eh0mem3zwtw3ww7y		Well, that's a great innovation !	Émilie		
+tm_rmd3jaj911da9vyp		But how big would such a drone need to be to do that ?	Mathieu		
+tm_evlkteoic32p5yt4		No idea, I'll have to ask Marc.	Isabelle		
+tm_xbmj2te4r91v4mey		Is Marc also onboard ?	Odile		
+tm_toyutucrqh4zqayr		Yes, he's tasked with the system development part.	Isabelle		
+tm_mpi9oyir1m8z5lie		Ah, I start to believe a bit more in your project !	Bruno		
+tm_yrds2avqkw7vwhb8		You know that our trucks have little room on the back.	Mathieu		
+tm_u9m7ztlhb8trtczq		They're already full of medicines and of our stuff.	Mathieu		
+tm_opa2bcv837df4ho7		Yes, I'm aware of that.	Isabelle		
+tm_ytzxdjzy2d3sk3lp		How much room would you have in the worse case scenario ?	Isabelle		
+tm_avi9xiazdre7j99y		Well, I think a 20 inch square box could fit in there.	Bruno		
+tm_5b0e5syvenah5wx0		What do you think you guys ?	Bruno		
+tm_afnjzu09s4gn1wy8		Yes, and maybe a bit more.	Odile		
+tm_fby7smv9dhbq5tbe		My concern is that the drone must be resistant, because the road is far from calm.	Odile		
+tm_o7h080q9onsxqdbr		I'd say it's often like a rodeo !	Odile		
+tm_e6xnm826ss0j0nsv		And boxes often fall on one another.	Mathieu		
+tm_owxq0rd7dsitm79p		The box will need to be sturdy, and the drone well fixed inside.	Mathieu		
+tm_x94ezc4xvmskc69w		OK, requirements acknowledged.	Isabelle		
+tm_k25mc5zfhlo4t41u		The drone must fit in a 20 inches box.	Isabelle		
+tm_ydajawu9uzq1qy3w		It must be secured fix in the box.	Isabelle		
+tm_mngq4ruywwnddwm2		That box must be solid and resist shocks with other boxes.	Isabelle		
+tm_wzpcsn2u4n5mmrx2		Well, the transport problem is solved, but who's going to pilot them ?	Bruno		
+tm_4wrngjklij39vyva		I don't know anything about these things !	Bruno		
+tm_pirzakvq3u80vnjy		Well, no problem for me if it's a classical drone. Like one with four rotors.	Émilie		
+tm_y6oa26r06yburcx3		I followed a training when I was a student at the ENAC.	Émilie		
+tm_5a3zwuhou7vtnlxu	"They taught me how to pilot them in a place called the ""volière""."	"They taught me how to pilot them in a place called the ""<b>Volière</b>""."	Émilie		
+tm_luung5alr23rwbv9		It's the biggest indoor drone space in Europe.	Émilie		
+tm_h975vgkx58oyras1		So, it looks like we're saved.	Bruno		
+tm_04h2ny2v40djpi7u		Not so quickly. You all need basic notions to pilot them.	Isabelle		
+tm_mkgbkk0lr8dl9v4r		But apparently Emilie can help you, and worst case scenario, we pay you some training sessions.	Isabelle		
+tm_5ynrsmpnkzn7uy2k		A training ?	Bruno		
+tm_vv1dzr0me4xv78jf		But I don't want no training !	Bruno		
+tm_n6r4ampxd95l6360		I'll be able to sort it out myself.	Bruno		
+tm_7902q6oudwmh52pu		OK, OK, we'll talk about it later.	Isabelle		
+tm_13p07uvuejvosqgy		But is the idea fine with you ?	Isabelle		
+tm_21qk09evc1x0pkxs		Definitely yes !	Odile		
+tm_qwn0fj7ie2q22fv5		Do you think we're not going to take an opportunity to avoid 40 miles of track, and 3 hours of tiring driving ?	Odile		
+tm_8yrfq588j80m7ghz		But I don't understand how Ramatowa's inhabitants accepted that.	Émilie		
+tm_bl0f7zi1w9aynpqi		Won't we ever see them ?	Émilie		
+tm_d68xj8pguf1n7fyq		Good question !	Isabelle		
+tm_mj8k2vf289z2zca1		I went to discuss with the two village's chiefs.	Isabelle		
+tm_mga64jqytghhwjyg		Nurumbé suggested we go in one village every two months.	Isabelle		
+tm_gkptbe7lcpyajacp		And Gérard seems also fine with it.	Isabelle		
+tm_t5nocu68ba825i5r		And doing that, you could stay a bit longer in each village when you visit them, to perform mini medical consultations.	Isabelle		
+tm_mtpr3vqg573y0a4b		I largely prefer caring for sick children instead of being thrown around in that goddamn truck. It has some really bad shock absorbers !	Mathieu		
+tm_eeml4ia4bfzc0r94		Ah, and Gérard had another condition : could you let his nephew pilot the drone and exchange some little stuff with Ramatowa ?	Isabelle		
+tm_gx0pe4i4xwqevl5w		What is this little stuff ?	Odile		
+tm_df453t89xzzxtdgl	Some sandals, leather belts, spice bags, etc	Some sandals, leather belts, spice bags,...	Isabelle		
+tm_t8d3sivfqqouz96g		You mean we're going to watch some flying bartering ?	Mathieu		
+tm_f0p658jbvdq3kxew		Yes ! And the nephew seems to be a good pilot.	Isabelle		
+tm_yujpjjmm9pt3o71z		Maybe he could give you a few tips !	Isabelle		
+tm_zaxzwu44xqk82egj		Well, that's going to make our run a bit more interesting. I'm curious about what that show will look like !	Odile		
+tm_o2sqb19u0wespnma		So you're all onboard ?	Isabelle		
+tm_gd802wrr6d0xjlh6		Yes !	Émilie		
+tm_n7a4i8f91fgp0iex	He asked John and Matilde to come help him in his first brainstorming.	He asked John and Mathilde to come help him in his first brainstorming.	APPRENANT		
+tm_b18s16oyuwskcdi4		So let's go. First of all, we need to set the limits of our system.	Marc		
+tm_8mfewpn3gykq9m9k		What are the elements it is going to interact with ? What is its main mission ?	Marc		
+tm_jzdlebpqkxxg68xt		It seems that its mission is to carry safely a pack of medicines accross the Ubangi river.	Mathilde		
+tm_zgn6xneves8smg2z		Yes, it seems right, but I think we could be a bit more precise on the distance. I looked it up on Google maps.	Marc		
+tm_eph5ztzl5xamizds		The river near Bamalowi half a mile. With safety margins, we could say 0.6 miles.	Marc		
+tm_swcnf9j47qgnftcl		In that case, shouldn't we also precise the maximum weight of the medicines to carry ?	John		
+tm_gk7gytvstm8fp5fa		You're 100% right. These two elements are essential to dimension the system.	Marc		
+tm_yuin9uij2edgy63d		So let's say two pounds ?	Marc		
+tm_sy0xo8preervsko5		Yes. We're going to have to check that with the distribution team, but that looks reasonnable.	John		
+tm_e6axa099gxc1j2ey		So, our mission would be :	Marc		
+tm_v6oqfyuw9wanh374	Airlift a two pounds pack of medicines over a distance of three fifth of a mile.	"<b>Airlift a two pounds pack of medicines over a distance of three fifth of a mile.""</b>"	Marc		
+tm_kgtg7bc668b193fi		Is that OK with you ?	Marc		
+tm_gnzfduorx8fhr3ad		Perfect.	Mathilde		
+tm_hcdjf7q4fuzk69b7		The start of a functionnal analysis of a system always starts by identifying its operationnal mission.	APPRENANT		
+tm_nr15bcldmt4xmmrd		Now let's address the limits of our system.	Marc		
+tm_6mw90t5hkp2pgt41		With what and who is it going to interact ?	Marc		
+tm_cz668fj0ycev99t1		This would allow us to define the principal functions and the constraints.	Marc		
+tm_rbmqw72iuxe97qbp		The most obvious actors seem to be the pilot, the medicine pack, and the guy from Ramatowa who is going to unload the pack.	Mathilde		
+tm_2ne8wde70aakwe53		Yes, but I doubt about the direct interaction with the pilot. We'll see this later.	Marc		
+tm_7m694au5kmcwwyyx		Maybe the pilot won't be in charge of loading the pack aboard the drone. Maybe we need to identify a second guy in Bamalowi to load it on the drone ?	John		
+tm_vacn9ud3y44ri6hd		Yes, it seems a great idea.	Marc		
+tm_zwbxezezkyhr7ne5		So I think we have all the actors who will interact with the system.	Marc		
+tm_2ir0qujkvj7ssai8		Do you see any factors that will add constraints ?	Marc		
+tm_n90xl8hki1vbev2b		Climatic elements like wind and sun will probably play a role ?	Mathilde		
+tm_z9rx99en6iqjpf23		Yes, we'll think about it. Anything else ?	Marc		
+tm_0bmr6pyns6wucmxb		The river may have an impact, but if all goes well, it shouldn't interact !	John		
+tm_l8sn3k6jil9oyxsc		We'll have to develop that in the safety study. I think we have more or less every actors. I'd add the landform of the take off fields.	Marc		
+tm_fxwag987ngvh1kon		It plays an important role with ground/air interactions when the propellers start to lift the drone off the ground.	Marc		
+tm_cdnsfhhm8xezln4s		Yeah, good idea !	Mathilde		
+tm_dck7mk1uamjvkieq		Let's get back to the actors and see how they interract with the system.	Marc		
+tm_lqeym32ideu7eyau		For the pilot, it seems obvious. He guides the drone to the other bank.	John		
+tm_oi1dkow9sxbcxum7		Is this that obvious ? What would he need to guide the drone ?	Marc		
+tm_qgt576j4x2rz7gwg		A telecommand, why ?	John		
+tm_k2wraqabecunt6ob		There's the problem !	Marc		
+tm_m6ofuffwn5n45440		Should we consider the remote control in the system ? If so, yes, the pilot directly interracts with it.	Marc		
+tm_xxaxrirbwf1gqsee		Or should we exclude the remote from the system, and then it would be the remote that guides the system, not the pilot !	Marc		
+tm_6amtew3yh9p2wsfv		Why would you exclude the remote control from the system ?	Mathilde		
+tm_h8gnezoyf6xfpdyy		Well, it's mainly linked with costs, competency, and flexibility with the pilot.	Marc		
+tm_hqvyl2rpru442hgm		I do not want to be responsible for guiding the drone from the ground.	Marc		
+tm_et88ram9d54phpxp		Today, we could find some cheap radio remotes ont the Internet, with an excellent reach.	Marc		
+tm_dl33ii6yjhrca289		We don't really have the competencies to developp this thing, and it will definitely be more expensive to develop than to buy it. And the results won't be better.	Marc		
+tm_r1r0kaz1ub9bz2ty		So we could consider that this element is out of the system and we subcontract it elsewhere.	Marc		
+tm_avuikhybhwgypfxd		In that case, we become dependent on a external builder, but at least, the pilot could choose a remote and configure it as he pleases.	Marc		
+tm_9u116u4dngs3jfa8	Here Marc is touching an important point of functionnal analysis : Defining the limits of the system that we want to develop. Several considerations have to taken into account : costs, safety, competency, etc These latter will impact the functionnal limits of the sytem who will be smaller or bigger.	"Here Marc is touching an important point of functionnal analysis :
+
+<b>Defining the limits of the system that we want to develop.</b>
+
+Several considerations have to taken into account :
+* <b>costs,</b>
+* <b>safety</b>,
+* <b>competency</b>,...
+
+These latter will impact the functionnal limits of the sytem who will be smaller or bigger."	APPRENANT		
+tm_t36iub1wzj4jdamj		Yes, but will our system obey to emitted orders ?	John		
+tm_k9rv6ttpsrhde8y4		Nice point !	Marc		
+tm_akvazm0c1abf0hqq		Luckily, today, the radio transmitters come with a little box to put in the drone.	Marc		
+tm_3fxy5kkk2bnufzqd		We just have to choose which receptors to be compatible with, and the job is done !	Marc		
+tm_8em1cntaglu5ej2v		Yes, but are we sure the signal will be in the receptor's domain ?	Mathilde		
+tm_ivvmhn2yg3hl0m8i		That's another good question Mathilde.	Marc		
+tm_yi0c7sbwhwrebwmw		Our system will have to include a calibration function to adapt with the remote's frequency.	Marc		
+tm_6xirmf35p59cn0lx		So we already two main functions for our system :	Marc		
+tm_rjc16n1x42rxx09q	FP1 : Accept the guidance signals of the remote to move in the air like the pilot commands to do.	FP1 : <b>Accept the guidance signals of the remote to move in the air like the pilot commands to do.</b>	Marc		
+tm_wgabtat370um1iba	FP2 : Calibrate the receptor on the the remote.	FP2 : <b>Calibrate the receptor on the the remote.</b>.	Marc		
+tm_st6o4h4rc1zguw7j		Though FP2 looks moe like a constraint to me.	Marc		
+tm_3v55207cwyurdtwh		Why ?	Mathilde		
+tm_auw54g87li6ofhic		Because it only links the remote and the system.	Marc		
+tm_unpdjfdp57gz0wsf		Yes, that's true. What else ?	Mathilde		
+tm_07kfaapxervkvsca		Well, we're going to have to move the medicine pack. This looks like a main function.	John		
+tm_susw5qe9yuhkohg6		And that's another constraint.	Marc		
+tm_uzoypg6yx0epohr2		The sytem needs to be able to lift two pounds !	Marc		
+tm_sv541rxojkz2v6x1		While we're at it, the system needs to allow the guy in charge to attach the pack easily and safely.	Mathilde		
+tm_fp32rpon3d2bihpe		OK, that is a new main function. So we add :	Marc		
+tm_s752aba7yxq0ttk1	FC2 : Lift and carry two pounds of medicines links the system and the medicines.	FC2 : <b>Lift and carry two pounds of medicines links the system and the medicines.</b>	Marc		
+tm_6ymfgefm4l5ygp7n	FP2 : Attach strongly and easily 2 pounds of medicines links the the guy in charge and the medicines through the system.	FP2 : <b>Attach strongly and easily 2 pounds of medicines links the the guy in charge and the medicines through the system.</b>	Marc		
+tm_bu44heucrktwbfbr		We could start to draw our octopus diagram.	Marc		
+tm_4r6u9upgty9oekdb	In a functional analysis, the octopus diagram represents every main functions of the system and links to the actors involved. If a function only interacts with one actor, then it is a constraint function. Every functions are numbered. That's why Marc is giving them some numbers.	"In a functional analysis, the octopus diagram represents every main functions of the system and links to the actors involved.
+
+If a function only interacts with one actor, then it is a constraint function. Every functions are numbered. That's why Marc is giving them some numbers."	APPRENANT		
+tm_65w9du2puxscn5ey	Marc, John and Mathilde finished their functionnal analysis. Isabelle, who came back from her interviews, is creating the final requirements with Marc.	"Marc, John and Mathilde finished their functionnal analysis.
+
+Isabelle, who came back from her interviews, is creating the final requirements with Marc."	APPRENANT		
+tm_i2muwow3g0jqjwzv		So, what have you found in your functionnal analysis ?	Isabelle		
+tm_ljk2ijrvq831dm7w		We defined two main functions and two constraint functions.	Marc		
+tm_hjf9m6niriu4u7p5	The first main function is : Move through the air following the remote's orders.	"The first main function is : ""<b>Move through the air following the remote's orders</b>"""	Marc		
+tm_s6t3g7j3cjxrt7kh		Seems relevant.	Isabelle		
+tm_aolynwy1f24r01yu	The second one is : Allow the guy in charge in the village to attach a medicine pack quickly and safely.	"The second one is : ""<b>Allow the guy in charge in the village to attach a medicine pack quickly and safely.</b>"""	Marc		
+tm_777jq4eovtlsmy7o	"And we have two constraints : ""Be able to tune in to the remote's frequency"" and ""Be able to lift a two pounds pack""."	"And we have two constraints : ""<b>Be able to tune in to the remote's frequency</b>"" and ""<b>Be able to lift a two pounds pack</b>""."	Marc		
+tm_7kh4bz46p7wca0bh		Nice start !	Isabelle		
+tm_u5nzjy6l5jkwwpmj		From what I've seen in the field, we will have to add a few constraints.	Isabelle		
+tm_dqi9q8dd5bcnvcww		For Gérard, the river can be very foggy.	Isabelle		
+tm_z49urb1taybp3upu		So we should be able to use the drone, even if we don't se it.	Isabelle		
+tm_24f1e57bebdif5p7		"For the guys who do the runs, the drone should be stored in a 20"" crate, and that crate should resist other boxes falling on it."	Isabelle		
+tm_35jjp7kc7r9w8x6w		The truck will probably shake it quite a lot.	Isabelle		
+tm_r6wcks027d5732hu		We will add these three functions.	Marc		
+tm_eapkvfsrfjwqz7w5		Maybe we should also put a precision criteria for the landing ?	Isabelle		
+tm_6mr7hwat3duir0pn		Something like three feets ?	Isabelle		
+tm_g6umqzxwhqk4vni7		Precision is a value critera for the FP1 function.	Marc		
+tm_4eg03on0nfc47gnb		I will add it too.	Marc		
+tm_7f42nk4sjoebfwi5		Any other point ?	Marc		
+tm_x772mvxo41ugwsna		No, I think I've told all th eideas I had.	Isabelle		
+tm_kdoblejvg4ghg774		In this case, I'm back to my analysis.	Marc		
+tm_qgb2jl0bqla1pdx3		Marc just entered Isabelle's office.	APPRENANT		
+tm_zqp0raiv774boxsb		Hello Marc !	Isabelle		
+tm_m7waztppfsl2jp91		So our first specifications sheet is ready ?	Isabelle		
+tm_m6c3aijdi2fkij68		Do you think we will need to run some safety studies ?	Marc		
+tm_vnq5nz3bcvw3538h		There isn't much risk with a single drone.	Isabelle		
+tm_6spir03q5yfs63xj		These studies can also be lengthy and blow up our budget.	Isabelle		
+tm_7u7nnzzwwiuzde7f		Yes, you're maybe right...	Marc		
+tm_x4vm6k6qqw9kfwiv	Choose what Marc will say :	<b>Choose what Marc will say </b>:	APPRENANT		
+tm_34adt9cct4rh0802		So let's forget about it.	Marc		
+tm_4cv77sv5wtrsj56n		But please, allow me to do a short one.	Marc		
+tm_q7ggaa0c8k5kytlq		The drone will cost us 500€, and if we can avoid amaging it with a small saftey analysis, I think it could be worth doing it.	Marc		
+tm_bjhrivmkmaxgelxl		We will limit ourselves to the most critical elements.	Marc		
+tm_ktjol3hwip9827hf		What do you tgink about this ?	Marc		
+tm_z75vci90mdxnfyg6		OK, OK, let's do a small safety analysis.	Isabelle		
+tm_evi5bwcy1p3ooe19		OK, I'm going ahaead with it.	Marc		
+tm_7mrka6wbjkm8hovo		"Safety studies are usefull, even if the system is not dangreous to its user, because they allow to predict the system's behaviour in critical situations.
+
+They prevent risks to other humans, but they can also prevent material damage."	APPRENANT		
+tm_4aupub9nmo5e9x33	Safety barrier methods and FMECA (Failure Mode, Effects, and Criticality Analysis) will be a part of your third year Operational Safety classes.	Safety barrier methods and FMECA (Failure Mode, Effects, and Criticality Analysis) will be a part of your third year <b>Operational Safety</b> classes.	APPRENANT		
+tm_kp63l53mtfi31www	Safety studies are developped in the Risk Management Process in the INCOSE handbook.	"Safety studies are developped in the ""<b>System Safety Engineering</b>"" part of the INCOSE handbook."	APPRENANT		
+tm_2beobrp4gyl0uxie		"The scene takes place during the first flight tests of the drone.
+
+The drone is flying above the river. Suddenly, the wind picks up.
+
+The pilot loses all control on the drone, who crashes in the river. It sinks after a few seconds."	APPRENANT		
+tm_pxm57lyhbckokrd6		"Was this crash preventable ?
+
+yes, if they had thought about the technical solutions that could be deployed to prevent or answer to the initial event.
+
+In our case, the implementation of an efficient algorithm in the drone's controller (like a PID), would have allowed the drone to stay in the air, even with turbulences.
+
+Or if they had build a floating structure on the drone, and equiped it with a GPS tracker, they could also just travel down the river and pick it up."	APPRENANT		
+tm_yfc89bs8ozzgfe4d		"Safety studies are usefull, even if the system is not dangreous to humans, because they allow to predict the system's behaviour in critical situations.
+
+They prevent risks to other humans, but they can also prevent material damage."	APPRENANT		
+tm_8rnrp37x99tx5lby	Safety barrier methods and FMECA (Failure Mode, Effects, and Criticality Analysis) will be a part of your third year Operational Safety classes.	Safety barrier methods and FMECA (Failure Mode, Effects, and Criticality Analysis) will be a part of your third year <b>Operational Safety</b> classes.	APPRENANT		
+tm_2kxh1pzk6gegke5n		Marc and his team have resumed their brainstorming.	APPRENANT		
+tm_8fjue8y0iqx8agay		So, we have identified some main functions and some constraints on our system.	Marc		
+tm_nl8d1enog9zsmlsb		Now, let's try to focus on the safety analysis, and identify the actors that might interfere with it.	Marc		
+tm_qivyh67gf12huste		The river was listed previously, and I think this is an idea worth considering.	Marc		
+tm_v9h2rpog5tbrrdja		Yes, we should protect both the electronics and the medicines.	John		
+tm_ecwm4w5lc1fas47k		Water must be kept away from these elements	John		
+tm_mjxgaetwb2z3cnz9		Good point !	Marc		
+tm_ous5bxcwfqx9y9xl		That adds two constraint functions.	Marc		
+tm_mhw7mcichjaf1tsw		While we're talking about falling down, maybe the drone should resist small impacts wth the ground in case the pilot makes minor mistakes ?	Mathilde		
+tm_3yv72mim21pr82nj		Piloting makes me think about something else.	John		
+tm_hin1kvkzr5pgefh0		Last time I tried to buil da remote controlled circuit, my system was picking up signals from another source, and was acting randomly.	John		
+tm_8n1rdxe4q8iqyawo		Not all at the same time, please.	Marc		
+tm_pni1nzwh02fwuol8	That add us two more constraints : Resist a 15 feet fall. and Be operationnal and finish the mission, even if the remote's signal is jammed.	"That add us two more constraints : ""<b>Resist a 15' fall.</b>"" and ""<b>Be operationnal and finish the mission, even if the remote's signal is jammed</b>"""	Marc		
+tm_18al15a0lpuykm48	I will also add another constraint regarding the batteries : Manage the power level	"I will also add another constraint regarding the batteries : ""<b>Manage the power level</b>"""	Marc		
+tm_kx4vn9gi3fidv7ib		It will be better if we don't fall on an empty battery in the middle of the river.	Marc		
+tm_bonxsivczgy7pxz3		So, I think we can complete our octopus diagram.	Marc		
+tm_g1qx8ytrtb7qqxnl		Marc and Isabelle meet around a good cup of coffee.	APPRENANT		
+tm_c1yv6lu01971qx7d		So, did your safety analysis go well ?	Isabelle		
+tm_tn8hsy95ovo8qqbp		Yes, we thought about several chains of events to prevent.	Marc		
+tm_gdhcyzu8e3h0oi9g		But thinking about it, I was wondering if we should considering cybersecurity aspects ?	Marc		
+tm_gu54026x4kcgv9cx		What are you talking about ?	Isabelle		
+tm_2pxj1nlaplcrvbxs		Do you fear our drone might get pirated ?	Isabelle		
+tm_4cnfm25m3elaisc8		Why wouldn't it happen ?	Marc		
+tm_j5xsxsfasi1q3bxa	Choose what Isabelle will say :	<b>Choose what Isabelle will say</b> :	APPRENANT		
+tm_plfwkkfuugg1hl70		No, sorry to disapoint you, but we don't have time for this.	Isabelle		
+tm_l4707g9vnw3bdrd1		Do you really think it's necessary ?	Isabelle		
+tm_ler5y7ya30vo477s		Yes, mostly to not have regret if an easily preventable attack happens.	Marc		
+tm_a2by4kkh950k1ra8		OK, but please don't spend too much time on this, otherwise these studies will explode our budget.	Isabelle		
+tm_i7n7t7a2vjsje9l6		"As told in the beginning, Ramatowa is often in conflict with a neighbouring village.
+
+One of the inhabitants of this village heard about the drone project, asked a few questins about the communications with the remote, bought th esame model.
+
+He got on the river banks during the tests, and took control of the drone. He picks it up, and runs away."	APPRENANT		
+tm_1bxhcgbd91cyfofb		Heck ! Our drone got stolen.	Isabelle		
+tm_0dgj4pu3deikfcc7		Of course, we didn't implement any protectionon the communications.	Marc		
+tm_3k7bh5gb6v5eifg5		Not even some encryption of the command signal.	Marc		
+tm_m2r5fbz9gzpcaubp		So any mildly competent pirate was able to take control of our drone.	Marc		
+tm_7b1qyl0bn70dia33		I asked if I could do a cybersecurity analysis, but you refused categorically.	Marc		
+tm_617e7fci4pi9nr8d		Marc, I'm starting to regret that decision...	Isabelle		
+tm_jzcnfo82kb8h3yr8		So Alice, is everything alright with your classes in colege now ?	Isabelle		
+tm_89gi8wfxeff27uvi		Yes, Mom, everything is fine, and the vacations are getting closer.	Alice		
+tm_i4pwuhxyo3jhultr		Cool, you might be available to help us with our runs then ?	Isabelle		
+tm_l5uce8xa517xpkwx		Euh, Mom, I got other projects...	Alice		
+tm_g16z1rmdbmadpo4h		You know, this year will be a bit special, we will use drones !	Isabelle		
+tm_gd5l1nhrtpvq99z7		Drones ?	Alice		
+tm_tcxv7985efaup8fe		Interesting, but what for ?	Alice		
+tm_lx66leawmdsu2u0s		To carry medicine packs accross a river.	Isabelle		
+tm_6qi2bj39vwe242tn		Whaou ! Cool ! That's all you had to say ! I'm definitely coming !	Alice		
+tm_4yymm7rd32adsjl6		But where are these drones coming from ?	Alice		
+tm_27s3iksc6kp6kddb		We will build them ourselves.	Isabelle		
+tm_ag6syqprvksu0d8o		Did you think about the environmental impact ?	Alice		
+tm_iy6dhvnr70qazoo3		Drones can be really noisy, and from what I heard, they need lots of batteries...	Alice		
+tm_oxmbh4gaw3h76m4u		But where do this environmantalist concern come from ?	Isabelle		
+tm_kuvbcmw4yht60e1r		Mostly from our teachers. They're getting more sensitive to ecologic concerns, and they use every occasion they get to talk about it.	Alice		
+tm_0f9fh89ac1v9rbl8		This morning, our system conception teacher made a class on ecological conception.	Alice		
+tm_bgjvgodt7szdl46b		Well, you may be right, we'll look into that.	Isabelle		
+tm_pv7k2016e9dw1oak		Of course, I'm right.	Alice		
+tm_1sy06vjsrw78uash		And you should also think about the public image of the Red Cross.	Alice		
+tm_4h5i0koeiht0mc3s		Marc will probably be happy, I'm adding yet another study...	Isabelle		
+tm_rw9kc9ftq9rwiy2m		What is the goal of eco-conception studies ?	APPRENANT		
+tm_1fdhxmw4lzwqq88y	"Eco-conception studies must be made before the realisation of a project, as safety and cyber-security studies should be made. All three can potentially have huge impacts on the development of a system. 
+In our case, we could make the structure of the drone from an easily disposable material (like wood), and use intelligent batteries with a much greater lifespan."	"Eco-conception studies must be made before the realisation of a project, as safety and cyber-security studies should be made.
+
+All three can potentially have huge impacts on the development of a system. 
+
+In our case, we could make the structure of the drone from an easily disposable material (like wood), and use intelligent batteries with a much greater lifespan."	APPRENANT		
+tm_0o6rty3rphnmxjl3	You will see these aspects if you choose the easy option of the seeta major.	You will see these aspects if you choose the <b>ISI</b> option of the <b>SITA major</b>.	APPRENANT		
+tm_z18b13gs55uehev6	Eco-conception studies must be made before the realisation of a project, as safety and cyber-security studies should be made. All three can potentially have huge impacts on the development of a system. In our case, we could make the structure of the drone from an easily disposable material (like wood), and use intelligent batteries with a much greater lifespan.	"Eco-conception studies must be made before the realisation of a project, as safety and cyber-security studies should be made.
+
+All three can potentially have huge impacts on the development of a system. 
+
+In our case, we could make the structure of the drone from an easily disposable material (like wood), and use intelligent batteries with a much greater lifespan."	APPRENANT		
+tm_qi1am9qzp3byz0i8		Tell me, Marc, an hour ago, I was thinking about the way we could make our drone fall-proof.	John		
+tm_qos6lknnsy7s5i1d		And then, suddenly, I had an idea.	John		
+tm_kcilhlw7mkr7962m		We could build some kind of airbag for the drone !	John		
+tm_wdh3aq6mutj3dyu7		Something especially conceived so that, at a given vertical acceleration, it would deploy a protective ballon to protect the drone from the fall.	John		
+tm_a7k5y9md5r5uxa1f		Yes, that's an interesting concept !	Marc		
+tm_ybcktlf0nda12y6g		I even think we could make it the shape of an inverted umbrella.	John		
+tm_uyih2jgwdcxttvvo		That way, it would even act as a little boat on the river.	John		
+tm_bcgepyo81u4si4ik		Interesting, interesting,...	Marc		
+tm_j4rror8n3jh6zpu3		I'm almost certain this doesn't exist yet. We could maybe try to file a patent for it...	John		
+tm_qb699pfzkdri71e8		Yes, yes, yes,...	Marc		
+tm_c23csfco6odn7fe9		Listen John, I wish you don't take too much time doing it, but you should probably go talk about it with Majorie.	Marc		
+tm_x6fe8bqi29eq0a4m		She's our legal expert, and she is quite knowlegeable about intelectual property.	Marc		
+tm_3nzb9aa5wkikri5v		Go talk about your invention with her.	Marc		
+tm_4ixnl3mnfnq1ga74		Ok Marc, I'll follow that advice.	John		
+tm_9r9vhoom5t0o8tfs		Is Marc right to send John to Marjorie before even having discussed the technical feasibility ?	APPRENANT		
+tm_ce6b4a95uvwc1tln	It is possible to file a patent on a concept that hasn't been developed yet, if you make a few drawings. You just need your concept : to be a legal invention. For example, animal or plant species obtained by specific breeding can't be patented. to be new. to have an industrial application. to be inventive. It shouldn't be seen as obvious by other workers in the field.	"It is possible to file a patent on a concept that hasn't been developed yet, if you make a few drawings.
+
+You just need your concept :
+
+_ to be a <b>legal invention<b>. For example, animal or plant species obtained by specific breeding can't be patented.
+_ to be <b>new</b>
+_ to have an <b>industrial application</b>
+_ to be <b>inventive</b>. It shouldn't be seen as obvious by other workers in the field."	APPRENANT		
+tm_c1btadwxoh9oyf2y	These aspects will be taught in the second year Intellectual Property classes.	These aspects will be taught in the second year <b>Intellectual Property</b> classes.	APPRENANT		
+tm_19xvuxmbggwiac7h	It is possible to file a patent on a concept that hasn't been developed yet, if you make a few drawings. You just need your concept : to be a legal invention. For example, animal or plant species obtained by specific breeding can't be patented. to be new. to have an industrial application. to be inventive. It shouldn't be seen as obvious by other workers in the field.	"It is possible to file a patent on a concept that hasn't been developed yet, if you make a few drawings.
+
+You just need your concept :
+
+_ to be a <b>legal invention<b>. For example, animal or plant species obtained by specific breeding can't be patented.
+_ to be <b>new</b>
+_ to have an <b>industrial application</b>
+_ to be <b>inventive</b>. It shouldn't be seen as obvious by other workers in the field."	APPRENANT		
+tm_0ywxu6b8tjuzxzua		John has described his invention to Marjorie. They are discussing it.	APPRENANT		
+tm_zu39q16xbpom825o		Yes, John, your idea is interesting.	Marjorie		
+tm_xh48s2vqy5m80dem		The technical feasability isn't my area of expertise, but have you verifed no equivalent system existed ?	Marjorie		
+tm_92t21hyplvono4tk		I tried to look for it on Google, and I didn't find anything.	John		
+tm_bd88umv8h689f0yb		This is not sufficient.	Marjorie		
+tm_nqll6vzb0b1jvm8n		You should consult the INPI databases, and probably a few others to be sure your concept doesn't exist.	Marjorie		
+tm_dcz25eqppltg20vf		And if there, I also find nothing ?	John		
+tm_w3fac38auaacbinx		Then you will be able to protect your invention.	Marjorie		
+tm_e1u9uudadptdv1cy		And you have a few options...	Marjorie		
+tm_gn7jyocc7uzekq5q		What do you mean ?	John		
+tm_fre1arkm3hcig1p1		A long discussion about patent details later...	APPRENANT		
+tm_6g1yx1pm4mr72p27		And finally, if you want to go ahead, you should know you will have to make a 550 € deposit, then pay each year an increasing amount of money to maintain your patent.	Marjorie		
+tm_2xjl09d3to7hisan		You probably should double check if it is worth it.	Marjorie		
+tm_qneefqhkgzn7whol		And by the way, why do you want to file a patent ?	Marjorie		
+tm_js14n5hmx185i80u		The Red Cross' job isn't to build drones, right ?	Marjorie		
+tm_pn2bzqzq1jqqaikx		And there are other ways to protect this invention.	Marjorie		
+tm_9sydqu7kdwyv3w72		Euh, true,... True, but the idea seemed interesting to me.	John		
+tm_wo6zkwdfvbybep4j		On the other hand, a patent might get a bit expensive...	John		
+tm_gw9p0isu609jielc		I'll think about it.	John		
+tm_g69zj2w2fv7pumsg		I'll think about it	John		
+tm_2al3rey3ck5etpqw		Hello you all !	Hubert		
+tm_n2wbm13banhf4oce		I've asked you t come here to officially decide if we launch, or drop our drone project.	Hubert		
+tm_4u102oj6klfl9y8p	I specifically red the requirements	I specifically read the requirements sheet, and the budget estimation Isabelle made.	Hubert		
+tm_hclkwllklmp746wq		I suggest that Marc makes his assessment on the technical feasability, then Isabelle will develop the expected benefits.	Hubert		
+tm_nfd6my20uw0mjfry		Then, we will decide together the project's future.	Hubert		
+tm_44eyw25zlopwap1s		Marc, you can go ahead.	Hubert		
+tm_pteqwvt4twpnd4is	Here, Hubert introduces the meeting formally. He first describes the meeting's goal, then describes the different points that will be discussed. Sometimes, introducing evryone is usefull, but in this particular case, evryone already knows each other.	"Here, Hubert introduces the meeting formally. 
+
+He first describes the meeting's goal, then describes the different points that will be discussed.
+
+Sometimes, introducing evryone is usefull, but in this particular case, evryone already knows each other."	APPRENANT		
+tm_rxk5i13yrtyqjqr4		You will see this in the meeting management class of the second year International Week	APPRENANT		
+tm_bso1msrbdh42ts1r		Hello you all !	Marc		
+tm_6d7doktagkm8eszj		We worked hard to produce a result in a timely manner.	Marc		
+tm_qy5qvycn2kok4mjg		I will project a diagram of the functions we retained for our drone.	Marc		
+tm_x3i3stedvtf7fpyj		This functionnal set takes in account several analysis, particularly theresults of our safety, cybersecurity, and environmental impact, along with technical needs of the final users.	Marc		
+tm_fkddoj8rmlp3kfgj		As you see, the result is a 15 functions octopus diagram.	Marc		
+tm_zs14mv5nu2h6crq2		Their technical feasability is established, but some of them will be quite expensive to develop, and we will have to set priorities.	Marc		
+tm_6yd1nl7v4lw9audc		I'm thinking more particularly about the functions that will ensure the system's safety in case of a fall in the river.	Marc		
+tm_hiannypsq8e4b56j		To answer a loss of signal, I'd say we could solve it with some software.	Marc		
+tm_kr12tzznyhc4l0a1		The drone will basically home in to a predefined point, if it can not detect any control signals.	Marc		
+tm_ojtueezd1rvs8len		To answer a fall in the river, we should probably reinforce the structure, and make th edrone waterproof, but where to stop ?	Marc		
+tm_8epbgqx3ds3wf6h0		We need to reach a compromise between making the drone as light as possible, and protect the motors, rotors, and medicines.	Marc		
+tm_y2u36cgvy2nofeoe		The eco-conceptions aspects may also influence us, particularly on the material choices.	Marc		
+tm_3q8nmn4n0xuroxko		For exemple, a wood structure wood be easily disposable, and probably also help us make our drone float.	Marc		
+tm_obuyfb1aee1r8b1p		To make it short, the price could be tripled depending on the choices we make.	Marc		
+tm_8bdncwiuwekdo0gi		I will let you, Hubert, decide what should take priority, depending on the association's strategies.	Marc		
+tm_rjgaztfw9w6rg7v1	Here, Marc acts as an exemplary system engineer. He showcases functionnalities, then challenges their significance and their priorities with regards to the strategical decsion of the Direction.	"Here, Marc acts as an exemplary system engineer.
+
+He showcases functionnalities, then challenges their significance and their priorities with regards to the strategical decsion of the Direction."	APPRENANT		
+tm_r3afs6x9ohdy3bpi		Thank you Marc ! Indeed, the budget will hold an important place in this meeting.	Hubert		
+tm_7cmkw4gg186fij5h		But we also have to consider other aspects, such as the public image of the Red Cross, the modernity feeling we want to spread, and last but not least the welfare of our staff.	Hubert		
+tm_xs00yew2uxaxm0fy		Before taking a decision, let's hear Isabelle talk about the budget, and the need in human resources of the project.	Hubert		
+tm_akrzsfsb6l6ejs7g		Isabelle, your turn.	Hubert		
+tm_fagt457bomqs4rob		Thank you Hubert !	Isabelle		
+tm_wlifr4tljsw9cm06		And thank you Marc for giving us this elements early on.	Isabelle		
+tm_zy5sijt55djtruls		Thanks to this data, we were able to estimates the costs of our drone, in the basic configuration.	Isabelle		
+tm_68joqhyip4bqsyt7		Marc and me agreed to retain all the main functions of the octopus.	Isabelle		
+tm_avwsk7cfbuahy1mo		In this basic configuration, we also added the constraint functions 1 to 5, so that the drone will be able to resist destabilisations due to ground and wind effects, and could carry a two pounds payload.	Isabelle		
+tm_e8q6cbwtdiqgepmx	This basic version would cost us around 1000 €.	This basic version would cost us around 1 000 €.	Isabelle		
+tm_6odzlqmwex6eezx7		300 € in materials	Isabelle		
+tm_3cj0mwmh0zz84vl9		and 700 € in human resources, corresponding to the works of volunteers, plus ten days of work of Marc and Mathilde who also vonlunteered for that task.	Isabelle		
+tm_yh9wr6ue9gmwfb7v		Then several security levels are available :	Isabelle		
+tm_g4vbffag5gciu8f5		If we want to protect our drone from a fall, we will have to take FC5 and FC6 into acount.	Isabelle		
+tm_kb1kkc07k55aiavi	The new floating structure that would resist a 15 feet drop will cost us around the price of the basic version of the drone.	The new floating structure, that would resist a 15' drop, will cost us around the price of the basic version of the drone.	Isabelle		
+tm_t71c99hqtp3r6wtr	So, the price doubles, and goes to 2000 €.	So, the price doubles, and goes to 2 000 €.	Isabelle		
+tm_o5rljsi6tagb45kl		If we want to get another security level, and be able to recover the drone more easily, we have to add the FC8 and FC9 constraints.	Isabelle		
+tm_pdkiuwqlwmsiz21j		This implies the development or purchase of an Android app to track th edrone on a map.	Isabelle		
+tm_b1kox6cvvxukvqxt		We will also have to programm some more on the drone, and add a GPS tracker in it.	Isabelle		
+tm_6s872f08bzfcvyw6		We need 800 € to do that.	Isabelle		
+tm_8gndsz1wopu24qo8		For the functions regarding protection against piracy, we could solve it by encrypting the communications, the estimated cost is rather low at 200 €.	Isabelle		
+tm_xhdokto87qpqhif1		For the environmental impact, we could mostly buy recyclable batteries, and the wooden structure described higher.	Isabelle		
+tm_mnexmaxjzx7bqa6j		The estimated added cost is also low, around 200 €.	Isabelle		
+tm_hte4dro5gebujowy	To sum things up, the drone will cost somewhere between 1000 and 3200 €, depending on the retained options.	To sum things up, the drone will cost somewhere between 1 000 and 3 200 €, depending on the retained options.	Isabelle		
+tm_zk376cgluzn8kphm		As of the project's duration, Marc and me estimated it at 8 months, sliced in several phases we will have to develop.	Isabelle		
+tm_2g59uz2lfpq9l3z8		We've also worked on a first estimation of risks.	Isabelle		
+tm_e3geti2yhlqyq8h7		I can project it if you want	Isabelle		
+tm_yo5z7mj9v1v26dbs		Choose Hubert's answer :	APPRENANT		
+tm_5zddp3xnmp6xqvl9		No, I trust you.	Hubert		
+tm_3t1jc7bfeqy632pe		Yes, please !	Hubert		
+tm_myaz42p24fyxrubv		"This agreement on the planification, and budget between Marc and Isabelle is very important.
+
+It is essential that the project leader, and the system engineer share the same vision of the project's complexity, and of the associated budget.
+
+Close coordination beween these two is therefore essential."	APPRENANT		
+tm_gti0ojt7axf9kpps	How to manage risks is taught in the Risk Management Process of the INCOSE handbook.	"How to manage risks is taught in the ""<b>Risk Management Process</b>"" of the INCOSE handbook."	APPRENANT		
+tm_l2g21j5sge97i0ut		There it is.	Isabelle		
+tm_21iv1o2h42zgm9pw		The three major risks are : ordering components, weather during the outdoors tests, and components breaking during the tests.	Isabelle		
+tm_oqcll82i4cgomn8a		The ordering process is a risk factor, because our administration is a bit heavy, and materials delivering time can be rather long.	Isabelle		
+tm_1u156elwwc1nm7wd		Especially the motors and the micontrollers...	Isabelle		
+tm_box1vdd57ykv3x6r		Weather conditions, because the rainy season is coming, and rain will prevent us from testing our drones outside.	Isabelle		
+tm_1ql8k4s9mobd2492		Finally, components breaking, because the piloting during the tests might be approximative, and we will do some stress tests.	Isabelle		
+tm_5z4nl8h2sye5a65k		We will certainly break a few rotors, and burn some motors.	Isabelle		
+tm_0nhdavq8hwjyyf9r		What measures do you advise to lessen these risks ?	Hubert		
+tm_o1exz2jnfivi0sjj		Well, for components, we will order the most critical ones, as soon as the end of this week, if the projet gets approved.	Isabelle		
+tm_bxk7am1mcj5uite9		We will use two different providers for each component.	Isabelle		
+tm_ykhchmj8k338n8ya		If we get lucky, one provider will be faster than the other.	Isabelle		
+tm_tg67mb1jpzb65o0i		For the third risk, we will buy several packages of rotors with diffrent sizes, and order doubl the amount of motors and controllers we need.	Isabelle		
+tm_z5phc0xf3isbgys5		Finally, to answer the second risk, we're searching for a closed down factory with an intact roof.	Isabelle		
+tm_beh99tg2ob2ni5kb		That way, we could do our flight tests, even if it's raining for days.	Isabelle		
+tm_wtacqs65jq3g06tm		Won't these additionnal orders rise our budget ?	Hubert		
+tm_ez1z5iv3b070xspy		"They're already included in the previous budget estiamations, labelled as ""provision for project risk""."	Isabelle		
+tm_gtcbf4r6vojnsa66		Great ! This seems extremely professional.	Hubert		
+tm_w1c8awst5cw0f3rc		Thank you very much Isabelle for this synthesis !	Hubert		
+tm_p702kalzxf4g2mi2		Well, the debate is opened.	Hubert		
+tm_f6khdz2ok4je1ve3		Who has anything to say ?	Hubert		
+tm_bgb5bazzbj7d94jn		Well, it seems to me that, in the costs, a point was forgotten about.	Émilie		
+tm_2pduui2hrutk1ygd		"As I told Isabelle, I already piloted some drones in the ENAC, inside the ""volière""."	Émilie		
+tm_emku1y33ff9793yq		But here, I think it will be a bit more demanding, and that a dedicated training is required.	Émilie		
+tm_65s2gzvvhyzgqqxg		"In most projects, training to use the new system is of paramount importance.
+
+It is sadly often overlooked or forgotten..."	APPRENANT		
+tm_1sv9c0vabym0ade5		Yes, indeed, good point !	Hubert		
+tm_fnzzgum1ptmls9zc		Do you have an idea of the cost of such a training ?	Hubert		
+tm_fhuwnoynh60rju4m		Well... There is the problem...	Émilie		
+tm_4dglpcyg18qxx56b		It costs quite a lot.	Émilie		
+tm_vtxfot7jtuero7ef		I looked it up on Internet, and the cheapest one I found was a three day course for 950 €.	Émilie		
+tm_sucei1x5npx5zk6y		Ouch... How many pilots do we need ?	Hubert		
+tm_zd934975owhgq5lb		Well, at least two, I'm willing to do it, but I won't do every run !	Émilie		
+tm_w7gvlc4ytl4vyca6		And then, there's also Édouard, the nephew of Bamalowi's chief...	Émilie		
+tm_vetszzz6fjpl2g8j		You're right, I totally forgot to mention it !	Isabelle		
+tm_mt9usrhvdwycp1je	So, if I understand right, we need to add 3000 € to this project ?	So, if I understand right, we need to add 3 000 € to this project ?	Hubert		
+tm_ig8jgo1di0b7sxnc		Any other points ?	Hubert		
+tm_kf3i3979qt8i3250		Yes, you were talking about the welfare of the personnel.	Odile		
+tm_uzwn3ej5hv6q4aya		And I'd like to insist on that point.	Odile		
+tm_jmydfs6im4bvddu6		This project, for me and my colleagues, is the hope to gain a lot of comfort during the runs.	Odile		
+tm_3phsmu4hue5b5shs		This detour by the Bisotu bridge costs us dearly.	Odile		
+tm_tf2x6ctgvxhshy2b		We get thrown around in our truck, and just the idea that we will have to come back by the same track makes my back hurt.	Odile		
+tm_ypsz0uw16nr33j88		So we say yes, we will gladly spend more time with the people of Bamalowi, or Ramatowa, and  especially yes to a shortened route.	Odile		
+tm_he42fcltw4p70u9n		Thanks Odile ! And if there aren't any more points, I will go that way.	Hubert		
+tm_i6wzpg2ffh5axfug		I'm for going through with this project !	Hubert		
+tm_k0z48j85f8pbcg6f		It aligns with our values, and even better, it will rejuvenate our association.	Hubert		
+tm_ia06q0i0y8cfekgz	For the budget, I suggest we follow the estimate Isabelle made, 3200 €, plus the 3000 € for the training suggested by Émilie.	For the budget, I suggest we follow the estimate Isabelle made, 3 200 €, plus the 3 000 € for the training suggested by Émilie.	Hubert		
+tm_743cq9y6s9i8kqtj	So that makes a total budget of 6200 €.	So that makes a total budget of 6 200 €.	Hubert		
+tm_30ikrdjowo454axz		I hereby appoint Isabelle as project mananger.	Hubert		
+tm_zmethj1d3m3e24lb		Please give her all your support.	Hubert		
+tm_89fr5drhjjv06yqj		Does every agree ?	Hubert		
+tm_gpg2y4gcv2gbjbgj		Yes great !	John		
+tm_hotrrxvq3ouq5sut	"In the minutes, please add ""project approved unanimously with a 6200 € budget""."	"In the minutes, please add ""project approved unanimously with a 6 200 € budget""."	Hubert		
+tm_y445sz14kcizqyb7		And for the duration, we will go with the 8 months you agreed on with Marc.	Hubert		
+tm_3g2bxzafu76lzl0v		Do we have a name for this project ?	Hubert		
+tm_t16k6akam4utawta		We'll have to find one...	Isabelle		
+tm_o328pqygewhr6o0j		Thank you all for taking part in this meeting !	Hubert		
+tm_hteg4vug83080xq5		I suggest we do a similar reunion in two months to check on the progress we made.	Hubert		
+tm_30knjupq6l6z6t58		My assistant will choose the date according to your availabilit.	Hubert		
+tm_s3f9mdvzpu3b6153		Have a nice day !	Hubert		
+tm_gaklwwfvx7917wdr		This functionnal set takes in account several analysis, particularly theresults of our safety, and environmental impact, along with technical needs of the final users.	Marc		
+tm_zxe31z87jt8566ug		So, that's it, you got your budget !	Marc		
+tm_gr7ggidfuh65c8nu		Yes, I wasn't believing we would get this much.	Isabelle		
+tm_5n3c1w3pworvx2c8		Hubert is really motivated by this project.	Isabelle		
+tm_gd9zfl3de2u6a1fn		I think he loves involving his association in such innovating projects.	Isabelle		
+tm_gapu2n39id4diaxm		Yes, it's a pleasure to see him that keen.	Marc		
+tm_bt0amvv72iw2h24o		I came to see you, to reach an agreement on the different phases of the project.	Marc		
+tm_wzbzjxanbvke117o		I've thought about it, and I think it would be great to discuss this matter together.	Isabelle		
+tm_wtokj7ngvxjrauw7		During the reunion, I suggested we develop the drone in a minimal version, then I showcased two sets of options.	Isabelle		
+tm_tfq1oomij6qotw61		So, I think we could divide the project in three phases, each corresponding to a coherent functional set :	Isabelle		
+tm_pz75e5twj2x2r2tc		the basic drone,	Isabelle		
+tm_2b94yaxnb6yu81ft		a reinforcement of safety functionnalities,	Isabelle		
+tm_vyaq3zn5rqp0uva2		and a tracking system.	Isabelle		
+tm_dj9j1z0cf1pagcv6		And I'd put ecoconception and anti piracy protection directly in the basic version.	Isabelle		
+tm_t3wlw0a7fjdq5r9h		I was thinking almost the same way.	Marc		
+tm_vjrmpkjis1p4q0pz		Just one thing on the two last points : taking into account environmental impacts should absolutely be done right from the start, and it's not negociable.	Marc		
+tm_ux5v9x26gqx56xbk		On the other hand, I'd put anti-piracy protection in the last phase, because it's not particularly hard to realize, and could be placed anywhere.	Marc		
+tm_nak353zhh70smxky		It would be an ajustment variable.	Marc		
+tm_6jr6nioqx5m7c8jd		Fine with me !	Isabelle		
+tm_d6wcgnl3tiyerwyg		Waht would you say about we use the SCRUM method ?	Isabelle		
+tm_lw4gmg7waospvkb3		It seems suitable with what we're trying to do.	Isabelle		
+tm_0c251r443ck3j1bu		Yes, by all means.	Marc		
+tm_f1ytrgbmw1nj8yb7		Shorts sprints during 4 to 5 weeks, with each time a new version of the drone, which will allow us to see if we proceed further.	Marc		
+tm_n1xrcsdzvxqp69ep		It's far better than using a V-Model.	Marc		
+tm_3dzscdv8uw8cdalf		Why is SCRUM better than the V-Model ?	APPRENANT		
+tm_gfr685ekc21au4en		"In the first answer, indeed the development is more flexible, and the formalism on documents is lower. On the other hand, the SCRUM method is very strict, and follows a number of mandatory steps.
+
+The second and third answers match the principal benefits of this method."	APPRENANT		
+tm_um6b57qhd2gxl5ic	The choice of a development method will be taught in the Agile Method Development of the SITA major's second year.	The choice of a development method will be taught in the <b>Agile Method Development</b> of the SITA major's second year.	APPRENANT		
+tm_qiv61m0y9k3g13rp		Well, in that case, I suggest we draft a first planning who will include three sprints, plus a sprint 0.	Isabelle		
+tm_m2npy64l8hb2fu3k		"I'm putting that ""Sprint 0"" to finalize the requirements and adapt it to the agile method."	Isabelle		
+tm_p23vqktotj2yk2ey	"In the Agile Method, the requirement sheet is called ""Backlog"". It consists of several User Stories, who represent the expected functionalities in the SCRUM formalism."	"In the Agile Method, the requirement sheet is called ""<b>Backlog</b>"".
+
+It consists of several ""<b>User Stories</b>"", who represent the expected functionalities in the SCRUM formalism."	APPRENANT		
+tm_dbjzpsxal62fkueg		That sprint 0 will also allow me to validate the availability of the team members for the project.	Isabelle		
+tm_3hdz5iegknpazsos		For the other sprints, how would you share the time and the budget ?	Isabelle		
+tm_zplcqpk58tvm7t8u		Our project is to last for 8 months.	Marc		
+tm_a0kjglc0hu0jvc37		If we remove two months for your sprint 0, that would let a bit more than two months for the other sprints.	Marc		
+tm_5amhiyogna8v0jby		Let's say 8 week for each of them, and keep around one week to test the sytem.	Marc		
+tm_lmnu0vy8x6x7i6sw		Yes, and the training of pilots could be done during the first sprint.	Isabelle		
+tm_q2ko6r88vy7v8yvl		Which means we will have to build two prototypes, to lend one to the pilots, so that they can get more experience with it after their training.	Isabelle		
+tm_zjqpvd0fxuk01kl0		And about the budget ?	Isabelle		
+tm_be5yhf0q9005ma4e		Do you agree to stick with my initial estimations ?	Isabelle		
+tm_jhywpxs16guhccqa	Yes. We have 12 hundred € for the first sprint, as it includes eco-conception,	Yes. We have 1 200 € for the first sprint, as it includes eco-conception,	Marc		
+tm_4tlkqlywe486htsz		800 € for the second sprint,	Marc		
+tm_62vfmhze6tdyqv5j	and 12 hundred € for the last sprint, which would include the anti-piracy protection, if everything goes well.	and 1 200 € for the last sprint, which would include the anti-piracy protection, if everything goes well.	Marc		
+tm_tb47ku34yqhdaw1o		Can't we put the anti-piracy protection in the second sprint ?	Isabelle		
+tm_a9mfzvpskt0k286x		That would spread the budget more evenly, which could please the direction.	Isabelle		
+tm_1ldakvyuf66b3abs		OK, OK, but we lose some of the margins we had in the third sprint.	Marc		
+tm_2ctr46nkd6f71mgz	Let's roll with that. 12 hundred , 1000 and 1000 € it is.	Let's roll with that. 1 200, 1 000 and 1 000 € it is.	Marc		
+tm_rt8fephnk4kqgrfe		Thanks Marc !	Isabelle		
+tm_8wi0ruxu8wiwhevj		No problem ! So, when do we see each other to finalize that backlog ?	Marc		
+tm_sdfygpe0to7io0iq		I'm drafting a new version, more detailed than the previous one, and I'll send it in an e-mail.	Isabelle		
+tm_118cmq70aa51lk5y		I'll also send you my planning, and the updated risk matrix.	Isabelle		
+tm_ngqx2feufgkx4h7z		Let's say Monday, 9 AM in your office ?	Isabelle		
+tm_6ioe3i5phzcpqg76		OK, I'll be there.	Marc		
+tm_8ljmoldeber4zd3p		Using the SCRUM method doesn't mean we stop project planning, and risk prevision.	APPRENANT		
+tm_k0ls4c9u2gb5bpk4		That's it. The requirements are finalized. All lights are green.	APPRENANT		
+tm_u7saujboa1pcygq7		Can we develop now ?	APPRENANT		
+tm_2mxdwv4jo6ab23xa		We now have to go through the functional architecture of the drone.	APPRENANT		
+tm_om56up98at4u551t	This step will be seen in your third year, in the Functionnal Conception classes.	This step will be seen in your third year, in the <b>Functionnal Conception</b> classes.	APPRENANT		
+tm_zpi8als3xaa23zvj	This step is normalized in the following INCOSE process : Architecture Definition Process.	"This step is normalized in the following INCOSE process : ""<b>Architecture Definition Process</b>""."	APPRENANT		
+tm_ytbg5hl47ld8qy4o		We indeed must conceive the functionnal architecture of the drone.	APPRENANT		
+tm_km8ekyurno7eq6r1		Hello you all !	Marc		
+tm_tc30szunj91xksrm		Hello Marc !	Mathilde		
+tm_bbvnd1j51vpwwzql		So, today, we will work on the functionnal architecture of the drone.	Marc		
+tm_7cwj7ei1s7cfa6lj		Our starting material will be the finalized functionnal analysis, which includes environmental constraints, security constraints, and protection against piracy.	Marc		
+tm_b5ytdhnskuf8p9cw		Let's dig a bit deeper the way we're going to dispatch the functions inside the drone.	Marc		
+tm_qyefi1ftwc82j5d7		John, can you project the octopus ?	Marc		
+tm_3vr056o3ma11noin		Here it is !	John		
+tm_md7ypt9vnqkwf3al		What do you suggest to group these functions ?	Marc		
+tm_eknij5hcnh29i142		Well, I think the functions FP4, FP5, FC2, FC4, FC6 and FC7 should all be in the same sub-system whose function would be transport and safekeeping of the medicines.	Mathilde		
+tm_0s0mh2ykezwwu32e		I agree with you.	Marc		
+tm_3hdt6cjmsv8nyc53		And the FC5 and FC3 functions could be linked to a stabilization subsystem ?	John		
+tm_mz2m0jigq934ivhz		Yes, definitely !	Marc		
+tm_ubbalnzeyde973uu		"Work goes on like this, with John and Mathilde discussing with Marc.
+
+Two hours later, the meeting is about to end. On the board is projected the finalized functionnal schematic."	APPRENANT		
+tm_sogm5vnx374b6a2q		Well, we move on quickly. We now have 5 coherent subsystems :	Marc		
+tm_q7ayx2bsbbee5irp		an energy management substem,	Marc		
+tm_hku89e23w9uphzcd		a stabilization subsystem,	Marc		
+tm_uf6vyspvi858wt94		a transport subsystem,	Marc		
+tm_fb5b3qorbt6fmxyp		a motorization subsystem,	Marc		
+tm_773ux7bzr4e5p0wb		and a guidance subsystem.	Marc		
+tm_8cio3d17irnsth2u		Is everyone OK with it ?	Marc		
+tm_4m7msihs4mtz1c70		Yes !	Mathilde		
+tm_l6xgkpbcykcxk69k		I suggest we stop here for today.	Marc		
+tm_uro5p0qofsa69e5u		Nice, I'll finally be able to develop that drone !	John		
+tm_i9d3se4xp12crn2q		I finally will be able to do some programming !	John		
+tm_6xopz3o3khshkxyv		Can John start programming now ?	APPRENANT		
+tm_yymo88pyyf1hely7		No, we still have the material architecture of the drone to do.	APPRENANT		
+tm_ek5qw3t9ogk0egdn	That will be explained in the third year Functionnal Conception classes.	"That will be explained in the third year ""<b>Functionnal Conception</b>"" classes."	APPRENANT		
+tm_t1yt3fwwmnqn4keg	This step is detailed in the following INCOSE process : Design definition process.	"This step is detailed in the following INCOSE process : ""<b>Design Definition Process</b>""."	APPRENANT		
+tm_tyr1j2mh6zickt08		Indeed, we still have the material architecture of the drone to do.	APPRENANT		
+tm_d2d79i8ejb7sy8o2		Today's goal is to see how the functions of our subsystems will be spread on the drone's physical components.	Marc		
+tm_v9s0v8jv7cvhtcek		As you can see, I put all the subsystems on one side, and the pysical components on the other side.	Marc		
+tm_4ci7dy3d3a8mebfc		It's up to you to associate the pysical components to the subsystems.	Marc		
+tm_kknf3b3rxbgf94kv		Nice job !	Marc		
+tm_zci655880sta84zn		This seems to be coherent !	Marc		
+tm_8kd4p31yzsw5hsj4		"You can see here that several material architectures can answer the same functions.
+
+In some mre complex cases, the number of possible architectures could be huge. 
+
+The system's engineer must use his knowledge, and some methods to choose the one that will answer to the need the best way possible."	APPRENANT		
+tm_iyz7gmz51cnakco8		Nice, can I start programming now ?	John		
+tm_omb0rwsmmkgqu4f8		Will John fianlly be able to start programming now ?	APPRENANT		
+tm_9rqtralzrihcfjz0		Not quite... There's still a step before poor John is allowed to program : realize the software conception of the system.	APPRENANT		
+tm_58gmruuzavhcdxzf	This step would correspond to the Software Development Process of the INCOSE standard.	"This step would correspond to the ""<b>Software Development Process</b>"" of the INCOSE standard."	APPRENANT		
+tm_6pr6d1yk5t4ry0qv		"This step will be explained during the ""Object Oriented Conception"" classes you will follow in the 8th semester of the SITA major."	APPRENANT		
+tm_t8y1rnv7ottj78ls		Sadly John, it's still too early for you to start programming.	Marc		
+tm_nh3pkaw4t12opjsr		We first need to give a structure to our code, and for that, we will use the object oriented conception.	Marc		
+tm_q750e6hqr9r40nhh		I'll let you next week to think about it.	Marc		
+tm_ah8so1mugmitmqj2		Try thinking about all of the use cases, and the classes you can deduct from them.	Marc		
+tm_2o4spz265dvzesgq		Have a nice weekend !	Marc		
+tm_wd18v0nfjytym37m		I gotta go to my mission in Nairobi !	Marc		
+tm_gndb0i42cjnbivz5		Lucky you ! Please bring us some Ugali for our next meal !	Mathilde		
+tm_0yr8z6w5s8fkyn2s		Not easy, but I'll try ...	Marc		
+tm_hqj0coltiibx47tf		John will again have to wait for another step : realize the softaware conception of the system.	APPRENANT		
+tm_wijvfrkak2smyi9p		Marc came back from Nairobi.	APPRENANT		
+tm_19o360qtuet2jt6w		So, did you take some time to think about the software conception of our drone ?	Marc		
+tm_qupw49ynkawgu26d		Yes, but I only focused on the software that will be flashed in the drone's microprocessor.	Mathilde		
+tm_onmzek2k6qf1s813		I didn't have time to think about the localization app.	Mathilde		
+tm_th1gpg9bb4c6jof6		That's alright.	Marc		
+tm_e5ikguocwbghx628		We'll see that later...	Marc		
+tm_le1ng4z09p35bgay		Well, the software has several functions to manage :	Mathilde		
+tm_tf6tep21f0oadsjw		For the guidance function, the program mut analyse the signals received from the remote, and convert them in power, and rotation speeds on the yaw, roll, and pitch axis.	Mathilde		
+tm_h4l5krtcv7r20rda		For the stabilization function, the program will have to analyse the output of the inertial unit, calculate the yaw, roll and pitch rotation speeds, and compare them to the orders from the guidance function, then apply a PID to fianlly compute the correction on each axis to stabilize tha drone.	Mathilde		
+tm_aw2jgnmumv6amzpf		Fianlly, for the motorization function, the program has to convert each axis correction, to a motor command on the four engines.	Mathilde		
+tm_t72dy33jrqz93bm7			Mathilde		
+tm_c3qo7lqxambd8hx1		Is eveyone with me ?	Mathilde		
+tm_qm79u7a9kpyu26nj		John, can you send me a buoy ? I'm sinking...	Marc		
+tm_ep9bpuugem46z7pw		I think I need one too...	John		
+tm_110v9lvrt22rmics		OK, that's not very important.	Mathilde		
+tm_6er1s5u4v165gpuy		What you have to remember is this diagram.	Mathilde		
+tm_vnc5zq81h1y1xqhm		From this diagram, I extracted most of the objects, and methods I would need to make that appliaction.	Mathilde		
+tm_gmfyg3bc06gut18i		"You will see that in more details in the ""Object Oriented Conception"" classes of the SITA major."	APPRENANT		
+tm_hpsjg5a35nb3k3cq		Perfect, that's more understandable.	Marc		
+tm_fmti87ffh1p7jjwd		John, I got good news for you !	Marc		
+tm_m3y8k3s871zn2uba		You will finally be allowed to develop the software !	Marc		
+tm_8iupvy3kqq0mb2gm		Finally !	John		
+tm_s8puawo4agt4w1nn		But before that, draft proper ducments using the models we usually use.	Marc		
+tm_q63cmwmuuyc3icn7		I'm counting on you.	Marc		
+tm_o5oz8lb1v8n6c76j		OK, we'll do that.	John		
+tm_9l4ap9fqtx0blbrg		And of course, you will use object oriented programmation, right ?	Marc		
+tm_o285yz6fv3w3p1gq		Yes sir !	John		
+tm_qyu19vnghxzou4q6		As you wish !	Mathilde		
+tm_83klv1o240bohm76		Object Oriented Programmation is first seen in the Python class of you first year.	APPRENANT		
+tm_7mv0rxx6jeoqufkg	It is developped further in the Object Oriented Programmation of the SITA major's second year.	It is developped further in the <b>Object Oriented Programmation</b> of the SITA major's second year.	APPRENANT		
+tm_65547vjkm4qp2w29		Marc came to ask John about his localization app	APPRENANT		
+tm_4yrmzosq4fa30c7s			John		
+tm_nlbz2nc46ekeq2xd		I was thinking about the localization app.	Marc		
+tm_i7wmbkawboxftv8x		Did you make some progress on that part ?	Marc		
+tm_yqv2quqlnkbspogk		Yes, I'm the one who took that part.	John		
+tm_mbqc9fgd0j6snel0		I already started to develop it.	John		
+tm_mxgo7eld5dpnkipg		But I didn't see any document on the conception of this part...	Marc		
+tm_2cfz863p4g1opvhr		Did you skip that part ?	Marc		
+tm_l6viczhwyk4ctrbr		Not exactly. I did some object oriented conception, but it is extremely simple.	John		
+tm_zrct99owepgg8trk		The app only has to show the drone on a map, and to display a message in case the battery needs to be charged.	John		
+tm_vencosr1rhfdz6b7		So I only have 5 classes to create.	John		
+tm_mnv4gp5fnqnd9w07		There's just not much to say about it.	John		
+tm_daievuisfticn86e		Is John right to not spend much time on the conception, knowing that the app seems really simple ?	APPRENANT		
+tm_xatvz4xvbq1vwmd0	No, John is wrong. Especially because in this case, human-machine interactions will play a large role. The user should be involved there, and HMI conception is the object of some entire education cycles. The most important point are : Involving the users from the start, Prototype, evolve versions or jettison them until the user is satisfied. Only then, you can start the object oriented conception and programming.	"No, John is wrong.
+
+Especially because in this case, human-machine interactions will play a large role.
+
+The user should be involved there, and HMI conception is the object of some entire education cycles.
+
+The most important point are :
+
+_ Involving the users from the start;
+
+_Prototype, evolve versions or jettison them until the user is satisfied.
+
+Only then, you can start the object oriented conception and programming."	APPRENANT		
+tm_bwr50gp7r3ma9o8y	In the IENAC training, it is taught in the HMI Conception classes in the second year.	"In the IENAC training, it is taught in the ""<b>HMI Conception</b>"" classes in the second year."	APPRENANT		
+tm_7ao8xpp54c11aywt	In the INCOSE handbook, it is referenced in the 9-6 chapter : Interface management.	"In the INCOSE handbook, it is referenced in the 9-6 chapter : ""<b>Interface management</b>""."	APPRENANT		
+tm_frmxwhhvzdij290n	You're right, John is wrong. Especially because in this case, human-machine interactions will play a large role. The user should be involved there, and HMI conception is the object of some entire education cycles. The most important point are : Involving the users from the start, and Prototype, evolve versions or jettison them until the user is satisfied. Only then, you can start the object oriented conception and programming.	"You're right, John is wrong.
+
+Especially because in this case, human-machine interactions will play a large role.
+
+The user should be involved there, and HMI conception is the object of some entire education cycles.
+
+The most important point are :
+
+_ Involving the users from the start;
+
+_Prototype, evolve versions or jettison them until the user is satisfied.
+
+Only then, you can start the object oriented conception and programming."	APPRENANT		
+tm_5eym9mnlb0ulggsj		Émilie is standing in front of the drone	APPRENANT		
+tm_odywtit5x3fw2sai		Ready for take off, Émilie ?	Marc		
+tm_cib9lov6f244muke		Yes, ready !	Émilie		
+tm_hp7dr6057ptg3mca		Let's go, full power !	Marc		
+tm_e1035t49s1q1nytc		Here we go...	Émilie		
+tm_z4zu3rixu8vzp9si		"Émilie pushes on the gas command. The rotors start spinning.
+
+The drone starts to take off, but takes some list. Émilie tries to counter it. The drone stabilizes, resumes its ascent for three feets, then becomes unstable again. 
+
+Émilie tries a last ditch effort to save the situation, but the drone capsizes, and crashes on the ground, with one broken rotor and a smoking motor."	APPRENANT		
+tm_ywbs88ib212wmc0t		Not very good piloting...	Marc		
+tm_x49o2k6apsujgsgw		I don't understand...	Émilie		
+tm_3sa379j7ivae6357		Why did that drone become immediately unstable ?	Émilie		
+tm_41cx90ko0bdqo94j		Well, let's check that...	Marc		
+tm_se8na2xk7qgkqqdp		A few minutes later, Marc comes back	APPRENANT		
+tm_vg23b7vyucggj1ev		The inertial unit was never powered.	Marc		
+tm_xxopqsxdiwc553ti		Its power LED isn't on.	Marc		
+tm_01tzab57fnc6ude8		With that part not sending any information, the drone wasn't able to correct its position.	Marc		
+tm_7r20up3dtzvp4031		That explains the crash...	Marc		
+tm_o4rem6q6oqr33ueg	"What happened ? The internal function ""<b>Distribute power to all the subsystems</b>"" was only partially realized. It was forgotten about for the satabilization subsystem. So the inertial unit power connection wasn't checked, and it was never activated. With no way to know its position, the drone crashed."	"What happened ?
+
+The internal function ""<b>Distribute power to all the subsystems</b>"" was only partially realized. 
+
+It was forgotten about for the satabilization subsystem. So the inertial unit power connection wasn't checked, and it was never activated.
+
+With no way to know its position, the drone crashed."	APPRENANT		
+tm_cz3fhefe04zsxbul		"It's a really foggy day.
+
+Émilie, the drone's pilot, is trying use the video feed as the drone crosses the river.
+
+It is soon near the other bank, but Émilie can not see the landing target."	APPRENANT		
+tm_tdihw1q1i53zgn1m		Hey, Mathilde, I think I'm lost.	Émilie		
+tm_vsmtyt0j1z8a47fd		Can you check my position on the tracker's app ?	Émilie		
+tm_o79u3mykm7v09i83		Yes, of course !	Mathilde		
+tm_p7wqk5eam8q73p6k		Euh, I doon't see the drone...	Mathilde		
+tm_00kiohsj3cg08aks		Wait, I'll try to zoom in...	Mathilde		
+tm_0fv6lz2t28h461q7		Still nothing !	Mathilde		
+tm_akai8zohonwiyncm		I think the app isn't working right.	Mathilde		
+tm_y7gx499a81pp9ymc		John !	Mathilde		
+tm_vjzx9bub0nr8dt5p		Yes ?	John		
+tm_65g8u3cbl9khj9i0		Were you the one who developped this app ?	Mathilde		
+tm_atxoxonwnf6rra7o		Yes.	John		
+tm_6aserns2hym90n11		Did you put the right frequency to acquire the signal ?	Mathilde		
+tm_f17t6q1sstvp6vtk		Yes, I doubled checked it yestersday.	John		
+tm_c6kjqdixb5h9cn5a		And was the drone's signal emision tested ?	Mathilde		
+tm_nfm0dorpjaw82c5w		Signal emission ?	John		
+tm_eb74cslbsksbi1pe		That wasn't on my part.	John		
+tm_xub1i3hxo59prk48		Thinking about it, I don't recall seeing any tests on that subject either.	John		
+tm_9v4bpb853ki25qgr		But John, we can't do these mistakes.	Mathilde		
+tm_urkibdnl3jphs5uh		We are losing our drone, and now, it's impossible to know where it is.	Mathilde		
+tm_ptbx6ozwvg78vo28		Sorry, I don't understand...	John		
+tm_yr499w75hthgv1m8		I will try to bring it back using only the camera.	Émilie		
+tm_0anlotug2yw4fpzo		There we go, I'm crossing the river on the opposite direction, but I can't see anything in this fog.	Émilie		
+tm_rrsaaui2wfpmgta4		Can you hear anything ?	Émilie		
+tm_49ivbqtf7yhkacz2		No...	John		
+tm_42yeil7f2uzidi9j		Nothing...	Mathilde		
+tm_y29ghenb7ndln72t		Heck, the screen doesn't even show the video anymore.	Émilie		
+tm_pxso45vtbc3q1kbz		I'm coming in blind !	Émilie		
+tm_z8widtvzpxh5hv14		Wait, I think I can hear it...	Mathilde		
+tm_lowpkuq6b28gx0mp		"Suddenly, the drone sweeps in above their heads.
+
+Émilie tries a maneuver, but the drone is too low, crashes on the ground before overturning himself, breaking two rotors."	APPRENANT		
+tm_nvt29mthy6p6whfq		Ouch... I did my best, but it seems it wasn't enough...	Émilie		
+tm_dy2miye0ps6ss3ru		You did exceptionally well !	John		
+tm_nq3cguq9oq7vgcrl		Looks like we just have two broken propellers.	John		
+tm_xut0ybjzq3nqpby5		But we will have to investigate this problem.	John		
+tm_bv47j05lgewnh9tm		"After a short review, the problem was found : 
+
+Because they forgot to make a complete material architecture before hand, the team forgot that the FC8 function (""<b>Show the GPS position to the pilot</b>"") wasn't properly divided. 
+
+As a result, the GPS position message emission was forgotten about, and never developed. 
+
+John was only tasked with the reception of that signal, which is the only part of that system who was developed."	APPRENANT		
+tm_qvw0igp3qxhqcicr		Hey Mathilde !	Marc		
+tm_cyxr2wf4jyzzzqj1		Hello Marc !	Mathilde		
+tm_4598o1a34owj1qn4		I came to discuss about the last tests we did in the closed down factory.	Marc		
+tm_o6v50nl3p1qtr0da		What is the problem with these ?	Mathilde		
+tm_npvhieckx3woa6d3		The algorithm we use isn't reactive enough.	Marc		
+tm_l5k34oaqtgsxlrme		Émilie always loses control while landing the drone.	Marc		
+tm_lw6l4gvk3kh7073t		I'd like to change or optimize it a bit.	Marc		
+tm_xwhvpkf9pfxcvp9g		Ouch... Jacques was tasked with developping that part, as his area of expertize is automatism. But he went back to France with his wife to start a new life...	Mathilde		
+tm_qsdoa19eja9tgdzw		OK, but changing the program should be possible if it is documented.	Marc		
+tm_n99yj1yaq66yttyo		I'll check that...	Mathilde		
+tm_lbqi3pt5xdlokv2l		Can you come back in an hour ?	Mathilde		
+tm_qaywpk7z3c7d5lvz		OK, see you !	Marc		
+tm_euis4c8ae1o1rqam		One hour later	APPRENANT		
+tm_mc8kcd5jwhb5cbq9		Here I am !	Marc		
+tm_dyy3harr5jke5w0n		I looked the part dedicated to the stabilization algorithm.	Mathilde		
+tm_r5oorzjo03dfv36g		The problem is that Jacques programmed that part really fast, without taking our modular object oriented conception into account.	Mathilde		
+tm_jgjvbqmmvqp330na		Yes, and ?	Marc		
+tm_rxnhwcsnpkco6l6b		It's a total mess...	Mathilde		
+tm_md4ynelbsc2akpva		The stabilization function is embedded in the guidance function, and we can't change it without rewriting this entire part...	Mathilde		
+tm_pdy7pyuhy5g1n7pk		How much is it gonna take, in terms of time and workload ?	Marc		
+tm_unrz6zxmmmytjrc9		Well, the simplest approach is to rewrite everything, but with our standards of development.	Mathilde		
+tm_zc93x8wxswar8uxv		Let's say it's going to take around 30 hours, spread across three weeks, if we want to maintain our schedule...	Mathilde		
+tm_xsp785d0qlvdab8h		I only have Marcel to replace Jacques, and he is pretty busy right now...	Mathilde		
+tm_3gbl8vxw13hjyfo1		At least I know that the code will be done well with him.	Mathilde		
+tm_zd51bfb48inlntxr		Three weeks ?	Marc		
+tm_y2y1smwc43gex4bk		I'll have to negociate it with Isabelle.	Marc		
+tm_73n6fgfxfhmzhmjh		Let's hope she will accept !	Marc		
+tm_hdotf0mswavla65s		"By overlooking the software conception step, Jacques made his program very difficult to maintain. 
+
+He should have anticipated possible changes in the algorithm, and made sure that his code was in a method of an object to make a chang more easy."	APPRENANT		
+tm_7i04b7w2yyaee3k4		Émilie and Édouard came with Marc to do some outdoor tests with the drone.	APPRENANT		
+tm_hzirsmzlepiy8toj		So, today's goal is to test a loss of the drone on the river.	Marc		
+tm_438w1mqel2f0uovp		Édouard, you're going to fly the drone for a bit.	Marc		
+tm_mk6pv3lc2qtjuiaf		Then Émilie will land it softly on the river.	Marc		
+tm_6dnmkz74ief0h900		Next you're going to use the app on the tablet to localize the drone on a map, and go get it. Understood ?	Marc		
+tm_43mxw9xbs64l2htd		Yes sir !	Émilie		
+tm_03p15ns7pl4o4wcb		"Édouard flies the drone  for a short time to get used to the commands, then hands the remote to Émilie. 
+
+She gently lands the drone on the river, and they watch it disapear as the current takes it away.
+
+Édouard takes the tablet. He tries a few manipulation, looks intrigued, tries again, and starts to look panicked..."	APPRENANT		
+tm_abu922hps5ayo120		So Édouard, did you find the drone on the map ?	Émilie		
+tm_9f6uwzwrd3cgc7fi		Euh... I can't find find the right map.	Édouard		
+tm_76n3ccj25txkiag7		Right now, it displays a map of Bangoutou, and I don't know how to change that...	Édouard		
+tm_7tuxk3llod58zamu		But the map should change automatically to display where we are.	Émilie		
+tm_021rn8y75ezdbmic		Émilie, you forgot this tablet isn't equiped with a GPS chip, and there is no network to geolocalize a tablet here...	Marc		
+tm_xfjtmr7evbo8gkc4		Yes, you're right, I'm so used to live in big cities...	Émilie		
+tm_hduqjzt84x1gehkc		But we should be able to zoom out and move accross the region...	Émilie		
+tm_43lu12hi4x5mu00v		Édouard, please give me that tablet.	Émilie		
+tm_1mdn9rco5lvw3gne	Émilie takes the tablet, and tries to center the map around Ramatowa. After a short time navigating menus, she also doesn't find anything.	"Émilie takes the tablet, and tries to center the map around Ramatowa. 
+
+After a short time navigating menus, she also doesn't find anything."	APPRENANT		
+tm_xrviwmvu1rdqggep		Heck, this app is unbelievable...	Émilie		
+tm_7u1sw0cpbanwuwkm		We can't even find how to change the map...	Émilie		
+tm_1s9mvfsuvur3i363		Please calm yourselves, I'll try to phone John.	Marc		
+tm_h0yxh241ch7bijgh		Marc takes out his satellite phone and calls John.	APPRENANT		
+tm_umwrfivqx1rtdpyf		Hey John, I'm with Édouard and Émilie. We're trying to use your localization app, but it seems we can't change the map.	Marc		
+tm_98rou7cqf7wf5p2f		"Listen, that's simple :  go in the ""Edit"" menu."	John		
+tm_wkq6wyc597plicyv		"There, you'll find the ""Preferences"" menu."	John		
+tm_n1paohcxjfmhwqvh		"In that menu, there is a ""Display preferences"" menu."	John		
+tm_9m7292tk5vowr1hd		"And in this last menu, you'll see ""Background map choice""."	John		
+tm_ia2da10oh2wqm5jt	There I put all the maps of the diffrent regions, with a 1 to 25000 scale.	There I put all the maps of the diffrent regions, with a 1:25 000 scale.	John		
+tm_mil6f5wuiee32qfs		But did you put that many maps ?	Marc		
+tm_8j8vyrghvsugfc8a		Well, I thought it might be interesting to give that choice to the user.	John		
+tm_m5jjpk7noh56x7v1		But John, for now, the app is only useful for the Ramatowa village !	Marc		
+tm_xesd6y45belwlppg		Yes, but we never know for sure...	John		
+tm_fdq6g5cxlvgqvkux		OK, we'll see that later, but we're going to have to make changes.	Marc		
+tm_63tbt5eyaoil8lc9		Bye John.	Marc		
+tm_2z0tryu1b41kroj0		Bye boss !	John		
+tm_uy0r5nwk9262x1za		So did you hear what he said ?	Marc		
+tm_thy6uaghi29yd4gw		Yes, but I've forgotten half of the steps...	Émilie		
+tm_es0juudocpty22dk		Here, take that tablet.	Émilie		
+tm_wjxfapp9dj4eqrop		"Marc takes the tablet, and struggles a bit with the app's menus.
+
+A map with the drone's position appears at last. For now, it is 6 miles downstream, and still moving.
+
+It takes more than one hour for the team to get that drone back."	APPRENANT		
+tm_d3oyp5bzm523xmyc		"Because he forgot the HMI conception phase, John totally forgot to ask the final users.
+
+By doing that, he developped an interface considering that some complex interactions were obvious for a user, which wasn't that case. 
+
+He also invented some needs the users did not have, like the amount of different maps required.
+
+A good HMI conception would have simplified the intercation, for example by allowing the user to zoom in and out, and move on a global map"	APPRENANT		
+tm_tkv9p5q0pcwge9yg		In Hubert's office, Marc organizes an emergency meeting with Hubert and Isabelle.	APPRENANT		
+tm_8aaul03q1vj3athz		So, let's try to investigate the issue. Apparently, the code, and most of the technical mechanical data of the drone, mysteriously disapeared from our servers...	Marc		
+tm_rb5fwiexrsyfauto		Clic on the screen to help Marc find out what happened	APPRENANT		
+tm_ye0rgv8lzej6ngen		I got a copy of the server from the cops.	Marc		
+tm_9xn493gmchgkmnk8		Let's see if the log files are still there.	Marc		
+tm_rkc37s91rsxgxesd		Good news, we still have the logs.	Marc		
+tm_bbp4936lzeh4rtvm		One of the last entries is raher surprising...	Marc		
+tm_kdfvyxd58waunpn5		The admin account has been connected on John's computer between midnight and 1AM.	Marc		
+tm_y3tooay2xtb2x8tv		I'm intrigued, John was still with me at a friend's birthday party at that time...	Marc		
+tm_9sbeifratg4ni9yt		After looking again at the logs for a short time, Marc's expression changes	APPRENANT		
+tm_iopxq29soqebifjs		Did you find anything ?	Isabelle		
+tm_q1txx2a7jd1p8qyo		I have a question for John...	Marc		
+tm_5uwgznvowst0ccmb		Isn't there any saves for that project ?	Hubert		
+tm_h02k7gcb70i595av		If we have to start from scratch, it is going to be a disaster...	Hubert		
+tm_xosljbe1cudms00p		It would mean 5 months worth of work vanished into thin air.	Hubert		
+tm_u3d9tecao791640m		Of course, there are saves.	Marc		
+tm_jrk57wxbmj7kero4		I made some data saves every two days on an external hard drive.	Marc		
+tm_eyrot4pqs2tuz093		It was because I feared the server might die during the development. I will put the data back on our servers as soon as we have a confirmation that our network is safe.	Marc		
+tm_tsrab0psbxmtdot7	Copying critical data to create saves on reliable supports separated from the network (like an external hard drive, a backup server,...) is an important part of any IT system security policy. It allows for a faster relaunch of activities after a cyberattack. Such saves are generally stored with ways to prove that their integrity has not been compromized, to make sure we still have usable data.	"Copying critical data to create saves on reliable supports separated from the network (like an external hard drive, a backup server,...) is an important part of any IT system security policy.
+
+It allows for a faster relaunch of activities after a cyberattack. 
+
+Such saves are generally stored with ways to prove that their integrity has not been compromized, to make sure we still have usable data."	APPRENANT		
+tm_4jegkm5q6woucbli	You will see that in the second year IT Systems Security classes.	"You will see that in the second year ""<b>IT Systems Security</b>"" classes."	APPRENANT		
+tm_bc3oceitdq3gltyu		I'm starting to believe you were right about your cybersecurity analysis...	Isabelle		
+tm_0pr0mzuvir36elnr		By luck, I think I copied an important part of the code and conception on my personnal laptop before going on a run, so that I could develop on the run.	Marc		
+tm_tvimwl7nuyv2kzz3		Most of the mechinal data will have to be remade by measuring the prototypes we have though...	Marc		
+tm_qxf9b3ibnlzkxr5c		We will likely lose a week or two to get back to where we were.	Marc		
+tm_5gr4v23oqvu5rddk	Copying critical data to create saves on reliable supports separated from the network (like an external hard drive, a backup server,...) is an important part of any IT system security policy. It allows for a faster relaunch of activities after a cyberattack. Such saves are generally stored with ways to prove that their integrity has not been compromized, to make sure we still have usable data. Here, the team is lucky to have created a partial save by accident, and because of it, they won't have to restart from scratch.	"Copying critical data to create saves on reliable supports separated from the network (like an external hard drive, a backup server,...) is an important part of any IT system security policy.
+
+It allows for a faster relaunch of activities after a cyberattack. 
+
+Such saves are generally stored with ways to prove that their integrity has not been compromized, to make sure we still have usable data.
+
+Here, the team is lucky to have created a partial save by accident, and because of it, they won't have to restart from scratch."	APPRENANT		
+tm_61d08wyw3lc7hamv		A few days later, a police officer came to explain their findings	APPRENANT		
+tm_wkrbams2gvvpb0w3		Sorry for being a bit late, a meeting lasted a bit more that I expected...	Hubert		
+tm_m8tt3hed480a68m7		Thanks for your patience.	Hubert		
+tm_14hb04hokbh8bf7o		No problems.	Agente		
+tm_ehu2o9389xqio3ok		Our exxperts analyzed your devices and the copies we made, and they are pretty much convinced.	Agente		
+tm_5e33vfa97cir8m2k		The cyber attack was made by Claude.	Agente		
+tm_5weomezxjra4pmjq		We took him for interogation, and he recognized he was the pirate who attacked your servers.	Agente		
+tm_twyvs7s6yobwf03v		But would he do that ?	Isabelle		
+tm_rsebls4kyifdqyai		He worked on this project for 5 months straight.	Isabelle		
+tm_1gmmlgv2oft1m7ll		It doesn't make sense to try to destroy everything now...	Isabelle		
+tm_3f9d0r7yjld6j7q7		From what he said, the drone were a menace for his way of life...	Agente		
+tm_wlhnvcek13jj8cvh		He was paid quite a lot by the Bamalowi and Ramatowa villagers to carry the goods you accepted to transport fro free with your drones.	Agente		
+tm_v3efmgcybhbsr2ku	Cyberattacks don't always come from the outside. Quite the opposite actually. A large part of cyberattacks (some studies estimate it at 60%) is launched by employees or ancient employees of the targeted company. That's why you have to stay on your guards, even when a known coworker is sending you an email. Furthermore, the Human resources management is extremely important for cybersecurity. Companies must give a minimum of attention to the interns and other other people who might access their network. And departure management policies must be implemented. It's impertive to delete accounts that have no more reasons to exist, particularly after a retirement departure, or an employee quiting or being fired.	"Cyberattacks don't always come from the outside. 
+
+Quite the opposite actually. A large part of cyberattacks (some studies estimate it at 60%) is launched by employees or ancient employees of the targeted company. That's why you have to stay on your guards, even when a known coworker is sending you an email.
+
+Furthermore, the Human resources management is extremely important for cybersecurity. Companies must give a minimum of attention to the interns and other other people who might access their network. And departure management policies must be implemented. It's impertive to delete accounts that have no more reasons to exist, particularly after a retirement departure, or an employee quiting or being fired."	APPRENANT		
+tm_n4mhxfctzqzuk0qz		But why would soemone from here do that ?	Isabelle		
+tm_hn41c7wal82care3		It doesn't make sense to work on a project for 5 months, then destroy everything on a whim...	Isabelle		
+tm_65n75yxxo3c9yutr		John, do you recall the name of this volunteer ?	Isabelle		
+tm_y69a9aoq3lvgy8tw		Isabelle, please do not draw any hasty conclusions...	Hubert		
+tm_ecjin7g66zgc2hjm		It is very much possible for someone else to have a volunteer's mailbox to send that attachment.	Hubert		
+tm_rycvzli2z6qdcgde		Our local police will shed light on all of this...	Hubert		
+tm_yajukrhef097dbqx		Hubert draws an interesting point. By the way, could you put the steps of a classical cyberattack back in order ?	APPRENANT		
+tm_giwos7nbayz32qpj		After a short wait, John comes in.	APPRENANT		
+tm_in114w4f4q0t24vb		I'm all ears.	John		
+tm_x495y2g04361sr9q		I was said I might be useful to investigate the problem ?	John		
+tm_qq585zntpvmlnkng		Yes. Did you find anything unusual with your computer two days ago, in the afternoon ?	Marc		
+tm_cvzw8lukn5b4gkl8		Not that I remember...	John		
+tm_11myi8k1a9thha9v		Wait ! In fact, yes...	John		
+tm_6jkt3ernn2jdpymz		I received a weird email from a colleague, talking about a problem with my localization app.	John		
+tm_hi0fakpi8ogw8nq9		It contained a weird attachment I couldn't charge or at least properly display when I opened it...	John		
+tm_6skxuvanv612zcv8	E-mails and attachments are one of the most common way to introduce some mailicious programs in a company.That's why you need to be extra sure the message is legitimate before opening them. Here, the message might have been a bit weird, but John could have thought the message really contained some legitimate informations. These kind of manipulations are called Social Enginnering.	"E-mails and attachments are one of the most common way to introduce some mailicious programs in a company.That's why you need to be extra sure the message is legitimate before opening them.
+
+Here, the message might have been a bit weird, but John could have thought the message really contained some legitimate informations.
+
+These kind of manipulations are called ""<b>Social Enginnering</b>""."	APPRENANT		
+tm_i4yk9ooqv8a294yn	This is developped with more details in the Advanced Security classes of the third year of the SITA major.	"This is developped with more details in the ""<b>Advanced Security</b>"" classes of the third year of the SITA major."	APPRENANT		
+tm_v1z9jjfg4es9spdm		Hello you guys ! I asked to come here, because I fear we forgot a step...	Marc		
+tm_kkfvkbqqup7vrn0d		We still didn't talk about the tests we will make to validate the system.	Marc		
+tm_y4fasm04yq40wn43		But we have lots of time before we actually make these tests.	John		
+tm_22bjh6te9yahxq4k		Maybe we should start developing these drones now ?	John		
+tm_tszs045sh5d4d975		I refuse to spend more time of drafting more papers before that.	John		
+tm_3tjyd4w5ej3te0ib	No, operational validation tests for the system should be written, as soon as the requirements are fixed. This allows to check if every requirement is checkable, realist, and what is the materila we need to test them for the validation. Some testing tools might demand some time to be developped or ordered ! And the tests duration must be integrated in the previsionnal planning.	"No, operational validation tests for the system should be written, as soon as the requirements are fixed.
+
+This allows to check if every requirement is checkable, realist, and what is the materila we need to test them for the validation.
+
+Some testing tools might demand some time to be developped or ordered ! And the tests duration must be integrated in the previsionnal planning."	APPRENANT		
+tm_19lhmbjcz8043xnb	You will see these principles in the Verification and Validation classes of you second and third year.	"You will see these principles in the ""<b>Verification & Validation</b>"" classes of you second and third year."	APPRENANT		
+tm_87a9sqa969b857hh	These methods are described in the INCOSE handbook, in the Verification Process.	"These methods are described in the INCOSE handbook, in the ""<b>Verification Process</b>""."	APPRENANT		
+tm_ni5od8clyfdjtfo3		John, I know you hate these paper study phases, and that you find them especially tiring, but we can't skip them.	Marc		
+tm_vgnthx7g7im5iy0p		We have to anticipate the way we're going to do these tests to know if we need some tools, if have to create a specific environment, and how we could cover all of the requirements.	Marc		
+tm_ngym24wzsapbfb20		Good grace, still more paper, won't it ever stop...	John		
+tm_36sb9nwkeajzkmzk		Mathilde, do you think you can draft these tests and validation documents, while implying John to verify the documents ?	Marc		
+tm_6zijs11w3paszqtq		I think we don't have a choice...	Mathilde		
+tm_n18k2cx6io3i58h0		OK, nice of you to accept it.	Marc		
+tm_85va0jnfc20kb9xl		On the other hand, as the system seems pretty simple, I suggest we don't spend too much time testing individual parts. That way we can go much faster on the operationnal tests to see for ourselves the context linked problems.	Mathilde		
+tm_7964isxfzhp5009o		Do you want to follow Mathilde's advice ?	APPRENANT		
+tm_27d78o6f6oqnn3t7	Indeed, operational validation tests for the system should be written, as soon as the requirements are fixed. This allows to check if every requirement is checkable, realist, and what is the materila we need to test them for the validation. Some testing tools might demand some time to be developped or ordered ! And the tests duration must be integrated in the previsionnal planning.	"Indeed, operational validation tests for the system should be written, as soon as the requirements are fixed.
+
+This allows to check if every requirement is checkable, realist, and what is the materila we need to test them for the validation.
+
+Some testing tools might demand some time to be developped or ordered ! And the tests duration must be integrated in the previsionnal planning."	APPRENANT		
+tm_mvekvdjf9tser8v0		Ready for take off ?	Marc		
+tm_h1mbtpt691qyf1mo		Ready !	Émilie		
+tm_740zhadycs5mxfzd	Go !	GO !!!	Marc		
+tm_tvbq9l5tr2069wmn		"Émilie presses on the power command, and the drone slowly takes off.
+
+Suddenly, a small gust of wind hits the drone. It gets shaken, and slowly recovers his trajectory, but starts to rock back and forth, with an increasingly varying pitch. It finally crashes on the ground, with a broken rotor and a burnt motor."	APPRENANT		
+tm_f3j22oo27nsxlr8o		What happened ?	Mathilde		
+tm_kg6tfxm4lx5ce90x		I'd say the drone overreacted to a small gust of wind.	Marc		
+tm_odf4nlguefqjks6i		This strangely looks like poorly adjusted PIDs.	Marc		
+tm_gt5c46oaspf71omp		What do you think about it Mathilde ?	Marc		
+tm_f9fin9rye9vn88h8		Yes, seems you're right...	Mathilde		
+tm_82z1ibgc9okjzczy		Did you do any destabilization tests before coming here ?	Marc		
+tm_ytrkgpzwy4rad89z		Well, no, we agreed to shorten the initial tests as much as we could. I have to recognize the PID coefficient were quickly adjusted...	Mathilde		
+tm_u8bljhqhivthaxar		An hour of additional tests would have saved us from the week of delays we're going to experience...	Marc		
+tm_d5z0bnpywmucmwm7		Now, we'll have to change the rotor and that motor, go back to our testing lab in Nairobi, and adjust all these coefficient to avoid repeating the same mistake...	Marc		
+tm_35ef8jq5b3ul52zl		Yes, sorry Marc !	Mathilde		
+tm_ik4vtx0cjet6unzg		Well, I hope you learned a lesson.	Marc		
+tm_r7x596gzvzypluby		Let's go back home...	Marc		
+tm_gusciykerkrko026		"Doing individual component tests and integration tests before on site operationnal tests are very important, because they make it possible to catch most technical issues if the tests approach realistically the operationnal reality.
+
+For the drone, it might be a good idea to test the flight capabilities in a hangar to see how it reacts to small perturbations, and check for conception or development errors and fien tune the parameters a bit better."	APPRENANT		
+tm_141skucr05o8hpgf		It seems the operationnal tests were succesful.	Isabelle		
+tm_ell8y3902ij2ue0c		What do you think about it Hubert ?	Isabelle		
+tm_q8uek39pastim6il		Sure, the demonstration was quite impressive.	Hubert		
+tm_whwgkho56ti3rz5q		Émilie is an excellent pilot.	Hubert		
+tm_9uwfjbanxk37kf02		She perfectly mastered the drone.	Hubert		
+tm_cnm1zpyy8kmz6w3l		We succeded in the realization of almost all of the User Stories we had.	Marc		
+tm_8lrwn2z46uwzfbpv		Only the third one couldn't have been finished, but we're going t put it in the third sprint.	Marc		
+tm_j4ilbxevzpox91cq		"What are these ""User stories"", Marc ?"	Hubert		
+tm_w2y7h9dk4dhrqg9b		And what is the third one ?	Hubert		
+tm_i7y0g28q5uumvnq8		It's some slang associated with our agile development method : SCRUM.	Marc		
+tm_bktxnw4l1mzwcnvt	The scrum method is taught in the Project Management classes, in the second year of the IENAC training.	"The ""<b>SCRUM</b>"" method is taught in the ""<b>Project Management</b>"" classes, in the second year of the IENAC training."	APPRENANT		
+tm_a6lnblu9z3rpjsw9		That method is described in the chapter X of the INCOSE handbook.	APPRENANT		
+tm_vfuo6un9548thzbn	"The SCRUM method translates the expected functions of the system in small stories to realize. They are written with a precise formalism. For example : ""As a pilot, I wish to act on the motor's power to make the drone take off"". They are called User Stories because they always imply one and only one specified user. In this case, we have the pilot's User Stories, those of the guy in charge ofthe medicines, ..."	"The <b>SCRUM</b> method translates the expected functions of the system in small stories to realize.
+
+They are written with a precise formalism. For example : ""As a pilot, I wish to act on the motor's power to make the drone take off"".
+
+They are called ""<b>User Stories</b>"", because they always imply one and only one specified user.
+
+In this case, we have the pilot's User Stories, those of the guy in charge ofthe medicines, ..."	APPRENANT		
+tm_ospjn7z4czc3tcm5		"The third user story is about the drone's autonomy : ""As the pilot, I wish to have 15 minutes of flight time to cross the river, and bring back the drone. """	Marc		
+tm_8lzqs6ia49uhh7rk		Ah, OK, so the battery isn't powerfull enough ?	Hubert		
+tm_n3wufuxdraojrm0n		Indeed, the flight tests showed that after flying for ten minutes, the battery wasn't able to sustain the drone with a 2 pounds payload.	Marc		
+tm_98tp43stk0tbj2tr		So, appart from thsi minor correction, I am pretty satisfied with this functionnal version.	Hubert		
+tm_63kztay6zyewa8aq		I validate it, and allow further development.	Hubert		
+tm_vnffk2kdnl5jdrpm		What do we do next ?	Hubert		
+tm_x9bwpdhw2czxp5wu		I suggest to discuss what will be in that third sprint.	Isabelle		
+tm_2dv63nek5or5cen1	For now, we have 4 weeks and 1200 €.	For now, we have 4 weeks and 1 200 €.	Isabelle		
+tm_pxkx7we3t95hnj4n	Despite some prejudices, agile development isn't an empiric method where the budget and sprint durations moves freely with the needs and events. The only true adjustment variable in this method is the number of user stories in each sprint.	"Despite some prejudices, agile development isn't an empiric method where the budget and sprint durations moves freely with the needs and events.
+
+The only true adjustment variable in this method is the number of user stories in each sprint."	APPRENANT		
+tm_5rgxaaviho24cbpb		Marc suggests to put all the user stories related with the localization of the drone in this sprint.	Isabelle		
+tm_fiyedl5jii7wqaib		Yes, I think this is possible.	Marc		
+tm_z8p0rd4a76sd9zlt	Our estimations during the team planning poker, made us think these were worth 32 points.	Our estimations during the team planning poker made us think these were worth 32 points.	Marc		
+tm_6g7susudbsnafwa4		This is slightly above the 28 points of the last sprint, but we're getting more efficient each day.	Marc		
+tm_ckg2138zu808ayk7		"""Planning poker"" ?"	Hubert		
+tm_kx75phcxb00a3lju		Some SCRUM slang, isn't it ?	Hubert		
+tm_vdkafjj81if4hqz5		You wouldn't dare playing poker during the work hours, right ?	Hubert		
+tm_7nqvzslx66x3jr2t		Of course not !	Marc		
+tm_cu421ase0dtzr2tl		But it's played with cards.	Marc		
+tm_kp1zxa2wnbpv0u55		For each user story, each partaker chooses a card in his hand.	Marc		
+tm_nqocb4x5zdr5yd7s		The value on the card represents the estimated difficulty.	Marc		
+tm_vnijg24l54xbipl1		At first, no one shows his card.	Marc		
+tm_tvkk5xmqitiez7my		Then, everyone shows his card at the same time.	Marc		
+tm_le6uezg11m2hb9gh		Interesting...	Hubert		
+tm_auryjughae2pvu5l		Could I play with you ?	Hubert		
+tm_75gqrs8krryajqif		Why not ?	Marc		
+tm_2przno44e84bjxa2		Euh, I don't want to be rude, but I have a meeting right after that one.	Isabelle		
+tm_64267r2a3dgsf4cg		Do we agree on this package, yes or no ?	Isabelle		
+tm_mqipwqav34f3h2pk		It seems the package will greatly improve the safety of the drone.	Hubert		
+tm_aexdjr1bzvcntsx3		So let's go with it !	Hubert		
+tm_gq2delayc80ceu4c		Very well, let's get back to work !	Isabelle		
+tm_dbtymstob7viooic	All the people from Bamalowi are gathered near the river. A delegation from Ramatowa, including Nurumbé, is also present. Émilie is a bit moved. The drone is ready to take off. Bruno attached the medicine payload underneath the drone, and Hubert just asked for silence.	"All the people from Bamalowi are gathered near the river. A delegation from Ramatowa, including Nurumbé, is also present.
+
+Émilie is a bit moved. The drone is ready to take off.
+
+Bruno attached the medicine payload underneath the drone, and Hubert just asked for silence."	APPRENANT		
+tm_pk0bizcy2x83b5eo		My dear friends, today is a big day for our association, Ramatowa, and Bamalowi.	Hubert		
+tm_cdhgkf246lgn9z8c		We inaugurate a new era of modern and secure communication : the drone way.	Hubert		
+tm_4717x8eggj1yj8fe		It will allow us to improve our medicine delivery service, while reducing the distance we travel, to spend more time for your health and for talking with you.	Hubert		
+tm_j5sc8bp1kszpiuz9		If I understood well, these drones will also allow you to put some commercial exchange into place.	Hubert		
+tm_wspoqdgg967jg63j		I also want to thank your two chiefs, Nurumbé and Gérard for their active collaboration.	Hubert		
+tm_kk20fltm6x4b6k1y		With that said, let's stop talking and let's look at the action.	Hubert		
+tm_5b86ddei067l8jtb		Émilie will be our pilot for the first flight accross the river.	Hubert		
+tm_p6g4l4u2yv1iqf57		We sent her train a week in the ENAC, and she has been training even more since then.	Hubert		
+tm_g75cdyz8ivrv3rpx		Édouard, your beloved leader's nephew, will fly the return leg.	Hubert		
+tm_wpc8l1pirq7hfqg3		I'm sure he will do a great job, as Gérard told me that he practiced a lot in the neighbouring fields.	Hubert		
+tm_ozwmmkn4j4a46xx4		According to some, it was quite noisy...	Hubert		
+tm_u82q43qdpe5u7sle		Émilie, your turn !	Hubert		
+tm_esv6inkaculn2yup	Émilie takes the remote, and presses a few buttons. The rotors start spinning and whizzing. The drone takes off slowly and starts crossing the river. Everything is running smoothly. Suddenly, a gust of wind pushes the drone, who starts to roll to starboard. Everyone looks the scene anxiously. But the drone automatically rights itself, and continues its navigation. The crowd lets ou a sigh of relief. Émilie lands the drone at 3 yards from the target with the camera fixed in front of the drone. Everyone applauds her. Then comes Édoaurd's turn. A new payload is fixed. Édoaurd presses the commands, and the drone takes off fast. His piloting is less smooth than Émilie's, and the drone flies in a slight zig-zag pattern. He finally reaches the shore. Everyone also apploads him. The payload the drone brought back is unveiled : four pretty necklaces. Hubert takes them and starts speaking again :	"Émilie takes the remote, and presses a few buttons. The rotors start spinning and whizzing. The drone takes off slowly and starts crossing the river.
+
+Everything is running smoothly. Suddenly, a gust of wind pushes the drone, who starts to roll to starboard. Everyone looks the scene anxiously. But the drone automatically rights itself, and continues its navigation. The crowd lets ou a sigh of relief.
+
+Émilie lands the drone at 3 yards from the target with the camera fixed in front of the drone. Everyone applauds her.
+
+Then comes Édoaurd's turn. A new payload is fixed. Édoaurd presses the commands, and the drone takes off fast. His piloting is less smooth than Émilie's, and the drone flies in a slight zig-zag pattern. He finally reaches the shore. Everyone also apploads him. 
+
+The payload the drone brought back is unveiled : four pretty necklaces. Hubert takes them and starts speaking again :"	APPRENANT		
+tm_b749zvfkn7knto2g		In the name of the two villages and my association, I'd like to thank those who made this project possible.	Hubert		
+tm_jzxa5z2wvqq7xsma		I named : Isabelle, Marc, John and Mathilde.	Hubert		
+tm_o0e302kpqix5iu7o		Come here, you guys !	Hubert		
+tm_lx7sqr2iuv1ohy1l		This project's realization did go without obstacles, and I know it.	Hubert		
+tm_j1jahbnshkm114b4		You had to overcome numerous hardships, and a few crashes too.	Hubert		
+tm_fsfqp1ewqma1yjpo		We will to remember to do some more tests before we go test the system in an operationnal environment.	Hubert		
+tm_l5vizvpkp21u3awm		This might help us spare some money.	Hubert		
+tm_52q3ygzoepk4p1v8		Well, this was the building phase.	Hubert		
+tm_8kzau3yee8m479sp		Today you proved your system is operational, and it is reliable, even with gusts of wind.	Hubert		
+tm_ss5fbuotna3yycfc		"That's why, in the name of Bamalowi, Ramatowa and the Red Cross, I make you the founders of this new airway we just opened, and I suggest we name it ""Ramatowi""."	Hubert		
+tm_f7z492cdxrhjbnd4		Congatulations to you four, and thanks for the magnificent work you accomplished, and long live Ramatowi.	Hubert		
+tm_qe9bd4glemmcgfvs		And now, let's party !	Hubert		
+tm_qzfbnxdas09u0777		Hubert put a necklace around the necks of each team member, as the crowd applauds again.	APPRENANT		
+tm_1pjoz7tjq3pndln4	Hubert's speech perfectly shows what to do after a project : A festive event, where every partaker is invited, and a positive evaluation of the job done is made, with an emphasis on what went right and some mentions of what could be improved. The goal is to thank the project's team. The conclusion phase of a project is often rushed through, which could create frictions and frustrations. It could even deter the partaker from taking part in future projects. It should not be overlooked. It is moreover the occasion for a company to capitalize on the knowledge and the lessons they learned in a dediacted document.	"Hubert's speech perfectly shows what to do after a project :
+
+A festive event, where every partaker is invited, and a positive evaluation of the job done is made, with an emphasis on what went right and some mentions of what could be improved. The goal is to thank the project's team.
+
+The conclusion phase of a project is often rushed through, which could create frictions and frustrations. It could even deter the partaker from taking part in future projects. It should not be overlooked.
+
+It is moreover the occasion for a company to capitalize on the knowledge and the lessons they learned in a dediacted document."	APPRENANT		
+tm_nx3z5k11rpl26pu9	There it is, you finished the game. You just have to come aboard in this fabulous adventure of aeronautics engineering, which will allow you to conceive, develop, and maintain our futur navigation systems in a reliable, durable and responsible way. Good luck !	"There it is, you finished the game. 
+
+You just have to come aboard in this fabulous adventure of aeronautics engineering, which will allow you to conceive, develop, and maintain our futur navigation systems in a reliable, durable and responsible way.
+
+Good luck !"	APPRENANT		
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					

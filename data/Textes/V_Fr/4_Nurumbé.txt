@@ -1,0 +1,37 @@
+﻿FORMAT:REFORMULATION					
+[TEXT ID]	[TEXTE PRONONCÉ (FRANÇAIS (FRANCE))]	[TEXTE AFFICHÉ]	[PERSONNAGE]	[NOTES]	
+tm_9pnc221gjb9o2o8o		Le soleil brille donc tout va bien.	Nurumbé		
+tm_2lx4z9wivwybpqva		Nos plantations poussent, la récolte sera bonne cette année.	Nurumbé		
+tm_9hgx4fj62vcvbl8w		Qu’est ce qui t’amène dans notre village ?	Nurumbé		
+tm_x8uqg3ijtkkb1d1e		C’est rare de te voir en dehors des tournées !	Nurumbé		
+tm_yrfz4ie9p7i5vg9l		Pourquoi ?	Nurumbé		
+tm_yx32w93imzl0y169		Tout se passe bien actuellement.	Nurumbé		
+tm_idypw0pqgtbu2nx5		Nous recevons nos médicaments chaque premier lundi du mois, et ils couvrent bien les cas les plus courants de maladie.	Nurumbé		
+tm_px3y5vd0fmf70xro		Oui, je sais, c'est un grand détour.	Nurumbé		
+tm_fl8ptmkioe2y6gu5		Mais comment comptes-tu traverser ?	Nurumbé		
+tm_zioql8gxyx5mi0nb		À cet endroit, les rapides sont très puissants et tu sais bien qu'il est impossible de traverser en barque !	Nurumbé		
+tm_y537sudchk2ccgf8		Des drone ? Ici ?	Nurumbé		
+tm_9f5lk1e5ma7fmxl0		J'avoue que pour vous, c'est une sacrée économie de voyage.	Nurumbé		
+tm_y1pni9oel1qwc1x0		Surtout que la piste pour venir jusqu'ici n'est pas facile.	Nurumbé		
+tm_1uf2amm1k0ael5u3		Mais pour nous, l'intérêt est faible !	Nurumbé		
+tm_2i74jp5varhrpt5l		Hormis pour les enfants du village qui vont adorer.	Nurumbé		
+tm_b4elbmbh20mcnzv5		N'oublie pas que votre passage est attendu avec impatience chaque mois.	Nurumbé		
+tm_vdtgu921un09tevh		Vous amenez un vent de fraicheur dans notre quotidien, vous nous apportez les dernières nouvelles de la capitale, vous discutez un peu avec les enfants et les anciens du village pour voir comment ils se portent.	Nurumbé		
+tm_dzlsb2qv9nvvdgxw		Tout cela serait perdu !	Nurumbé		
+tm_yy25xudkvgzx1gsh		D'un autre côté, plus ça va, plus votre temps d'arrêt est court. La dernière fois, Jacques était si pressé que l'équipe n'est restée qu'une heure.	Nurumbé		
+tm_qfr4m754xtfjl72b		Oui, à chaque fois, il a une bonne excuse !	Nurumbé		
+tm_x6lkhzyj0wd6dg5d		Enfin, tout cela n'a plus d'importance puisque vous n'allez même plus venir nous voir !	Nurumbé		
+tm_570bf7k056m80hfj		Pourquoi ne pas inverser ?	Nurumbé		
+tm_ldppq378zg4zy9ao		Vous pourriez prendre le pont de Pituru en aval et remonter de notre côté de la rivière.	Nurumbé		
+tm_41nt6tg5v4ymvgi6		Vous feriez partir les drones de chez nous !	Nurumbé		
+tm_dei5nlcu1y5ymm31		Ce serait déjà mieux.	Nurumbé		
+tm_zpgvpdbo2gxorra4		Mais dis moi, qu'est-ce que vous cherchez vraiment ?	Nurumbé		
+tm_xh86fil1nse62hgn		Gagner du temps ou éviter un détour fatigant et usant à cause de la piste ?	Nurumbé		
+tm_lj3eaj4889z6hc3h		Et bien, si le temps est moins important, pourquoi ne pas profiter de votre passage pour rester plus longtemps ?	Nurumbé		
+tm_41vfxo44nqndo6jf		Si vous restiez trois heures au village, les gens verront une réelle amélioration !	Nurumbé		
+tm_1jqnjmsh0df9j23r		Ils pourront discuter plus en détail de leurs malheurs de santé.	Nurumbé		
+tm_5buwlxzgxmezrhjj		Ah, je vois que le voyage a aiguisé ton appétit.	Nurumbé		
+tm_jk1zk2pcm4df0415		Ne t'en fais pas.	Nurumbé		
+tm_uu541ndjnrbyup0k		Quand j'ai su que tu venais, je t'ai préparé un petit plat bien relevé comme tu les adore.	Nurumbé		
+tm_stp1hvt5qm1t4z6d		Allons manger !	Nurumbé		
+					

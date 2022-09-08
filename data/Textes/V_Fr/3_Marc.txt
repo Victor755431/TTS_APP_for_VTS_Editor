@@ -1,0 +1,259 @@
+﻿FORMAT:REFORMULATION					
+[TEXT ID]	[TEXTE PRONONCÉ (FRANÇAIS (FRANCE))]	[TEXTE AFFICHÉ]	[PERSONNAGE]	[NOTES]	
+tm_ey24jrbkfsv7oge8		Oui, une idée très originale.	Marc		
+tm_surarrnstpkhn88z		Cela ne m'étonne pas d'Hubert. Il est toujours en train de chercher des projets innovants pour améliorer nos tournées.	Marc		
+tm_fwu18m465kz3z8ck		Mais je dois dire que là, c'est pas banal !	Marc		
+tm_uhou15z01gb7zfov		Tout est faisable, à condition qu'on y mette les moyens !	Marc		
+tm_2nhzrhsvzhuzngcu		Et que l'on applique des bons principes d'ingénierie pour construire ce nouveau système !	Marc		
+tm_j1jzaowvjr5xq3eh		Je suis pris toute cette semaine.	Marc		
+tm_xlycpf1042ddtn9u		Mais la semaine prochaine, j'ai trois jours de libre.	Marc		
+tm_siyqvsiksvpefvbs		Et oui, cela me motive bien de travailler sur un drone au service des villages.	Marc		
+tm_globk1kfojzh73z6		Lundi matin, j'ai réunion d'équipe.	Marc		
+tm_yaflwo7bqtuxal5c		Mais OK pour l'après midi !	Marc		
+tm_y7miusnjd698ite5		Ça marche !	Marc		
+tm_v4qaylbohlht85ii		Bonne journée à toi aussi !	Marc		
+tm_b18s16oyuwskcdi4		Bon, les enfants, avant tout, il faut qu'on délimite notre système.	Marc		
+tm_8mfewpn3gykq9m9k		Avec quoi va-t-il interagir et que va-t-on intégrer comme mission principale ?	Marc		
+tm_zgn6xneves8smg2z		Cela me paraît bien, mais je pense que l'on peut être un peu plus précis sur la distance à parcourir.	Marc		
+tm_eph5ztzl5xamizds		J'ai regardé sur Google Maps, le largeur de la rivière près de Pamalowi est d'environ 800m. On peut donc se fixer 1km.	Marc		
+tm_gk7gytvstm8fp5fa		Tu as tout à fait raison, ces deux éléments dimensionnent énormément le système.	Marc		
+tm_yuin9uij2edgy63d		On part sur un kilogramme ?	Marc		
+tm_e6axa099gxc1j2ey		Notre mission sera donc :	Marc		
+tm_v6oqfyuw9wanh374	"    ""Transporter par la voie des airs un kilogramme de médicaments sur une distance d'un kilomètre"""	"    ""<b>Transporter par la voie des airs un kilogramme de médicaments sur une distance d'un kilomètre</b>"""	Marc		
+tm_kgtg7bc668b193fi		Est-ce que cela vous va ?	Marc		
+tm_nr15bcldmt4xmmrd		Passons maintenant aux limites de notre système.	Marc		
+tm_6mw90t5hkp2pgt41		Avec quoi et qui va-t-il interagir ?	Marc		
+tm_cz668fj0ycev99t1		Cela nous permettra d'en définir les fonctions principales et les fonctions contraintes.	Marc		
+tm_2ne8wde70aakwe53		Oui, encore que j'ai un doute sur l'interaction directe avec le pilote, mais on y reviendra.	Marc		
+tm_vacn9ud3y44ri6hd		Oui, cela me paraît être une bonne idée.	Marc		
+tm_zwbxezezkyhr7ne5		Bon, je crois qu'on a fait le tour des acteurs que le système mets en relation.	Marc		
+tm_2ir0qujkvj7ssai8		Voyez vous des acteurs qui imposent des contraintes ?	Marc		
+tm_z9rx99en6iqjpf23		À approfondir. Quoi d'autre ?	Marc		
+tm_l8sn3k6jil9oyxsc		Il faudra creuser ça lors des études de sécurité. Bon, je pense que nous avons fait le tour des acteurs.	Marc		
+tm_fxwag987ngvh1kon		Je rajouterai le relief du champ de décollage car il joue un rôle important lors de cette phase avec les effets de sol quand les hélices commencent à tourner.	Marc		
+tm_dck7mk1uamjvkieq		Revenons à tous ces acteurs et voyons comment ils interagissent avec le système.	Marc		
+tm_oi1dkow9sxbcxum7		Est-ce si évident que cela ? De quoi va-t-il avoir besoin pour le guider ?	Marc		
+tm_k2wraqabecunt6ob		C'est là le problème ! Doit-on considérer la télécommande dans le système ?	Marc		
+tm_m6ofuffwn5n45440		Dans ce cas, le pilote va effectivement interagir directement avec le système.	Marc		
+tm_xxaxrirbwf1gqsee		Ou bien on exclut la télécommande du système, et dans ce cas, c'est cette télécommande qui interagira directement avec le système, et non le pilote !	Marc		
+tm_h8gnezoyf6xfpdyy		Et bien, pour des raisons de coût, de compétence et de souplesse vis à vis du pilote.	Marc		
+tm_hqvyl2rpru442hgm		Je ne souhaite pas être responsable de la partie guidage sol.	Marc		
+tm_et88ram9d54phpxp		Aujourd'hui, on trouve des émetteurs radio très bon marché avec une une très bonne portée sur Internet.	Marc		
+tm_dl33ii6yjhrca289		Nous n'avons pas les compétences réelles pour développer cet émetteurs, et de plus, cela nous reviendra beaucoup plus cher en terme de développement et mise au point pour un résultat de moins bonnes qualité.	Marc		
+tm_r1r0kaz1ub9bz2ty		Bon, nous pourrions considérer que cet élément est sous-traité, et que nous ne nous en occupons pas, mais dans ce cas, nous devenons tributaires du fournisseur.	Marc		
+tm_avuikhybhwgypfxd		De plus, l'avantage de laisser l'émetteur en dehors du système est de laisser le pilote choisir sa télécommande et la configurer comme il veut.	Marc		
+tm_k9rv6ttpsrhde8y4		Très bonne remarque !	Marc		
+tm_akvazm0c1abf0hqq		Heureusement, aujourd'hui, les émetteurs vendus sont fournis avec un petit boitier récepteur à placer dans le drone.	Marc		
+tm_3fxy5kkk2bnufzqd		Il nous suffit de définir les types de récepteurs avec lesquels nous seront compatibles et le tour est joué !	Marc		
+tm_ivvmhn2yg3hl0m8i		Effectivement, encore une bonne remarque, Matilde !	Marc		
+tm_yi0c7sbwhwrebwmw		Notre système devra prévoir une fonction de calibration pour s'adapter à la plage des signaux émis.	Marc		
+tm_6xirmf35p59cn0lx		Bon, nous avons déjà deux fonctions principales du système :	Marc		
+tm_rjc16n1x42rxx09q	"FP1 : ""Interpréter les signaux de guidage émis par la télécommande pour se déplacer dans l'air."""	"FP1 : ""<b>Interpréter les signaux de guidage émis par la télécommande pour se déplacer dans l'air.</b>"""	Marc		
+tm_wgabtat370um1iba	"et FP2 : ""Calibrer la plage des signaux pour les adapter à la plage de manœuvre maximale."""	"et FP2 : ""<b>Calibrer la plage des signaux pour les adapter à la plage de manœuvre maximale.</b>"""	Marc		
+tm_st6o4h4rc1zguw7j		Quoique, FP2 devrait plutôt s'appeler FC1, c'est plutôt une fonction contrainte.	Marc		
+tm_auw54g87li6ofhic		Parce qu'elle ne met en relation que l'émetteur et le système.	Marc		
+tm_susw5qe9yuhkohg6		C'est plutôt une fonction contrainte là encore.	Marc		
+tm_uzoypg6yx0epohr2		La contrainte étant de pouvoir soulever un kilogramme de médicaments !	Marc		
+tm_fp32rpon3d2bihpe		OK, ça c'est une nouvelle fonction principale.	Marc		
+tm_s752aba7yxq0ttk1	Donc FC2 : Soulever et déplacer un kilogramme de médicament qui met en relation le système avec les médicaments.	"Donc FC2 : ""<b>Soulever et déplacer un kilogramme de médicament</b>"" qui met en relation le système avec les médicaments."	Marc		
+tm_6ymfgefm4l5ygp7n	"Et FP2 : ""Accrocher facilement un paquet de médicament"" qui lie le responsable ""équipe de tournée"" et les médicaments à travers le système."	"Et FP2 : ""<b>Accrocher facilement un paquet de médicament</b>"" qui lie le responsable ""équipe de tournée"" et les médicaments à travers le système."	Marc		
+tm_bu44heucrktwbfbr		On pourrait peut-être commencer à dessiner notre pieuvre ?	Marc		
+tm_ljk2ijrvq831dm7w		Nous avons défini deux fonctions principales et deux fonctions contraintes.	Marc		
+tm_hjf9m6niriu4u7p5	La première fonction principale est Se déplacer dans l'air en suivant les ordres de la télécommande.	La première fonction principale est : <b>Se déplacer dans l'air en suivant les ordres de la télécommande</b>.	Marc		
+tm_aolynwy1f24r01yu	La deuxième est : permettre au responsable du village de départ un accrochage sûr et rapide du paquet de médicament.	La deuxième est : <b>Permettre au responsable du village de départ un accrochage sûr et rapide du paquet de médicament</b>.	Marc		
+tm_777jq4eovtlsmy7o	Et nous avons trouvé deux contraintes : Pouvoir se calibrer sur la fréquence de la télécommande, et Être capable de soulever 1 kg de médicaments.	Et nous avons trouvé deux contraintes : <b>Pouvoir se calibrer sur la fréquence de la télécommande</b>, et <b>Être capable de soulever 1 kg de médicaments</b>.	Marc		
+tm_r6wcks027d5732hu		Nous allons rajouter ces trois fonctions.	Marc		
+tm_g6umqzxwhqk4vni7		La précision est justement un critère de valeur pour la fonction FP1.	Marc		
+tm_4eg03on0nfc47gnb		Je vais la rajouter.	Marc		
+tm_7f42nk4sjoebfwi5		D'autres points ?	Marc		
+tm_kdoblejvg4ghg774		Bon, bon... Dans ce cas, je retourne à mon analyse.	Marc		
+tm_m6c3aijdi2fkij68		Penses-tu que nous devons conduire des études de sécurité ?	Marc		
+tm_7u7nnzzwwiuzde7f		Oui, tu as peut-être raison.	Marc		
+tm_34adt9cct4rh0802		OK, on laisse tomber	Marc		
+tm_4cv77sv5wtrsj56n		Permets moi d’insister quand même.	Marc		
+tm_q7ggaa0c8k5kytlq		Le drone va nous coûter sans doute plus de 2000€, et si on peut éviter de l’endommager grâce à une petite étude de sécurité, je pense que cela peut valoir la peine.	Marc		
+tm_bjhrivmkmaxgelxl		On se limitera à traiter uniquement les évènements les plus critiques.	Marc		
+tm_ktjol3hwip9827hf		Qu’en penses-tu ?	Marc		
+tm_evi5bwcy1p3ooe19		Bon, je vais m’y lancer.	Marc		
+tm_8fjue8y0iqx8agay		Bien, nous avons identifié quelques fonctions principales et contrainte du système.	Marc		
+tm_nl8d1enog9zsmlsb		Maintenant essayons de nous focaliser sur l’étude de sécurité et identifier les acteurs susceptibles d’en créer.	Marc		
+tm_qivyh67gf12huste		La rivière avait été listée plus tôt, je crois que ça vaudrait le coup de creuser cette idée.	Marc		
+tm_mjxgaetwb2z3cnz9		Je suis d'accord avec toi !	Marc		
+tm_ous5bxcwfqx9y9xl		Cela nous ajoute une contrainte et une fonction principale.	Marc		
+tm_8n1rdxe4q8iqyawo		Pas si vite. Cela nous ajoute deux contraintes supplémentaires :	Marc		
+tm_pni1nzwh02fwuol8	Résister à une chute de moins de 5m et Être fonctionnel même en cas d'interférence radio ou de brouillage.	<b>Résister à une chute de moins de 5m</b> et <b>Être fonctionnel même en cas d'interférence radio ou de brouillage</b>.	Marc		
+tm_18al15a0lpuykm48	Je vais rajouter une autre contrainte vis-à-vis des batteries : Gérer le niveau d'énergie.	Je vais rajouter une autre contrainte vis-à-vis des batteries : <b>Gérer le niveau d'énergie.</b>	Marc		
+tm_kx4vn9gi3fidv7ib		 Il vaudrait mieux éviter de tomber en panne au milieu de la rivière.	Marc		
+tm_bonxsivczgy7pxz3		Bon, Je pense que nous pouvons compléter notre diagramme.	Marc		
+tm_tn8hsy95ovo8qqbp		Oui, nous avons identifié plusieurs évènements redoutés.	Marc		
+tm_gdhcyzu8e3h0oi9g		Mais en réfléchissant, je me demandais si on ne devait pas s’interroger aussi sur les aspects de cybersécurité.	Marc		
+tm_4cnfm25m3elaisc8		Et pourquoi pas ?	Marc		
+tm_ler5y7ya30vo477s		Oui, pour n’avoir rien à me reprocher plus tard.	Marc		
+tm_0dgj4pu3deikfcc7		Forcément, nous n’avons mis aucune protection contre des attaques malveillantes.	Marc		
+tm_3k7bh5gb6v5eifg5		Même pas un petit cryptage de l’émission.	Marc		
+tm_m2r5fbz9gzpcaubp		Du coup, n’importe quel hacker moyennement compétent peut prendre le contrôle de notre drone.	Marc		
+tm_7b1qyl0bn70dia33		Je t’avais proposé de faire une petite étude de cybersécurité, mais tu as refusé catégoriquement.	Marc		
+tm_a7k5y9md5r5uxa1f		Oui, le concept est intéressant.	Marc		
+tm_bcgepyo81u4si4ik		Intéressant, intéressant...	Marc		
+tm_qb699pfzkdri71e8		Oui, oui, oui.	Marc		
+tm_c23csfco6odn7fe9		Écoute, John, je ne souhaite pas que tu perdes trop de temps sur ce sujet, mais je te propose d’aller voir Marjorie.	Marc		
+tm_x6fe8bqi29eq0a4m		Elle est notre responsable sur toutes les questions de législation et de protection juridique.	Marc		
+tm_3nzb9aa5wkikri5v		Raconte-lui ta trouvaille. OK ?	Marc		
+tm_bso1msrbdh42ts1r		Bonjour à tous !	Marc		
+tm_6d7doktagkm8eszj		Nous avons travaillé dur pour sortir un résultat rapidement.	Marc		
+tm_qy5qvycn2kok4mjg		Je vais vous projeter un schéma récapitulant l’ensemble fonctionnel que nous pourrions retenir pour le drone.	Marc		
+tm_x3i3stedvtf7fpyj		Cet ensemble fonctionnel a pris en compte plusieurs analyses, et notamment les résultats de nos analyses de sécurité, cybersécurité, impact sur l’environnement ainsi que le recueil de besoins auprès des parties prenantes.	Marc		
+tm_fkddoj8rmlp3kfgj		Comme vous le voyez sur le schéma, le résultat est une pieuvre de 15 fonctions.	Marc		
+tm_zs14mv5nu2h6crq2		 Leur faisabilité technique est établie, mais certaines risquent d’être très coûteuses et il nous faudra décider de priorités pour le développement.	Marc		
+tm_6yd1nl7v4lw9audc		Je pense entre autres aux fonctions concernant la sécurité du système en cas de chute ou de perte de contrôle du drone.	Marc		
+tm_hiannypsq8e4b56j		Pour la perte de contrôle, une solution logicielle nous paraît plus adaptée.	Marc		
+tm_kr12tzznyhc4l0a1		Le drone devra pouvoir revenir à sa base s’il ne détecte plus aucune émission de la part de l’émetteur.	Marc		
+tm_ojtueezd1rvs8len		Pour la chute dans la rivière, une structure renforcée et résistante à l’eau semble indispensable, mais où s’arrêter ?	Marc		
+tm_8epbgqx3ds3wf6h0		Il faut trouver un compromis entre le choix des matériaux et la protection des hélices et de l’électronique.	Marc		
+tm_y2u36cgvy2nofeoe		Les enjeux d'éco-conception sur le choix des matériaux pourraient aussi nous influencer.	Marc		
+tm_3q8nmn4n0xuroxko		Par exemple, le choix d’une structure en bois facilement recyclable et biodégradable répond aux enjeux à la fois d’impact sur l’environnement et d’insubmersibilité.	Marc		
+tm_obuyfb1aee1r8b1p		Bref, le coût de la structure peut aller du simple au triple, en fonction de nos priorités et de nos choix.	Marc		
+tm_8bdncwiuwekdo0gi		C’est à toi Hubert de nous dire, par rapport aux enjeux stratégiques de notre association, ce que l’on doit prioriser !	Marc		
+tm_gaklwwfvx7917wdr		Cet ensemble fonctionnel a pris en compte plusieurs analyses, et notamment les résultats de nos analyses de sécurité, impact sur l’environnement ainsi que le recueil de besoins auprès des parties prenantes.	Marc		
+tm_zxe31z87jt8566ug		Alors ça y est, tu as ton budget !	Marc		
+tm_gapu2n39id4diaxm		Oui, ça fait plaisir de le voir aussi enthousiaste.	Marc		
+tm_bt0amvv72iw2h24o		Bon, je viens te voir pour qu’on se mette d’accord sur les différentes phases du projet.	Marc		
+tm_t3wlw0a7fjdq5r9h		Je suis presque complétement en phase avec toi.	Marc		
+tm_vjrmpkjis1p4q0pz		Juste sur les deux derniers points, prendre en compte les impacts sur l’environnement dès le départ de la conception est absolument indispensable, et on ne peut pas y couper.	Marc		
+tm_ux5v9x26gqx56xbk		En revanche, je déplacerai la protection contre le piratage dans la dernière phase, car elle n’est pas difficile à réaliser, et peut-être placée à n’importe quel moment.	Marc		
+tm_nak353zhh70smxky		Ce sera la variable d’ajustement.	Marc		
+tm_0c251r443ck3j1bu		Oui, tout à fait.	Marc		
+tm_f1ytrgbmw1nj8yb7		Des sprints de quatre à cinq semaines, avec à chaque fois une nouvelle version du drone, ce qui nous permettra de voir si l’on va plus loin ou non.	Marc		
+tm_n1xrcsdzvxqp69ep		C’est mieux que de développer selon le cycle en V.	Marc		
+tm_zplcqpk58tvm7t8u		Nous avons huit mois pour le projet.	Marc		
+tm_a0kjglc0hu0jvc37		Si l’on enlève deux mois pour ton sprint 0, il nous reste environ 2 mois par sprint.	Marc		
+tm_5amhiyogna8v0jby		C'est-à-dire un peu plus de huit semaines, ce qui est parfait pour réserver une semaine de test par sprint.	Marc		
+tm_jhywpxs16guhccqa		Oui, 1200 € pour le sprint 1, qui inclura de l’écoconception,	Marc		
+tm_4tlkqlywe486htsz		800 € pour le sprint 2	Marc		
+tm_62vfmhze6tdyqv5j		et 1200 € pour le sprint 3, qui inclura si tout va bien la protection contre le piratage.	Marc		
+tm_1ldakvyuf66b3abs		OK, OK. Mais cela nous enlève de la marge pour le troisième sprint.	Marc		
+tm_2ctr46nkd6f71mgz		Bon, partons sur ta proposition : 1200 , 1000  et 1000 €.	Marc		
+tm_8wi0ruxu8wiwhevj		Pas de quoi. Du coup, on se revoit pour finaliser le cahier des charges ?	Marc		
+tm_6ioe3i5phzcpqg76		Ça marche.	Marc		
+tm_km8ekyurno7eq6r1		Bonjour tout le monde !	Marc		
+tm_bbvnd1j51vpwwzql		Bon, aujourd’hui, nous allons travailler sur l’architecture fonctionnelle du drone.	Marc		
+tm_7cwj7ei1s7cfa6lj		Nous allons partir de l’analyse fonctionnelle finalisée, qui inclut les contraintes environnementales, les contraintes de sécurité, et les contraintes de protection contre des cyberattaques.	Marc		
+tm_b5ytdhnskuf8p9cw		Nous allons creuser un peu la façon de répartir les fonctions à l’intérieur du système.	Marc		
+tm_qyefi1ftwc82j5d7		John, peux-tu nous projeter la pieuvre ?	Marc		
+tm_md7ypt9vnqkwf3al		Que proposez-vous pour regrouper les fonctions ?	Marc		
+tm_0s0mh2ykezwwu32e		Je suis d’accord.	Marc		
+tm_mz2m0jigq934ivhz		Oui, tout à fait !	Marc		
+tm_sogm5vnx374b6a2q		Bon, nous avons bien avancé. On se retrouve donc avec 5 ensembles fonctionnels cohérents :	Marc		
+tm_q7ayx2bsbbee5irp		un sous-système de gestion d’énergie,	Marc		
+tm_hku89e23w9uphzcd		un sous-système de stabilisation,	Marc		
+tm_uf6vyspvi858wt94		un sous-système de transport,	Marc		
+tm_fb5b3qorbt6fmxyp		un sous-système de motorisation	Marc		
+tm_773ux7bzr4e5p0wb		et un sous-système de guidage.	Marc		
+tm_8cio3d17irnsth2u		Tout le monde est d’accord ?	Marc		
+tm_l6xgkpbcykcxk69k		Je vous propose d’arrêter là pour aujourd’hui.	Marc		
+tm_d2d79i8ejb7sy8o2		Le but du jeu aujourd’hui, c'est de voir comment toutes les fonctions de nos sous-systèmes vont se répartir sur les composants du drone.	Marc		
+tm_v9s0v8jv7cvhtcek		Comme vous le voyez sur la diapo, j’ai mis d’un côté tous les ensembles fonctionnels, et de l’autre tous les éléments physiques.	Marc		
+tm_4ci7dy3d3a8mebfc		À vous de jouer maintenant pour associer les éléments physiques aux sous-systèmes.	Marc		
+tm_kknf3b3rxbgf94kv		Bravo les jeunes !	Marc		
+tm_zci655880sta84zn		Tout ça me semble enfin bien coller.	Marc		
+tm_t8y1rnv7ottj78ls		Hélas John, tu ne pourras pas encore te lancer dans le codage.	Marc		
+tm_nh3pkaw4t12opjsr		Il nous faut d’abord penser à structurer ce code et pour cela, nous allons utiliser la conception orientée objet.	Marc		
+tm_q750e6hqr9r40nhh		Je vous laisse y réfléchir toute la semaine prochaine.	Marc		
+tm_ah8so1mugmitmqj2		Essayez de bien penser aux différents use cases et aux classes objet qui pourront en découler.	Marc		
+tm_2o4spz265dvzesgq		Allez, bon week-end !	Marc		
+tm_wd18v0nfjytym37m		Moi, je pars en mission pour Nairobi.	Marc		
+tm_0yr8z6w5s8fkyn2s		Pas facile, mais bon, j’essaierai.	Marc		
+tm_19o360qtuet2jt6w		Alors, avez-vous eu le temps de réfléchir à la conception logicielle de notre drone ?	Marc		
+tm_th1gpg9bb4c6jof6		Tu as bien fait.	Marc		
+tm_e5ikguocwbghx628		Nous verrons cela plus tard.	Marc		
+tm_qm79u7a9kpyu26nj		John, tu peux m’envoyer une bouée parce que moi, je coule !	Marc		
+tm_hpsjg5a35nb3k3cq		Parfait, c’est beaucoup plus clair.	Marc		
+tm_fmti87ffh1p7jjwd		John, j’ai une bonne nouvelle pour toi :	Marc		
+tm_m3y8k3s871zn2uba		tu vas pouvoir commencer la programmation !	Marc		
+tm_s8puawo4agt4w1nn		Mais avant,  mettez-moi tout ça au propre en utilisant les modèles de documents de notre référentiel.	Marc		
+tm_q63cmwmuuyc3icn7		Je compte sur vous !	Marc		
+tm_9l4ap9fqtx0blbrg		Et évidemment, vous utilisez une programmation orientée objet, n'est-ce pas ?	Marc		
+tm_nlbz2nc46ekeq2xd		Je pensais à l’application de localisation du drone.	Marc		
+tm_i7wmbkawboxftv8x		Tu as avancé un peu sur le sujet ?	Marc		
+tm_mxgo7eld5dpnkipg		Mais je n’ai rien vu concernant la conception.	Marc		
+tm_2cfz863p4g1opvhr		Tu n’as rien fait ?	Marc		
+tm_odywtit5x3fw2sai		Parée au décollage, Émilie ?	Marc		
+tm_hp7dr6057ptg3mca		Allez, envoie les gaz !	Marc		
+tm_ywbs88ib212wmc0t		Et ben, pas fameux comme pilotage !	Marc		
+tm_41cx90ko0bdqo94j		Oui, bon, on va regarder cela.	Marc		
+tm_vg23b7vyucggj1ev		La centrale à inertie n’a pas été branchée.	Marc		
+tm_xxopqsxdiwc553ti		Nous avons vu qu’elle intégrait un voyant d’alimentation et celui n’est pas allumé.	Marc		
+tm_01tzab57fnc6ude8		Comme aucune correction angulaire n’est calculée, le drone a subi directement les effets de sol…	Marc		
+tm_7r20up3dtzvp4031		D’où le plantage !	Marc		
+tm_qvw0igp3qxhqcicr		Bonjour Mathilde.	Marc		
+tm_4598o1a34owj1qn4		Je viens te parler des derniers essais réalisés dans l’usine désaffectée.	Marc		
+tm_npvhieckx3woa6d3		L’algorithme que l’on utilise n’est pas assez réactif .	Marc		
+tm_l5k34oaqtgsxlrme		Émilie finit toujours par perdre le contrôle du drone au moment de l’atterrissage.	Marc		
+tm_lw6l4gvk3kh7073t		Je voudrais le changer.	Marc		
+tm_qsdoa19eja9tgdzw		Ok, mais il doit y avoir moyen de changer cet algorithme si le code est bien documenté.	Marc		
+tm_qaywpk7z3c7d5lvz		OK, je reviens te voir dans une heure.	Marc		
+tm_mc8kcd5jwhb5cbq9		Me revoilà !	Marc		
+tm_jgjvbqmmvqp330na		Oui et alors ?	Marc		
+tm_pdy7pyuhy5g1n7pk		Combien cela va-t-il prendre, à ton avis, en termes de charge et de temps ?	Marc		
+tm_zd51bfb48inlntxr		Trois semaines !	Marc		
+tm_y2y1smwc43gex4bk		Il va falloir négocier avec Isabelle.	Marc		
+tm_73n6fgfxfhmzhmjh		J’espère qu’elle va accepter !	Marc		
+tm_hzirsmzlepiy8toj		Bon, aujourd’hui, nous allons tester la perte du drone sur la rivière.	Marc		
+tm_438w1mqel2f0uovp		Édouard, tu vas faire décoller le drone et Émilie le posera délicatement sur la rivière.	Marc		
+tm_mk6pv3lc2qtjuiaf		Vous devrez alors utiliser l’application sur la tablette pour le localiser sur la carte, et aller le récupérer.	Marc		
+tm_6dnmkz74ief0h900		Compris ?	Marc		
+tm_021rn8y75ezdbmic		Enfin Émilie, tu sais bien que cette tablette n’a pas de GPS, et qu’ici la géolocalisation des tablettes ne peut pas s’effectuer.	Marc		
+tm_1s9mvfsuvur3i363		Ne vous énervez pas, je vais téléphoner à John.	Marc		
+tm_umwrfivqx1rtdpyf		Bonjour John, je suis avec Émilie et Édouard, on essaie d’utiliser l’appli de localisation, mais on ne trouve pas comment changer la carte.	Marc		
+tm_mil6f5wuiee32qfs		Mais pourquoi toutes les régions ?	Marc		
+tm_m5jjpk7noh56x7v1		Mais John, pour l’instant, on ne sert de cette appli que pour le village de Ramatowa !	Marc		
+tm_fdq6g5cxlvgqvkux		OK, on verra ça plus tard, mais je pense qu’il faudra modifier tout cela.	Marc		
+tm_63tbt5eyaoil8lc9		Au revoir, John.	Marc		
+tm_uy0r5nwk9262x1za		Bon, vous avez entendu ?	Marc		
+tm_8aaul03q1vj3athz		Bien, essayons d'enquêter sur le problème. Apparemment, les sauvegardes du programme et de la conception du drone contenues sur notre serveur ont mystérieusement disparu.	Marc		
+tm_ye0rgv8lzej6ngen		J'ai récupéré une copie de l'ordinateur.	Marc		
+tm_9xn493gmchgkmnk8		Essayons de regarder si les logs sont encore disponibles.	Marc		
+tm_rkc37s91rsxgxesd		Bonne nouvelle, les fichiers de log sont toujours là.	Marc		
+tm_bbp4936lzeh4rtvm		Une des dernières entrées est assez surprenante.	Marc		
+tm_kdfvyxd58waunpn5	Le compte administrateur a été connecté, entre minuit et 1 heure du matin, sur l'ordinateur de John.	Le compte administrateur a été connecté entre minuit et 1 heure du matin sur l'ordinateur de John.	Marc		
+tm_y3tooay2xtb2x8tv	C'est assez surprenant, il était avec moi chez une amie, à cette heure-là...	C'est assez surprenant, il était avec moi chez une amie à cette heure-là...	Marc		
+tm_q1txx2a7jd1p8qyo		Je dois clarifier quelque chose avec John...	Marc		
+tm_u3d9tecao791640m		Mais si, il y a des sauvegardes.	Marc		
+tm_jrk57wxbmj7kero4	J'ai réalisé une copie de sauvegarde de ces données, tous les deux jours, sur un disque dur externe.	J'ai réalisé une copie de sauvegarde de ces données tous les deux jours sur un disque dur externe.	Marc		
+tm_eyrot4pqs2tuz093	J'avais plus peur d'une panne du serveur, et je vais remettre les données en place, quand on sera sûr que le réseau est de nouveau sécurisé.	J'avais plus peur d'une panne du serveur, et je vais remettre les données en place quand on sera sûr que le réseau est de nouveau sécurisé.	Marc		
+tm_0pr0mzuvir36elnr		Par chance, il me semble avoir fait une copie d'une grosse partie du code sur mon PC personnel, juste avant de partir en tournée la semaine dernière.	Marc		
+tm_tvimwl7nuyv2kzz3		Et les données de conception mécaniques peuvent être  refaites en quelques jours, en démontant et remesurant les prototypes de drone que nous avons.	Marc		
+tm_qxf9b3ibnlzkxr5c		 Cela risque de nous faire perdre une ou deux semaines.	Marc		
+tm_qq585zntpvmlnkng		Oui. Est-ce que tu aurais remarqué quelque chose d'inhabituel sur ton PC, il y a deux jours, en début d'après midi ?	Marc		
+tm_v1z9jjfg4es9spdm		Bonjour les amis, je vous ai fait venir, car nous avons fini la conception du drone, mais j'ai bien peur que nous ayons oublié une étape.	Marc		
+tm_kkfvkbqqup7vrn0d		Nous n’avons pas encore parlé des tests que l’on va effectuer.	Marc		
+tm_ni5od8clyfdjtfo3		Je sais que tu détestes ces taches de rédaction, et que tu les trouves toujours barbantes, John, mais on ne peut pas y couper.	Marc		
+tm_vgnthx7g7im5iy0p		Il nous faut anticiper le déroulement de ces tests, pour savoir si l’on a besoin d’outils, si l’on doit mettre en place un environnement spécial, et comment on pourra couvrir toutes les exigences.	Marc		
+tm_36sb9nwkeajzkmzk		Bon, Mathilde, penses-tu pouvoir rédiger les dossiers de test et validation, en impliquant John uniquement comme relecteur ?	Marc		
+tm_n18k2cx6io3i58h0		Ok, sympa de ta part.	Marc		
+tm_mvekvdjf9tser8v0		Parée au décolage ?	Marc		
+tm_740zhadycs5mxfzd		Go !	Marc		
+tm_kg6tfxm4lx5ce90x		Vu le comportement, je dirai que le drone a eu un comportement exagéré face au petit coup de vent.	Marc		
+tm_odf4nlguefqjks6i		Cela ressemble étrangement à un mauvais ajustement des coefficients de PID.	Marc		
+tm_gt5c46oaspf71omp		Qu’en penses-tu, Mathilde ?	Marc		
+tm_82z1ibgc9okjzczy		Avez-vous fait des tests de déstabilisation avant de venir sur site ?	Marc		
+tm_u8bljhqhivthaxar		Une heure de test en plus nous aurait évité une semaine de retard.	Marc		
+tm_d5z0bnpywmucmwm7		Maintenant, il va falloir changer le moteur, l’aile et revenir à Nairobi pour ajuster proprement tous ces coefficients afin de ne pas recommencer la même erreur !	Marc		
+tm_ik4vtx0cjet6unzg		Bon, ben, attention pour la prochaine fois.	Marc		
+tm_r7x596gzvzypluby		Allez, retour à la maison, tu paies ton verre !	Marc		
+tm_cnm1zpyy8kmz6w3l		Nous avons pratiquement réalisé toutes les user stories que nous avions prévues.	Marc		
+tm_8lrwn2z46uwzfbpv		Seule la user-story 3 n’a pu être finie, mais nous la remettrons si vous êtes d’accord dans le sprint 3.	Marc		
+tm_i7y0g28q5uumvnq8	C'est du jargon associé à notre méthode de développement : le screum.	C'est du jargon associé à notre méthode de développement : le SCRUM.	Marc		
+tm_ospjn7z4czc3tcm5	La user story 3 concerne l’autonomie du drone : en tant que pilote, je souhaite que le drone ait une autonomie de 15 minutes afin d’effectuer un aller retour sur la rivière.	"La ""user story 3"" concerne l’autonomie du drone : en tant que pilote, je souhaite que le drone ait une autonomie de 15 minutes afin d’effectuer un aller/retour sur la rivière."	Marc		
+tm_n3wufuxdraojrm0n	Non, les essais ont montré une diminution, trop importante de la charge de la batterie, au bout de 10 minutes !!	Non, les essais ont montré une diminution trop importante de la charge de la batterie au bout de 10 minutes !!	Marc		
+tm_fiyedl5jii7wqaib		Oui, je pense que c’est possible.	Marc		
+tm_z8p0rd4a76sd9zlt		Notre estimation lors du planning poker d’équipe nous a conduits à estimer la difficulté du package à 32 points au total.	Marc		
+tm_6g7susudbsnafwa4		C'est légèrement supérieur au sprint précédent, qui était de 28 points, mais nous gagnons en efficacité jour après jour.	Marc		
+tm_7nqvzslx66x3jr2t		Non, je te rassure.	Marc		
+tm_cu421ase0dtzr2tl		Mais c’est vrai que cela se joue avec des cartes.	Marc		
+tm_kp1zxa2wnbpv0u55		Pour chaque user story, chaque participant choisit dans son paquet personnel une carte avec un chiffre.	Marc		
+tm_nqocb4x5zdr5yd7s		Le chiffre représente le niveau de difficulté qu’il estime pour la user story.	Marc		
+tm_vnijg24l54xbipl1		Dans un premier temps, il ne montre pas sa carte.	Marc		
+tm_tvkk5xmqitiez7my		Puis tout le monde fait tapis en même temps.	Marc		
+tm_75gqrs8krryajqif		Pourquoi pas ?	Marc		
+					

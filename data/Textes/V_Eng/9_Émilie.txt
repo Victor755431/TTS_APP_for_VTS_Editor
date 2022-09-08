@@ -1,0 +1,44 @@
+﻿FORMAT:REFORMULATION					
+[TEXT ID]	[TEXTE PRONONCÉ (ENGLISH)]	[TEXTE AFFICHÉ]	[PERSONNAGE]	[NOTES]	
+tm_rjiwvmxladd5ufah		Hello Isabelle !	Émilie		
+tm_cgqzhjs6gf04g4jv		What's your project ?	Émilie		
+tm_eh0mem3zwtw3ww7y		Well, that's a great innovation !	Émilie		
+tm_pirzakvq3u80vnjy		Well, no problem for me if it's a classical drone. Like one with four rotors.	Émilie		
+tm_y6oa26r06yburcx3		I followed a training when I was a student at the ENAC.	Émilie		
+tm_5a3zwuhou7vtnlxu	"They taught me how to pilot them in a place called the ""volière""."	"They taught me how to pilot them in a place called the ""<b>Volière</b>""."	Émilie		
+tm_luung5alr23rwbv9		It's the biggest indoor drone space in Europe.	Émilie		
+tm_8yrfq588j80m7ghz		But I don't understand how Ramatowa's inhabitants accepted that.	Émilie		
+tm_bl0f7zi1w9aynpqi		Won't we ever see them ?	Émilie		
+tm_gd802wrr6d0xjlh6		Yes !	Émilie		
+tm_bgb5bazzbj7d94jn		Well, it seems to me that, in the costs, a point was forgotten about.	Émilie		
+tm_2pduui2hrutk1ygd		"As I told Isabelle, I already piloted some drones in the ENAC, inside the ""volière""."	Émilie		
+tm_emku1y33ff9793yq		But here, I think it will be a bit more demanding, and that a dedicated training is required.	Émilie		
+tm_fhuwnoynh60rju4m		Well... There is the problem...	Émilie		
+tm_4dglpcyg18qxx56b		It costs quite a lot.	Émilie		
+tm_vtxfot7jtuero7ef		I looked it up on Internet, and the cheapest one I found was a three day course for 950 €.	Émilie		
+tm_zd934975owhgq5lb		Well, at least two, I'm willing to do it, but I won't do every run !	Émilie		
+tm_w7gvlc4ytl4vyca6		And then, there's also Édouard, the nephew of Bamalowi's chief...	Émilie		
+tm_cib9lov6f244muke		Yes, ready !	Émilie		
+tm_e1035t49s1q1nytc		Here we go...	Émilie		
+tm_x49o2k6apsujgsgw		I don't understand...	Émilie		
+tm_3sa379j7ivae6357		Why did that drone become immediately unstable ?	Émilie		
+tm_tdihw1q1i53zgn1m		Hey, Mathilde, I think I'm lost.	Émilie		
+tm_vsmtyt0j1z8a47fd		Can you check my position on the tracker's app ?	Émilie		
+tm_yr499w75hthgv1m8		I will try to bring it back using only the camera.	Émilie		
+tm_0anlotug2yw4fpzo		There we go, I'm crossing the river on the opposite direction, but I can't see anything in this fog.	Émilie		
+tm_rrsaaui2wfpmgta4		Can you hear anything ?	Émilie		
+tm_y29ghenb7ndln72t		Heck, the screen doesn't even show the video anymore.	Émilie		
+tm_pxso45vtbc3q1kbz		I'm coming in blind !	Émilie		
+tm_nvt29mthy6p6whfq		Ouch... I did my best, but it seems it wasn't enough...	Émilie		
+tm_43mxw9xbs64l2htd		Yes sir !	Émilie		
+tm_abu922hps5ayo120		So Édouard, did you find the drone on the map ?	Émilie		
+tm_7tuxk3llod58zamu		But the map should change automatically to display where we are.	Émilie		
+tm_xfjtmr7evbo8gkc4		Yes, you're right, I'm so used to live in big cities...	Émilie		
+tm_hduqjzt84x1gehkc		But we should be able to zoom out and move accross the region...	Émilie		
+tm_43lu12hi4x5mu00v		Édouard, please give me that tablet.	Émilie		
+tm_xrviwmvu1rdqggep		Heck, this app is unbelievable...	Émilie		
+tm_7u1sw0cpbanwuwkm		We can't even find how to change the map...	Émilie		
+tm_thy6uaghi29yd4gw		Yes, but I've forgotten half of the steps...	Émilie		
+tm_es0juudocpty22dk		Here, take that tablet.	Émilie		
+tm_h1mbtpt691qyf1mo		Ready !	Émilie		
+					

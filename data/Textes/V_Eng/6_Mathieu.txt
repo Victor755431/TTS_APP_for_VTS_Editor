@@ -1,0 +1,12 @@
+﻿FORMAT:REFORMULATION					
+[TEXT ID]	[TEXTE PRONONCÉ (ENGLISH)]	[TEXTE AFFICHÉ]	[PERSONNAGE]	[NOTES]	
+tm_sfy9h7k820uq6p4u		A new project ?	Mathieu		
+tm_yd70p044sjxx2xi3		You know, for us each run is a project in itself.	Mathieu		
+tm_rmd3jaj911da9vyp		But how big would such a drone need to be to do that ?	Mathieu		
+tm_yrds2avqkw7vwhb8		You know that our trucks have little room on the back.	Mathieu		
+tm_u9m7ztlhb8trtczq		They're already full of medicines and of our stuff.	Mathieu		
+tm_e6xnm826ss0j0nsv		And boxes often fall on one another.	Mathieu		
+tm_owxq0rd7dsitm79p		The box will need to be sturdy, and the drone well fixed inside.	Mathieu		
+tm_mtpr3vqg573y0a4b		I largely prefer caring for sick children instead of being thrown around in that goddamn truck. It has some really bad shock absorbers !	Mathieu		
+tm_t8d3sivfqqouz96g		You mean we're going to watch some flying bartering ?	Mathieu		
+					

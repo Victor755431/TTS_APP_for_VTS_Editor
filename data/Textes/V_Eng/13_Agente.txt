@@ -1,0 +1,9 @@
+﻿FORMAT:REFORMULATION					
+[TEXT ID]	[TEXTE PRONONCÉ (ENGLISH)]	[TEXTE AFFICHÉ]	[PERSONNAGE]	[NOTES]	
+tm_14hb04hokbh8bf7o		No problems.	Agente		
+tm_ehu2o9389xqio3ok		Our exxperts analyzed your devices and the copies we made, and they are pretty much convinced.	Agente		
+tm_5e33vfa97cir8m2k		The cyber attack was made by Claude.	Agente		
+tm_5weomezxjra4pmjq		We took him for interogation, and he recognized he was the pirate who attacked your servers.	Agente		
+tm_3f9d0r7yjld6j7q7		From what he said, the drone were a menace for his way of life...	Agente		
+tm_wlhnvcek13jj8cvh		He was paid quite a lot by the Bamalowi and Ramatowa villagers to carry the goods you accepted to transport fro free with your drones.	Agente		
+					

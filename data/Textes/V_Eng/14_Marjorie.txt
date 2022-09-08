@@ -1,0 +1,14 @@
+﻿FORMAT:REFORMULATION					
+[TEXT ID]	[TEXTE PRONONCÉ (ENGLISH)]	[TEXTE AFFICHÉ]	[PERSONNAGE]	[NOTES]	
+tm_zu39q16xbpom825o		Yes, John, your idea is interesting.	Marjorie		
+tm_xh48s2vqy5m80dem		The technical feasability isn't my area of expertise, but have you verifed no equivalent system existed ?	Marjorie		
+tm_bd88umv8h689f0yb		This is not sufficient.	Marjorie		
+tm_nqll6vzb0b1jvm8n		You should consult the INPI databases, and probably a few others to be sure your concept doesn't exist.	Marjorie		
+tm_w3fac38auaacbinx		Then you will be able to protect your invention.	Marjorie		
+tm_e1u9uudadptdv1cy		And you have a few options...	Marjorie		
+tm_6g1yx1pm4mr72p27		And finally, if you want to go ahead, you should know you will have to make a 550 € deposit, then pay each year an increasing amount of money to maintain your patent.	Marjorie		
+tm_2xjl09d3to7hisan		You probably should double check if it is worth it.	Marjorie		
+tm_qneefqhkgzn7whol		And by the way, why do you want to file a patent ?	Marjorie		
+tm_js14n5hmx185i80u		The Red Cross' job isn't to build drones, right ?	Marjorie		
+tm_pn2bzqzq1jqqaikx		And there are other ways to protect this invention.	Marjorie		
+					

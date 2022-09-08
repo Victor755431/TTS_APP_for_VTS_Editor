@@ -1,0 +1,114 @@
+﻿FORMAT:REFORMULATION					
+[TEXT ID]	[TEXTE PRONONCÉ (ENGLISH)]	[TEXTE AFFICHÉ]	[PERSONNAGE]	[NOTES]	
+tm_r08tnwhvh7zdyrc1		Hi Isabelle ! Come have a seat.	Hubert		
+tm_8gre4kvtx68uyvr8		I asked you to come here to put you in charge of a mission.	Hubert		
+tm_0iz9d386lwju25kg	You know, that little village of Ramatowa, who forces us to make a 36 miles detour, because it is on the other side of the Bamalowi river ?	You know, that little village of Ramatowa who forces us to make a 36 miles detour because it is right accross Bamalowi's river ?	Hubert		
+tm_kw8v6qxjamy8iz92		Listen. I thought about it, and I think we could make the situation better.	Hubert		
+tm_uxo40zqarf2qr40h	We just need one or two powerful enough drones, that could carry the medicines accross the river to Ramatowa.	We just need one or two powerful enough drones that could carry the medicines accross the river to Ramatowa.	Hubert		
+tm_hcflw54q7u0t65f5		The guys from the station pick them on the other side, and that's it !	Hubert		
+tm_vwg897irypadwy8r		Do you imagine the economy of fuel and time ?	Hubert		
+tm_y14j0y25cadef2hb	But Isabelle, the economy is evident ! The truck takes two hours to drive the 36 miles, because the road is really horrendous.	But Isabelle, the economy is evident ! The truck takes two hours to drive the 36 miles because the road is really horrendous.	Hubert		
+tm_263scxnxazg6jev7		Moreover, it burns 4 gallons of fuel to drive that distance.	Hubert		
+tm_4m5nlebk7yho4xqc		We do this trip 12 times a year.	Hubert		
+tm_wjb7ihwj75622sc5		This avoids us 24 hours of travel and would spare 48 gallons each year. 48 gallons is not negligeable, and this would mean at least 2 000 € spared each year.	Hubert		
+tm_nr1uvt4od3eei3br		If we build 2 drones for less than 2000€ each, we will break even in 2 years.	Hubert		
+tm_v86f0hfe3pdzbb4e		OK Isabelle, I recognize you were right. Let's meet in 2 days to talk about it ?	Hubert		
+tm_56g57kv2764gvqbk		That alright for me. Have a nice day !	Hubert		
+tm_8mn7jnhl813mfhiy		You're right, I didn't think about all of that.	Hubert		
+tm_0wp4l82kultm4ct2		Do you estimate the project is still relevant ?	Hubert		
+tm_a7dwlwn7m1iksffr		I see you thought about every aspect. With these selling points, I'm OK for a 4000€ budget.	Hubert		
+tm_ktgy3s250vnzwjme		So let's go ! You have six months, motivating isn't it ?	Hubert		
+tm_4qd1eooy4wd5m7rq		No problem, I'll send Magali instead. The drone project is a lot more urgent to me.	Hubert		
+tm_enxxtudgz48fy73n		How many demands do you have ?	Hubert		
+tm_tt75npzegug6oe39		Don't you also want an office with a coffee machine ?	Hubert		
+tm_wqjnpbnsjk2mvr8l		OK, OK, fine. I'll tell him to come help you tomorrow morning.	Hubert		
+tm_0hqrwnjzczzg7xmo		How much time do you need  to run this initial planifiaction phase ?	Hubert		
+tm_bnz16x3ntowonzo7		Three weeks ? That's way too much !	Hubert		
+tm_7xxwsq8itm9yd04b		Very well. I trust you !	Hubert		
+tm_2al3rey3ck5etpqw		Hello you all !	Hubert		
+tm_n2wbm13banhf4oce		I've asked you t come here to officially decide if we launch, or drop our drone project.	Hubert		
+tm_4u102oj6klfl9y8p	I specifically red the requirements	I specifically read the requirements sheet, and the budget estimation Isabelle made.	Hubert		
+tm_hclkwllklmp746wq		I suggest that Marc makes his assessment on the technical feasability, then Isabelle will develop the expected benefits.	Hubert		
+tm_nfd6my20uw0mjfry		Then, we will decide together the project's future.	Hubert		
+tm_44eyw25zlopwap1s		Marc, you can go ahead.	Hubert		
+tm_r3afs6x9ohdy3bpi		Thank you Marc ! Indeed, the budget will hold an important place in this meeting.	Hubert		
+tm_7cmkw4gg186fij5h		But we also have to consider other aspects, such as the public image of the Red Cross, the modernity feeling we want to spread, and last but not least the welfare of our staff.	Hubert		
+tm_xs00yew2uxaxm0fy		Before taking a decision, let's hear Isabelle talk about the budget, and the need in human resources of the project.	Hubert		
+tm_akrzsfsb6l6ejs7g		Isabelle, your turn.	Hubert		
+tm_5zddp3xnmp6xqvl9		No, I trust you.	Hubert		
+tm_3t1jc7bfeqy632pe		Yes, please !	Hubert		
+tm_0nhdavq8hwjyyf9r		What measures do you advise to lessen these risks ?	Hubert		
+tm_wtacqs65jq3g06tm		Won't these additionnal orders rise our budget ?	Hubert		
+tm_gtcbf4r6vojnsa66		Great ! This seems extremely professional.	Hubert		
+tm_w1c8awst5cw0f3rc		Thank you very much Isabelle for this synthesis !	Hubert		
+tm_p702kalzxf4g2mi2		Well, the debate is opened.	Hubert		
+tm_f6khdz2ok4je1ve3		Who has anything to say ?	Hubert		
+tm_1sv9c0vabym0ade5		Yes, indeed, good point !	Hubert		
+tm_fnzzgum1ptmls9zc		Do you have an idea of the cost of such a training ?	Hubert		
+tm_sucei1x5npx5zk6y		Ouch... How many pilots do we need ?	Hubert		
+tm_mt9usrhvdwycp1je	So, if I understand right, we need to add 3000 € to this project ?	So, if I understand right, we need to add 3 000 € to this project ?	Hubert		
+tm_ig8jgo1di0b7sxnc		Any other points ?	Hubert		
+tm_he42fcltw4p70u9n		Thanks Odile ! And if there aren't any more points, I will go that way.	Hubert		
+tm_i6wzpg2ffh5axfug		I'm for going through with this project !	Hubert		
+tm_k0z48j85f8pbcg6f		It aligns with our values, and even better, it will rejuvenate our association.	Hubert		
+tm_ia06q0i0y8cfekgz	For the budget, I suggest we follow the estimate Isabelle made, 3200 €, plus the 3000 € for the training suggested by Émilie.	For the budget, I suggest we follow the estimate Isabelle made, 3 200 €, plus the 3 000 € for the training suggested by Émilie.	Hubert		
+tm_743cq9y6s9i8kqtj	So that makes a total budget of 6200 €.	So that makes a total budget of 6 200 €.	Hubert		
+tm_30ikrdjowo454axz		I hereby appoint Isabelle as project mananger.	Hubert		
+tm_zmethj1d3m3e24lb		Please give her all your support.	Hubert		
+tm_89fr5drhjjv06yqj		Does every agree ?	Hubert		
+tm_hotrrxvq3ouq5sut	"In the minutes, please add ""project approved unanimously with a 6200 € budget""."	"In the minutes, please add ""project approved unanimously with a 6 200 € budget""."	Hubert		
+tm_y445sz14kcizqyb7		And for the duration, we will go with the 8 months you agreed on with Marc.	Hubert		
+tm_3g2bxzafu76lzl0v		Do we have a name for this project ?	Hubert		
+tm_o328pqygewhr6o0j		Thank you all for taking part in this meeting !	Hubert		
+tm_hteg4vug83080xq5		I suggest we do a similar reunion in two months to check on the progress we made.	Hubert		
+tm_30knjupq6l6z6t58		My assistant will choose the date according to your availabilit.	Hubert		
+tm_s3f9mdvzpu3b6153		Have a nice day !	Hubert		
+tm_5uwgznvowst0ccmb		Isn't there any saves for that project ?	Hubert		
+tm_h02k7gcb70i595av		If we have to start from scratch, it is going to be a disaster...	Hubert		
+tm_xosljbe1cudms00p		It would mean 5 months worth of work vanished into thin air.	Hubert		
+tm_wkrbams2gvvpb0w3		Sorry for being a bit late, a meeting lasted a bit more that I expected...	Hubert		
+tm_m8tt3hed480a68m7		Thanks for your patience.	Hubert		
+tm_y69a9aoq3lvgy8tw		Isabelle, please do not draw any hasty conclusions...	Hubert		
+tm_ecjin7g66zgc2hjm		It is very much possible for someone else to have a volunteer's mailbox to send that attachment.	Hubert		
+tm_rycvzli2z6qdcgde		Our local police will shed light on all of this...	Hubert		
+tm_q8uek39pastim6il		Sure, the demonstration was quite impressive.	Hubert		
+tm_whwgkho56ti3rz5q		Émilie is an excellent pilot.	Hubert		
+tm_9uwfjbanxk37kf02		She perfectly mastered the drone.	Hubert		
+tm_j4ilbxevzpox91cq		"What are these ""User stories"", Marc ?"	Hubert		
+tm_w2y7h9dk4dhrqg9b		And what is the third one ?	Hubert		
+tm_8lzqs6ia49uhh7rk		Ah, OK, so the battery isn't powerfull enough ?	Hubert		
+tm_98tp43stk0tbj2tr		So, appart from thsi minor correction, I am pretty satisfied with this functionnal version.	Hubert		
+tm_63kztay6zyewa8aq		I validate it, and allow further development.	Hubert		
+tm_vnffk2kdnl5jdrpm		What do we do next ?	Hubert		
+tm_ckg2138zu808ayk7		"""Planning poker"" ?"	Hubert		
+tm_kx75phcxb00a3lju		Some SCRUM slang, isn't it ?	Hubert		
+tm_vdkafjj81if4hqz5		You wouldn't dare playing poker during the work hours, right ?	Hubert		
+tm_le6uezg11m2hb9gh		Interesting...	Hubert		
+tm_auryjughae2pvu5l		Could I play with you ?	Hubert		
+tm_mqipwqav34f3h2pk		It seems the package will greatly improve the safety of the drone.	Hubert		
+tm_aexdjr1bzvcntsx3		So let's go with it !	Hubert		
+tm_pk0bizcy2x83b5eo		My dear friends, today is a big day for our association, Ramatowa, and Bamalowi.	Hubert		
+tm_cdhgkf246lgn9z8c		We inaugurate a new era of modern and secure communication : the drone way.	Hubert		
+tm_4717x8eggj1yj8fe		It will allow us to improve our medicine delivery service, while reducing the distance we travel, to spend more time for your health and for talking with you.	Hubert		
+tm_j5sc8bp1kszpiuz9		If I understood well, these drones will also allow you to put some commercial exchange into place.	Hubert		
+tm_wspoqdgg967jg63j		I also want to thank your two chiefs, Nurumbé and Gérard for their active collaboration.	Hubert		
+tm_kk20fltm6x4b6k1y		With that said, let's stop talking and let's look at the action.	Hubert		
+tm_5b86ddei067l8jtb		Émilie will be our pilot for the first flight accross the river.	Hubert		
+tm_p6g4l4u2yv1iqf57		We sent her train a week in the ENAC, and she has been training even more since then.	Hubert		
+tm_g75cdyz8ivrv3rpx		Édouard, your beloved leader's nephew, will fly the return leg.	Hubert		
+tm_wpc8l1pirq7hfqg3		I'm sure he will do a great job, as Gérard told me that he practiced a lot in the neighbouring fields.	Hubert		
+tm_ozwmmkn4j4a46xx4		According to some, it was quite noisy...	Hubert		
+tm_u82q43qdpe5u7sle		Émilie, your turn !	Hubert		
+tm_b749zvfkn7knto2g		In the name of the two villages and my association, I'd like to thank those who made this project possible.	Hubert		
+tm_jzxa5z2wvqq7xsma		I named : Isabelle, Marc, John and Mathilde.	Hubert		
+tm_o0e302kpqix5iu7o		Come here, you guys !	Hubert		
+tm_lx7sqr2iuv1ohy1l		This project's realization did go without obstacles, and I know it.	Hubert		
+tm_j1jahbnshkm114b4		You had to overcome numerous hardships, and a few crashes too.	Hubert		
+tm_fsfqp1ewqma1yjpo		We will to remember to do some more tests before we go test the system in an operationnal environment.	Hubert		
+tm_l5vizvpkp21u3awm		This might help us spare some money.	Hubert		
+tm_52q3ygzoepk4p1v8		Well, this was the building phase.	Hubert		
+tm_8kzau3yee8m479sp		Today you proved your system is operational, and it is reliable, even with gusts of wind.	Hubert		
+tm_ss5fbuotna3yycfc		"That's why, in the name of Bamalowi, Ramatowa and the Red Cross, I make you the founders of this new airway we just opened, and I suggest we name it ""Ramatowi""."	Hubert		
+tm_f7z492cdxrhjbnd4		Congatulations to you four, and thanks for the magnificent work you accomplished, and long live Ramatowi.	Hubert		
+tm_qe9bd4glemmcgfvs		And now, let's party !	Hubert		
+					

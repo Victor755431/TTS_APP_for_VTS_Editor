@@ -1,0 +1,240 @@
+﻿FORMAT:REFORMULATION					
+[TEXT ID]	[TEXTE PRONONCÉ (ENGLISH)]	[TEXTE AFFICHÉ]	[PERSONNAGE]	[NOTES]	
+tm_m1rovwlvkvfru350		Oh yes, I see.	Isabelle		
+tm_1ggmq07a0j9me108		It's a shame there's no bridge closer !	Isabelle		
+tm_ihhkffd5knflmlbm			Isabelle		
+tm_jm7kyh5hdal998kk		Yes, the idea is interesting. But maybe, we should study a bit more closely the costs, and hoped benefits of such an operation ?	Isabelle		
+tm_ji6toe2v231n6are		Yeah, you're probably right.	Isabelle		
+tm_xvw2hvo8054mp24z		Allow me to insist. I'll look more closely at your idea.	Isabelle		
+tm_nj0q5y8oxpzpl2m7		This could work. Let's say Wednesday, after the team briefing ?	Isabelle		
+tm_21wqgd00wt4ntbza		Have a nice day too !	Isabelle		
+tm_5d2jgott7qo4nvjf		I thougt about your idea.	Isabelle		
+tm_hb49xuxp2jmllz59		And I have a better idea of what we could hope to achieve.	Isabelle		
+tm_bdxwdpi9oz3ce2d2		In the costs, you seem to have forgotten about the batteries to charge and the time it will take to go accross the river with 16lbs of medicines.	Isabelle		
+tm_i5khbj6vkl61300d		If every drone can carry 4lbs, you'll need to send them twice. So it will still take around 20 minutes, mostly to load and unload them.	Isabelle		
+tm_m44kqc5ivyx1i1j3		So the benefit in time and cost will be less important.	Isabelle		
+tm_j9zdghbl5w76sv00		Yes, but the development costs will probably be a bit higher, because we want to build our own drones to be able to repair them easily, and as rarely as possible.	Isabelle		
+tm_os94gwg1zloi1ulm		And we will probably need a spare drone. We will also have to train the guys who do the runs.	Isabelle		
+tm_v9s9w6uazy90f9e1		In a nutshell, I think we need to reevaluate the budget to at least 4 000 €, as indicated in the documents I printed you.	Isabelle		
+tm_5dom4v1gom162o7w		So don't expect a break-even before five or six years.	Isabelle		
+tm_w3r4tvl9b4rzu64k		Anyway, the financial benefit shouldn't be our priority.	Isabelle		
+tm_vx19wlzbis9ppy09		On the other hand, a benefit we didn't talk about, and seems important to me because it's linked to our values is the welfare of our personnel.	Isabelle		
+tm_b6ze0c3qq3omo6z0		This journey is very tiring, and every time everyone comes back exhausted.	Isabelle		
+tm_be90wkgvch92cmgl		If we could avoid 2 hours of poor track, this would be an important benefit !	Isabelle		
+tm_ltrrj9n1ggrfp7av		And there's the ecological aspect too : burning less fossil fuels is one of our engagements.	Isabelle		
+tm_jdeyvdtc1jczpd7y		Sorry to curb your enthousiasm Hubert, I have a job to do.	Isabelle		
+tm_kray55a7gryuiyio		Before starting, I also have a mission and a journey to Pali Wani to plan.	Isabelle		
+tm_dy3lh5o9nty0epg1		OK, but before starting, I'll have to make a more precise planification for the project, with clear goals and limits.	Isabelle		
+tm_01i5cc9v5da0bixa		Then, you could decide if we go forward or not.	Isabelle		
+tm_xvysfzrnjww3mwzf		And in the case we proceed forward, you'll need to name me responsible for that project so that everyone understands more clearly what's my role.	Isabelle		
+tm_u2tjdvwu0ttn3g87		Moreover, I'd like to ask our system's engineer Marc Aurile to participate as soon as possible so that he could help me in the planification of the project.	Isabelle		
+tm_h0zvz2snesdz3v4l		I was thinking about it, but Marc Aurile will do just fine.	Isabelle		
+tm_1vsls6at6luvzkw2		Three weeks.	Isabelle		
+tm_0dv8facxttk5468p		Yes, I really need that much time. I'm not an expert in drones, and Marc will have to  invest himself there.	Isabelle		
+tm_b70gjg8rplobpdzq		And what will we include in this project ? Should we train two or three pilots ? Should the drones really carry every type of drugs ? I should also study the major risks linked to our project. What could prevent us from meeting the deadlines ?	Isabelle		
+tm_6lns5mmiv10jluep		From staying in the allotted budget ? What could impact the quality of the service we try to put in place ?	Isabelle		
+tm_tkprvv6ce8tx0kcq		I maintain that. You think I'm losing some time, but you'll see that it'll pay off on the long run.	Isabelle		
+tm_1syz3og4grjf2x7w		Oh, hi Marc ! Hubert probably talked to you about the drone project to carry the drugs from Bamalowi to Ramatowa ?	Isabelle		
+tm_0idu5l5uge9hsct8		Yes, I agree, but I think it's achievable.	Isabelle		
+tm_m8qdmxaf610hbokv		What do you think about it ?	Isabelle		
+tm_796ctu3zzecl35k6		And for that part, I'm counting on you ! And I suggest we share the starting activities on the specifications.	Isabelle		
+tm_zet6h68og6v7cx9l		Is this compatible with your workload, and are you motivated by that project ?	Isabelle		
+tm_lphgkth2zjsjz65l		Great, in this case, I'm suggesting you start the function analysis to define the main functions, and anticipate the biggest technical problems and what will cost the most.	Isabelle		
+tm_qq2sulp0txy8s14w		On my side, I'll try to see what the need is, and ask the other involved parties : the guys in the villages and the guys who do the run.	Isabelle		
+tm_aeqg4g6vd5uaan7b		The date is April 27th.	Isabelle		
+tm_no3yu1ix2mzb8lgc		Why not we see each other monday May 10th morning in my office at 9 ?	Isabelle		
+tm_5u4e8rdig367ysyp		What about 2PM ?	Isabelle		
+tm_medlm5vl4kg1znyo		Thanks Marc ! Have a nice day !	Isabelle		
+tm_1yely4z56511i9lv		Hi Nurumbé ! How are you ?	Isabelle		
+tm_41vq0dyuk68uynqc		I'm delighted to hear that.	Isabelle		
+tm_jodzt98a11jlr3jl		That's quite true.	Isabelle		
+tm_9ktzrkb82jpwlorg		I'm here to discuss another way of making these journeys.	Isabelle		
+tm_cisvcrnz09p5uqt1		Yes, and that will go on.	Isabelle		
+tm_75b77vodcuvryiw3		I wanted to discuss the way we deliver them.	Isabelle		
+tm_fcnem5h8axx1ao93		You know, each time, we're forced to go upstream from Bamalowi to the Bisotu bridge to get to your village.	Isabelle		
+tm_43bpgciftwfr7s6b		Hubert thought about a new way to do it.	Isabelle		
+tm_pf4ydehdv8keu3rq		The Pamalowi village is just accross the river.	Isabelle		
+tm_ixyuhdmznkv2rmqj		We just need to get the medicines accross, and that will be done !	Isabelle		
+tm_xtlboivkqfvsk4on		Yes, I know.	Isabelle		
+tm_qog5foyohbdw5ume		Our idea was to use two or three drones to do the job.	Isabelle		
+tm_w50r4dd45t50jhtf		Yes. Hubert is about to fund a project to build a few of these to do that job.	Isabelle		
+tm_5x543df845vg4lny		That's true. I didn't think about it...	Isabelle		
+tm_7b4xh5rnfsrkf6i0		Yes, Jacques told me, but he had an important meeting with an association to discuss new solar panel equipments.	Isabelle		
+tm_32meq5g3py4iruu9		Stop being a drama-king Nurumbé.	Isabelle		
+tm_bmh6ud48t32qhsfi		Let's try to think together.	Isabelle		
+tm_qp1l2l2nkquwhpk3		Well, it could be a solution, but now that you told me you need communication with the village population, we're probably going to have the same problem with the Pamalowi village.	Isabelle		
+tm_1ti8hpn2lnx1gnl0		Let's think...	Isabelle		
+tm_ekxrme9wsybvrczk		And if we chose some middle ground ?	Isabelle		
+tm_aa6yp3vbpg9k0x8o		We could come here once every two months ?	Isabelle		
+tm_7v0jsey9ojimqt5k		A bit of both to be honnest.	Isabelle		
+tm_x2qq5oskhr4yhc47		Our teams always come back exhausted after these runs !	Isabelle		
+tm_pmetlq5pmggt53no		We'll think about it, but it looks like a good compromise.	Isabelle		
+tm_s37dgmgnlavdl8lt		I'll talk about it with my teams.	Isabelle		
+tm_t5jlwmswwf7fes0s		And let's stop talking about business !	Isabelle		
+tm_fxavrgbuhko9936x		Are your cooking skills still sharp ?	Isabelle		
+tm_njh0ywkseqosx0h6		And so you'd agree with this new way of delivering once by drone, and the other time with our truck ?	Isabelle		
+tm_wef1g9xnqu1nnoof		That wasn't really planned, but why not ?	Isabelle		
+tm_1a50f64hq5mrio07		I don't think the drone will be able to lift a heavier weight than two or maybe four pounds, but it could be done.	Isabelle		
+tm_xz3nna94ev8mmwo7		The real problem is that our drones have a limited autonomy.	Isabelle		
+tm_lc0s2v7srby5ji8w		We risk to not have enough batteries for that.	Isabelle		
+tm_61wuiackvns7fmk7		Do you think it'll work ?	Isabelle		
+tm_16oj2ha345nbntrv		We're going to have to study the question.	Isabelle		
+tm_j106siw07c345ib3		Oh oh, I see you're already onboard the project.	Isabelle		
+tm_356xf0a8jhsziqwh		But did he already pilot some drones ?	Isabelle		
+tm_ajcvu5lqwmdcuvl2		Yes of course.	Isabelle		
+tm_4y77ssqrh043d8us		So we're gonna have to train him with our teams.	Isabelle		
+tm_sxxmwfl197bborey		I'll see if I can arrange this.	Isabelle		
+tm_kdzaqnnbw0kg799h		OK. I take note of that too.	Isabelle		
+tm_51ya6qk6k90p1q9w		That's a really good idea.	Isabelle		
+tm_3rwlx64jc3n6cidr		Ah, that's quite a thing to see.	Isabelle		
+tm_3cad25a9dtcvuol2		I didn't imagine the river was that large, and thought the rapids were less powerful !	Isabelle		
+tm_smpccysvbtkym8wt		Do you mean it could interfere with our navigation and we can lose sight of the drone ?	Isabelle		
+tm_r0y2mvwzzqgqnbda		I see that, but when we programm a run, we can't modify it because of the fog.	Isabelle		
+tm_5v6y4iqyc7utgrfh		I see.	Isabelle		
+tm_tx2bl9nrvo1wei78		I need to talk about that to Marc, our system engineer.	Isabelle		
+tm_diydkriw0xdenkp1		Maybe a camera or a GPS could do the trick !	Isabelle		
+tm_90r8uyzjkk8jjktq		Maybe Marc will have a cheaper solution.	Isabelle		
+tm_b6u1kp6qk9ok1ygk		Anyway, I'm going to tell him about this issue.	Isabelle		
+tm_7k1x0srjrgkofdi3		Hello you all !	Isabelle		
+tm_lj4bw4n56wmzbjf4		You've been called here to discuss a new project.	Isabelle		
+tm_b4h23bcygqe4kc5l		Well, that one's goal is to make your journey East easier. You know, the one in which you drive 40 miles to get to a village on the other side of a river ?	Isabelle		
+tm_unym9zhflb778srl		The project isn't exactly mine, Hubert was the one to launch it.	Isabelle		
+tm_k51pbqeipfbevods		It's not that bad actually.	Isabelle		
+tm_4sqo9848ywzefxyi		Well, instead of going around for 40 miles, Hubert suggested using two drones to carry the medicines from one side to the other.	Isabelle		
+tm_evlkteoic32p5yt4		No idea, I'll have to ask Marc.	Isabelle		
+tm_toyutucrqh4zqayr		Yes, he's tasked with the system development part.	Isabelle		
+tm_opa2bcv837df4ho7		Yes, I'm aware of that.	Isabelle		
+tm_ytzxdjzy2d3sk3lp		How much room would you have in the worse case scenario ?	Isabelle		
+tm_x94ezc4xvmskc69w		OK, requirements acknowledged.	Isabelle		
+tm_k25mc5zfhlo4t41u		The drone must fit in a 20 inches box.	Isabelle		
+tm_ydajawu9uzq1qy3w		It must be secured fix in the box.	Isabelle		
+tm_mngq4ruywwnddwm2		That box must be solid and resist shocks with other boxes.	Isabelle		
+tm_04h2ny2v40djpi7u		Not so quickly. You all need basic notions to pilot them.	Isabelle		
+tm_mkgbkk0lr8dl9v4r		But apparently Emilie can help you, and worst case scenario, we pay you some training sessions.	Isabelle		
+tm_7902q6oudwmh52pu		OK, OK, we'll talk about it later.	Isabelle		
+tm_13p07uvuejvosqgy		But is the idea fine with you ?	Isabelle		
+tm_d68xj8pguf1n7fyq		Good question !	Isabelle		
+tm_mj8k2vf289z2zca1		I went to discuss with the two village's chiefs.	Isabelle		
+tm_mga64jqytghhwjyg		Nurumbé suggested we go in one village every two months.	Isabelle		
+tm_gkptbe7lcpyajacp		And Gérard seems also fine with it.	Isabelle		
+tm_t5nocu68ba825i5r		And doing that, you could stay a bit longer in each village when you visit them, to perform mini medical consultations.	Isabelle		
+tm_eeml4ia4bfzc0r94		Ah, and Gérard had another condition : could you let his nephew pilot the drone and exchange some little stuff with Ramatowa ?	Isabelle		
+tm_df453t89xzzxtdgl	Some sandals, leather belts, spice bags, etc	Some sandals, leather belts, spice bags,...	Isabelle		
+tm_f0p658jbvdq3kxew		Yes ! And the nephew seems to be a good pilot.	Isabelle		
+tm_yujpjjmm9pt3o71z		Maybe he could give you a few tips !	Isabelle		
+tm_o2sqb19u0wespnma		So you're all onboard ?	Isabelle		
+tm_i2muwow3g0jqjwzv		So, what have you found in your functionnal analysis ?	Isabelle		
+tm_s6t3g7j3cjxrt7kh		Seems relevant.	Isabelle		
+tm_7kh4bz46p7wca0bh		Nice start !	Isabelle		
+tm_u5nzjy6l5jkwwpmj		From what I've seen in the field, we will have to add a few constraints.	Isabelle		
+tm_dqi9q8dd5bcnvcww		For Gérard, the river can be very foggy.	Isabelle		
+tm_z49urb1taybp3upu		So we should be able to use the drone, even if we don't se it.	Isabelle		
+tm_24f1e57bebdif5p7		"For the guys who do the runs, the drone should be stored in a 20"" crate, and that crate should resist other boxes falling on it."	Isabelle		
+tm_35jjp7kc7r9w8x6w		The truck will probably shake it quite a lot.	Isabelle		
+tm_eapkvfsrfjwqz7w5		Maybe we should also put a precision criteria for the landing ?	Isabelle		
+tm_6mr7hwat3duir0pn		Something like three feets ?	Isabelle		
+tm_x772mvxo41ugwsna		No, I think I've told all th eideas I had.	Isabelle		
+tm_zqp0raiv774boxsb		Hello Marc !	Isabelle		
+tm_m7waztppfsl2jp91		So our first specifications sheet is ready ?	Isabelle		
+tm_vnq5nz3bcvw3538h		There isn't much risk with a single drone.	Isabelle		
+tm_6spir03q5yfs63xj		These studies can also be lengthy and blow up our budget.	Isabelle		
+tm_z75vci90mdxnfyg6		OK, OK, let's do a small safety analysis.	Isabelle		
+tm_c1yv6lu01971qx7d		So, did your safety analysis go well ?	Isabelle		
+tm_gu54026x4kcgv9cx		What are you talking about ?	Isabelle		
+tm_2pxj1nlaplcrvbxs		Do you fear our drone might get pirated ?	Isabelle		
+tm_plfwkkfuugg1hl70		No, sorry to disapoint you, but we don't have time for this.	Isabelle		
+tm_l4707g9vnw3bdrd1		Do you really think it's necessary ?	Isabelle		
+tm_a2by4kkh950k1ra8		OK, but please don't spend too much time on this, otherwise these studies will explode our budget.	Isabelle		
+tm_1bxhcgbd91cyfofb		Heck ! Our drone got stolen.	Isabelle		
+tm_617e7fci4pi9nr8d		Marc, I'm starting to regret that decision...	Isabelle		
+tm_jzcnfo82kb8h3yr8		So Alice, is everything alright with your classes in colege now ?	Isabelle		
+tm_i4pwuhxyo3jhultr		Cool, you might be available to help us with our runs then ?	Isabelle		
+tm_g16z1rmdbmadpo4h		You know, this year will be a bit special, we will use drones !	Isabelle		
+tm_lx66leawmdsu2u0s		To carry medicine packs accross a river.	Isabelle		
+tm_27s3iksc6kp6kddb		We will build them ourselves.	Isabelle		
+tm_oxmbh4gaw3h76m4u		But where do this environmantalist concern come from ?	Isabelle		
+tm_bgjvgodt7szdl46b		Well, you may be right, we'll look into that.	Isabelle		
+tm_4h5i0koeiht0mc3s		Marc will probably be happy, I'm adding yet another study...	Isabelle		
+tm_fagt457bomqs4rob		Thank you Hubert !	Isabelle		
+tm_wlifr4tljsw9cm06		And thank you Marc for giving us this elements early on.	Isabelle		
+tm_zy5sijt55djtruls		Thanks to this data, we were able to estimates the costs of our drone, in the basic configuration.	Isabelle		
+tm_68joqhyip4bqsyt7		Marc and me agreed to retain all the main functions of the octopus.	Isabelle		
+tm_avwsk7cfbuahy1mo		In this basic configuration, we also added the constraint functions 1 to 5, so that the drone will be able to resist destabilisations due to ground and wind effects, and could carry a two pounds payload.	Isabelle		
+tm_e8q6cbwtdiqgepmx	This basic version would cost us around 1000 €.	This basic version would cost us around 1 000 €.	Isabelle		
+tm_6odzlqmwex6eezx7		300 € in materials	Isabelle		
+tm_3cj0mwmh0zz84vl9		and 700 € in human resources, corresponding to the works of volunteers, plus ten days of work of Marc and Mathilde who also vonlunteered for that task.	Isabelle		
+tm_yh9wr6ue9gmwfb7v		Then several security levels are available :	Isabelle		
+tm_g4vbffag5gciu8f5		If we want to protect our drone from a fall, we will have to take FC5 and FC6 into acount.	Isabelle		
+tm_kb1kkc07k55aiavi	The new floating structure that would resist a 15 feet drop will cost us around the price of the basic version of the drone.	The new floating structure, that would resist a 15' drop, will cost us around the price of the basic version of the drone.	Isabelle		
+tm_t71c99hqtp3r6wtr	So, the price doubles, and goes to 2000 €.	So, the price doubles, and goes to 2 000 €.	Isabelle		
+tm_o5rljsi6tagb45kl		If we want to get another security level, and be able to recover the drone more easily, we have to add the FC8 and FC9 constraints.	Isabelle		
+tm_pdkiuwqlwmsiz21j		This implies the development or purchase of an Android app to track th edrone on a map.	Isabelle		
+tm_b1kox6cvvxukvqxt		We will also have to programm some more on the drone, and add a GPS tracker in it.	Isabelle		
+tm_6s872f08bzfcvyw6		We need 800 € to do that.	Isabelle		
+tm_8gndsz1wopu24qo8		For the functions regarding protection against piracy, we could solve it by encrypting the communications, the estimated cost is rather low at 200 €.	Isabelle		
+tm_xhdokto87qpqhif1		For the environmental impact, we could mostly buy recyclable batteries, and the wooden structure described higher.	Isabelle		
+tm_mnexmaxjzx7bqa6j		The estimated added cost is also low, around 200 €.	Isabelle		
+tm_hte4dro5gebujowy	To sum things up, the drone will cost somewhere between 1000 and 3200 €, depending on the retained options.	To sum things up, the drone will cost somewhere between 1 000 and 3 200 €, depending on the retained options.	Isabelle		
+tm_zk376cgluzn8kphm		As of the project's duration, Marc and me estimated it at 8 months, sliced in several phases we will have to develop.	Isabelle		
+tm_2g59uz2lfpq9l3z8		We've also worked on a first estimation of risks.	Isabelle		
+tm_e3geti2yhlqyq8h7		I can project it if you want	Isabelle		
+tm_l2g21j5sge97i0ut		There it is.	Isabelle		
+tm_21iv1o2h42zgm9pw		The three major risks are : ordering components, weather during the outdoors tests, and components breaking during the tests.	Isabelle		
+tm_oqcll82i4cgomn8a		The ordering process is a risk factor, because our administration is a bit heavy, and materials delivering time can be rather long.	Isabelle		
+tm_1u156elwwc1nm7wd		Especially the motors and the micontrollers...	Isabelle		
+tm_box1vdd57ykv3x6r		Weather conditions, because the rainy season is coming, and rain will prevent us from testing our drones outside.	Isabelle		
+tm_1ql8k4s9mobd2492		Finally, components breaking, because the piloting during the tests might be approximative, and we will do some stress tests.	Isabelle		
+tm_5z4nl8h2sye5a65k		We will certainly break a few rotors, and burn some motors.	Isabelle		
+tm_o1exz2jnfivi0sjj		Well, for components, we will order the most critical ones, as soon as the end of this week, if the projet gets approved.	Isabelle		
+tm_bxk7am1mcj5uite9		We will use two different providers for each component.	Isabelle		
+tm_ykhchmj8k338n8ya		If we get lucky, one provider will be faster than the other.	Isabelle		
+tm_tg67mb1jpzb65o0i		For the third risk, we will buy several packages of rotors with diffrent sizes, and order doubl the amount of motors and controllers we need.	Isabelle		
+tm_z5phc0xf3isbgys5		Finally, to answer the second risk, we're searching for a closed down factory with an intact roof.	Isabelle		
+tm_beh99tg2ob2ni5kb		That way, we could do our flight tests, even if it's raining for days.	Isabelle		
+tm_ez1z5iv3b070xspy		"They're already included in the previous budget estiamations, labelled as ""provision for project risk""."	Isabelle		
+tm_vetszzz6fjpl2g8j		You're right, I totally forgot to mention it !	Isabelle		
+tm_t16k6akam4utawta		We'll have to find one...	Isabelle		
+tm_gr7ggidfuh65c8nu		Yes, I wasn't believing we would get this much.	Isabelle		
+tm_5n3c1w3pworvx2c8		Hubert is really motivated by this project.	Isabelle		
+tm_gd9zfl3de2u6a1fn		I think he loves involving his association in such innovating projects.	Isabelle		
+tm_wzbzjxanbvke117o		I've thought about it, and I think it would be great to discuss this matter together.	Isabelle		
+tm_wtokj7ngvxjrauw7		During the reunion, I suggested we develop the drone in a minimal version, then I showcased two sets of options.	Isabelle		
+tm_tfq1oomij6qotw61		So, I think we could divide the project in three phases, each corresponding to a coherent functional set :	Isabelle		
+tm_pz75e5twj2x2r2tc		the basic drone,	Isabelle		
+tm_2b94yaxnb6yu81ft		a reinforcement of safety functionnalities,	Isabelle		
+tm_vyaq3zn5rqp0uva2		and a tracking system.	Isabelle		
+tm_dj9j1z0cf1pagcv6		And I'd put ecoconception and anti piracy protection directly in the basic version.	Isabelle		
+tm_6jr6nioqx5m7c8jd		Fine with me !	Isabelle		
+tm_d6wcgnl3tiyerwyg		Waht would you say about we use the SCRUM method ?	Isabelle		
+tm_lw4gmg7waospvkb3		It seems suitable with what we're trying to do.	Isabelle		
+tm_qiv61m0y9k3g13rp		Well, in that case, I suggest we draft a first planning who will include three sprints, plus a sprint 0.	Isabelle		
+tm_m2npy64l8hb2fu3k		"I'm putting that ""Sprint 0"" to finalize the requirements and adapt it to the agile method."	Isabelle		
+tm_dbjzpsxal62fkueg		That sprint 0 will also allow me to validate the availability of the team members for the project.	Isabelle		
+tm_3hdz5iegknpazsos		For the other sprints, how would you share the time and the budget ?	Isabelle		
+tm_lmnu0vy8x6x7i6sw		Yes, and the training of pilots could be done during the first sprint.	Isabelle		
+tm_q2ko6r88vy7v8yvl		Which means we will have to build two prototypes, to lend one to the pilots, so that they can get more experience with it after their training.	Isabelle		
+tm_zjqpvd0fxuk01kl0		And about the budget ?	Isabelle		
+tm_be5yhf0q9005ma4e		Do you agree to stick with my initial estimations ?	Isabelle		
+tm_tb47ku34yqhdaw1o		Can't we put the anti-piracy protection in the second sprint ?	Isabelle		
+tm_a9mfzvpskt0k286x		That would spread the budget more evenly, which could please the direction.	Isabelle		
+tm_rt8fephnk4kqgrfe		Thanks Marc !	Isabelle		
+tm_sdfygpe0to7io0iq		I'm drafting a new version, more detailed than the previous one, and I'll send it in an e-mail.	Isabelle		
+tm_118cmq70aa51lk5y		I'll also send you my planning, and the updated risk matrix.	Isabelle		
+tm_ngqx2feufgkx4h7z		Let's say Monday, 9 AM in your office ?	Isabelle		
+tm_iopxq29soqebifjs		Did you find anything ?	Isabelle		
+tm_bc3oceitdq3gltyu		I'm starting to believe you were right about your cybersecurity analysis...	Isabelle		
+tm_twyvs7s6yobwf03v		But would he do that ?	Isabelle		
+tm_rsebls4kyifdqyai		He worked on this project for 5 months straight.	Isabelle		
+tm_1gmmlgv2oft1m7ll		It doesn't make sense to try to destroy everything now...	Isabelle		
+tm_n4mhxfctzqzuk0qz		But why would soemone from here do that ?	Isabelle		
+tm_hn41c7wal82care3		It doesn't make sense to work on a project for 5 months, then destroy everything on a whim...	Isabelle		
+tm_65n75yxxo3c9yutr		John, do you recall the name of this volunteer ?	Isabelle		
+tm_141skucr05o8hpgf		It seems the operationnal tests were succesful.	Isabelle		
+tm_ell8y3902ij2ue0c		What do you think about it Hubert ?	Isabelle		
+tm_x9bwpdhw2czxp5wu		I suggest to discuss what will be in that third sprint.	Isabelle		
+tm_2dv63nek5or5cen1	For now, we have 4 weeks and 1200 €.	For now, we have 4 weeks and 1 200 €.	Isabelle		
+tm_5rgxaaviho24cbpb		Marc suggests to put all the user stories related with the localization of the drone in this sprint.	Isabelle		
+tm_2przno44e84bjxa2		Euh, I don't want to be rude, but I have a meeting right after that one.	Isabelle		
+tm_64267r2a3dgsf4cg		Do we agree on this package, yes or no ?	Isabelle		
+tm_gq2delayc80ceu4c		Very well, let's get back to work !	Isabelle		
+					

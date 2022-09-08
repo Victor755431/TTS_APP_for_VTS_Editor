@@ -1,0 +1,15 @@
+﻿FORMAT:REFORMULATION					
+[TEXT ID]	[TEXTE PRONONCÉ (ENGLISH)]	[TEXTE AFFICHÉ]	[PERSONNAGE]	[NOTES]	
+tm_89gi8wfxeff27uvi		Yes, Mom, everything is fine, and the vacations are getting closer.	Alice		
+tm_l5uce8xa517xpkwx		Euh, Mom, I got other projects...	Alice		
+tm_gd5l1nhrtpvq99z7		Drones ?	Alice		
+tm_tcxv7985efaup8fe		Interesting, but what for ?	Alice		
+tm_6qi2bj39vwe242tn		Whaou ! Cool ! That's all you had to say ! I'm definitely coming !	Alice		
+tm_4yymm7rd32adsjl6		But where are these drones coming from ?	Alice		
+tm_ag6syqprvksu0d8o		Did you think about the environmental impact ?	Alice		
+tm_iy6dhvnr70qazoo3		Drones can be really noisy, and from what I heard, they need lots of batteries...	Alice		
+tm_kuvbcmw4yht60e1r		Mostly from our teachers. They're getting more sensitive to ecologic concerns, and they use every occasion they get to talk about it.	Alice		
+tm_0f9fh89ac1v9rbl8		This morning, our system conception teacher made a class on ecological conception.	Alice		
+tm_pv7k2016e9dw1oak		Of course, I'm right.	Alice		
+tm_1sy06vjsrw78uash		And you should also think about the public image of the Red Cross.	Alice		
+					

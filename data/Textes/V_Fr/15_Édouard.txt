@@ -1,0 +1,5 @@
+﻿FORMAT:REFORMULATION					
+[TEXT ID]	[TEXTE PRONONCÉ (FRANÇAIS (FRANCE))]	[TEXTE AFFICHÉ]	[PERSONNAGE]	[NOTES]	
+tm_9f6uwzwrd3cgc7fi		Euh, je ne trouve pas la bonne carte !	Édouard		
+tm_76n3ccj25txkiag7		Là, je suis sur la carte de Bangoutou, et je ne vois pas où on peut en changer.	Édouard		
+					

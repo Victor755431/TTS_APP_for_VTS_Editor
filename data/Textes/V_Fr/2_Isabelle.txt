@@ -1,0 +1,240 @@
+﻿FORMAT:REFORMULATION					
+[TEXT ID]	[TEXTE PRONONCÉ (FRANÇAIS (FRANCE))]	[TEXTE AFFICHÉ]	[PERSONNAGE]	[NOTES]	
+tm_m1rovwlvkvfru350		Oui, je vois très bien.	Isabelle		
+tm_1ggmq07a0j9me108		Dommage qu'il n'y ait pas de pont plus près !	Isabelle		
+tm_ihhkffd5knflmlbm			Isabelle		
+tm_jm7kyh5hdal998kk		Oui, l'idée est alléchante. Mais peut-être devrions nous étudier plus en détail les coûts et les bénéfices d'une telle opération ?	Isabelle		
+tm_ji6toe2v231n6are		Oui, tu as raison.	Isabelle		
+tm_xvw2hvo8054mp24z		Mais permets moi d'insister. Je vais approfondir un peu ton idée.	Isabelle		
+tm_nj0q5y8oxpzpl2m7		Ça marche. Mercredi, à 10h après le briefing d'équipe ?	Isabelle		
+tm_21wqgd00wt4ntbza		Bonne journée !	Isabelle		
+tm_5d2jgott7qo4nvjf		Bon, j'ai bien réfléchi à ton idée.	Isabelle		
+tm_hb49xuxp2jmllz59		Et j'ai chiffré plus en détail les coûts et bénéfices.	Isabelle		
+tm_bdxwdpi9oz3ce2d2		Dans les coûts, tu sembles avoir oublié l'aspect des batteries à recharger pour les drones.	Isabelle		
+tm_i5khbj6vkl61300d		Ainsi que le temps qu'il faudra pour acheminer les 8 kilos de médicaments d'un côté à l'autre de la rivière. Si chaque drone peut porter deux kilos de médicaments, il faudra faire au moins deux aller-retours, soit une bonne vingtaine de minutes, le temps de charger et de décharger les médicaments.	Isabelle		
+tm_m44kqc5ivyx1i1j3		Le gain de temps et le gain financier sont donc à diminuer légèrement.	Isabelle		
+tm_j9zdghbl5w76sv00		Oui, mais les coûts de développement seront sans doute plus élevés, car nous souhaitons construire nos propres drones, pour pouvoir les réparer facilement, et le moins souvent possible.	Isabelle		
+tm_os94gwg1zloi1ulm		Et il nous faudra sans doute un drone de spare. Il faudra aussi former le personnel de la tournée.	Isabelle		
+tm_v9s9w6uazy90f9e1		Bref, je pense que le budget nécessaire est d'au moins 4000€, comme indiqué dans les documents que je t'ai imprimés.	Isabelle		
+tm_5dom4v1gom162o7w		Et du coup, ne pas escompter de bénéfices financiers avant 3 ou 4 ans.	Isabelle		
+tm_w3r4tvl9b4rzu64k		Le bénéfice financier ne doit pas être notre priorité.	Isabelle		
+tm_vx19wlzbis9ppy09		En revanche, il y a un bénéfice dont on n'a pas encore parlé et qui m'intéresse car il est lié à nos valeurs et au bien-être de notre personnel.	Isabelle		
+tm_b6ze0c3qq3omo6z0		Cette tournée est fatigante, et à chaque fois, tout le monde revient épuisé.	Isabelle		
+tm_be90wkgvch92cmgl		Gagner deux heures de tape-cul en moins, ça c'est un gain évident !	Isabelle		
+tm_ltrrj9n1ggrfp7av		Et puis, il y a aussi l'aspect écologique : consommer moins d'énergies fossiles est un de nos engagements.	Isabelle		
+tm_jdeyvdtc1jczpd7y		Hubert, permets-moi de freiner ton enthousiasme.	Isabelle		
+tm_kray55a7gryuiyio		Avant de commencer, je te rappelle que j'ai un métier et que j'avais prévu une tournée du côté de Pani Wani.	Isabelle		
+tm_dy3lh5o9nty0epg1		D'accord, mais avant de commencer, je te propose de faire un cadrage plus précis du projet.	Isabelle		
+tm_01i5cc9v5da0bixa		Ensuite, tu décideras si on y va ou non.	Isabelle		
+tm_xvysfzrnjww3mwzf		D'ailleurs, si on y va, tu devra me nommer responsable de ce projet afin que tous ceux qui sont concernés comprennent mon intervention.	Isabelle		
+tm_u2tjdvwu0ttn3g87		De plus, j'aimerais pouvoir impliquer dès maintenant notre ingénieur système, Marc Aurile pour qu'il m'accompagne dans le cadrage et la planification initiale.	Isabelle		
+tm_h0zvz2snesdz3v4l		J'y pense, mais Marc Aurile suffira.	Isabelle		
+tm_1vsls6at6luvzkw2		Trois semaines.	Isabelle		
+tm_0dv8facxttk5468p		Oui, j'en ai vraiment besoin. Je n'y connais pas grand-chose en drones et Marc va devoir s'investir.	Isabelle		
+tm_b70gjg8rplobpdzq		Et que va-t-on inclure réellement dans ce projet ? Doit-on y inclure la formation de deux ou trois pilotes ? Le drone devra-t-il porter tout type de médicaments ?	Isabelle		
+tm_6lns5mmiv10jluep		Je dois aussi étudier les gros risques liés à ce projet. Qu'est ce qui pourrait nous empêcher de tenir les délais, de rester dans le budget que tu viens de m'allouer ? Qu'est ce qui pourrait impacter la qualité du service que l'on veut mettre en place ?	Isabelle		
+tm_tkprvv6ce8tx0kcq		Je t'assure, tu penses que je perd du temps mais tu verras, à terme, je vais t'en faire gagner un max.	Isabelle		
+tm_1syz3og4grjf2x7w		Bonjour Marc, Hubert a dû te parler de notre projet de drone pour transporter des médicaments de Bamalowi à Ramatowa ?	Isabelle		
+tm_0idu5l5uge9hsct8		J'en conviens, mais je pense que c'est faisable.	Isabelle		
+tm_m8qdmxaf610hbokv		Qu'en penses-tu ?	Isabelle		
+tm_796ctu3zzecl35k6		Et bien, pour cela, je compte sur toi !	Isabelle		
+tm_zet6h68og6v7cx9l		Et je te propose d'ailleurs que nous partagions les activités de départ sur le cahier des charges. Est-ce compatible avec ta charge de travail actuelle, et te sens-tu motivé pour cela ?	Isabelle		
+tm_lphgkth2zjsjz65l		Super !	Isabelle		
+tm_qq2sulp0txy8s14w		Dans ce cas, je propose que tu commence l'analyse fonctionnelle du système pour définir les fonctions principales et anticiper les gros problèmes de faisabilité ou de coût.	Isabelle		
+tm_aeqg4g6vd5uaan7b		De mon côté, je vais approfondir le besoin et réaliser des interviews auprès des parties prenantes : les villages concernés et l'équipe qui effectue cette tournée.	Isabelle		
+tm_no3yu1ix2mzb8lgc		Nous sommes le 27 avril, on se fait un point lundi 10 mai à 9h dans mon bureau ?	Isabelle		
+tm_5u4e8rdig367ysyp		14 heures ?	Isabelle		
+tm_medlm5vl4kg1znyo		Merci Marc. Bonne journée !	Isabelle		
+tm_1yely4z56511i9lv		Bonjour Nurumbé, comment vas-tu ?	Isabelle		
+tm_41vq0dyuk68uynqc		J’en suis enchantée.	Isabelle		
+tm_jodzt98a11jlr3jl		Oui, je le reconnais	Isabelle		
+tm_9ktzrkb82jpwlorg		Je viens te voir pour discuter d'une nouvelle façon d'organiser notre tournée.	Isabelle		
+tm_cisvcrnz09p5uqt1		Oui, et cela continuera.	Isabelle		
+tm_75b77vodcuvryiw3		C'est plus sur la façon de te livrer les médicaments que je souhaiterais discuter.	Isabelle		
+tm_fcnem5h8axx1ao93		Tu sais, à chaque fois, l'équipe est obligée de remonter à partir de Bamalowi jusqu'au pont de Bisotu pour redscendre à ton village.	Isabelle		
+tm_43bpgciftwfr7s6b		Hubert a pensé à une nouvelle façon de procéder pour vous livrer :	Isabelle		
+tm_pf4ydehdv8keu3rq		Le village de Bamalowi est juste en face de chez vous de l'autre côté de la rivière.	Isabelle		
+tm_ixyuhdmznkv2rmqj		Il suffirait de faire franchir la rivière aux médicaments et le tour est joué !	Isabelle		
+tm_xtlboivkqfvsk4on		Oui, je sais.	Isabelle		
+tm_qog5foyohbdw5ume		Mais l'idée serait d'utiliser deux ou trois drones pour faire le travail.	Isabelle		
+tm_w50r4dd45t50jhtf		Oui, Hubert est prêt à financer la construction de ces drones pour réaliser cette mission.	Isabelle		
+tm_5x543df845vg4lny		C'est vrai, je n'y avait pas pensé...	Isabelle		
+tm_7b4xh5rnfsrkf6i0		Oui, Jacques m'a raconté, mais il avait un rendez-vous important avec une association d'équipement en panneaux solaires.	Isabelle		
+tm_32meq5g3py4iruu9		Ne dramatise pas Nurumbé...	Isabelle		
+tm_bmh6ud48t32qhsfi		Essayons de réfléchir ensemble.	Isabelle		
+tm_qp1l2l2nkquwhpk3		Effectivement, ça pourrait être une solution, mais maintenant que tu m'as ouvert les yeux sur les besoins de communication de ton village, nous allons retrouver le même au village de Pamalowi.	Isabelle		
+tm_1ti8hpn2lnx1gnl0		Réfléchissons.	Isabelle		
+tm_ekxrme9wsybvrczk		Et si nous partagions la poire en deux ?	Isabelle		
+tm_aa6yp3vbpg9k0x8o		Nous pourrions venir vous voir une tournée sur deux ?	Isabelle		
+tm_7v0jsey9ojimqt5k		Un peu des deux, mais principalement éviter la fatigue.	Isabelle		
+tm_x2qq5oskhr4yhc47		Nos troupes sont épuisées après ces tournées !	Isabelle		
+tm_pmetlq5pmggt53no		C'est à réfléchir, mais cela me paraît un bon compromis.	Isabelle		
+tm_s37dgmgnlavdl8lt		Je vais en parler à l'équipe.	Isabelle		
+tm_t5jlwmswwf7fes0s		Bon, arrêtons de discuter affaires !	Isabelle		
+tm_fxavrgbuhko9936x		Tu fais toujours aussi bien la cuisine ?	Isabelle		
+tm_njh0ywkseqosx0h6		Et donc, vous seriez d'accord pour cette nouvelle façon de vous livrer une fois via nos drone et une fois avec notre camion ?	Isabelle		
+tm_wef1g9xnqu1nnoof		Euh, ce n'était pas vraiment prévu, mais pourquoi pas ?	Isabelle		
+tm_1a50f64hq5mrio07		Je ne pense pas que le drone puisse transporter une charge très lourde mais sans doute que jusqu'à un ou deux kilos c'est faisable.	Isabelle		
+tm_xz3nna94ev8mmwo7		Le problème est que ces drones ont une autonomie limitée.	Isabelle		
+tm_lc0s2v7srby5ji8w		On risque de manquer de batterie.	Isabelle		
+tm_61wuiackvns7fmk7		Tu crois que ce serait compatible ?	Isabelle		
+tm_16oj2ha345nbntrv		Il va falloir étudier la question.	Isabelle		
+tm_j106siw07c345ib3		Oh, oh, je vois que tu t'empares déjà du projet.	Isabelle		
+tm_356xf0a8jhsziqwh		Mais a-t-il déjà piloté des drones ?	Isabelle		
+tm_ajcvu5lqwmdcuvl2		Oui, certainement.	Isabelle		
+tm_4y77ssqrh043d8us		Bon, cela veut dire qu'il va falloir le former en même temps que notre équipe.	Isabelle		
+tm_sxxmwfl197bborey		Je vais voir cela.	Isabelle		
+tm_kdzaqnnbw0kg799h		OK, je note aussi.	Isabelle		
+tm_51ya6qk6k90p1q9w		Très bonne idée !	Isabelle		
+tm_3rwlx64jc3n6cidr		Ah oui, quand même !	Isabelle		
+tm_3cad25a9dtcvuol2		Je ne pensais pas que la rivière était aussi large et que les rapides étaient aussi puissants !	Isabelle		
+tm_smpccysvbtkym8wt		Tu veux dire qu'elle pourrait gêner notre navigation et qu'on pourrait perdre le drone de vue ?	Isabelle		
+tm_r0y2mvwzzqgqnbda		Oui, mais quand on programme une tournée, on ne peut pas la modifier juste pour une question de brume !	Isabelle		
+tm_5v6y4iqyc7utgrfh		Je vois.	Isabelle		
+tm_tx2bl9nrvo1wei78		Bon, il va falloir que j'en parle à Marc, notre ingénieur système.	Isabelle		
+tm_diydkriw0xdenkp1		Peut-être une caméra ou un GPS ferait l'affaire !	Isabelle		
+tm_90r8uyzjkk8jjktq		Marc aura peut-être une solution plus économique.	Isabelle		
+tm_b6u1kp6qk9ok1ygk		En tout cas, je vais lui remonter cette contrainte.	Isabelle		
+tm_7k1x0srjrgkofdi3		Bonjour à tous !	Isabelle		
+tm_lj4bw4n56wmzbjf4		Je vous ai réunis ici pour vous parler d'un nouveau projet.	Isabelle		
+tm_b4h23bcygqe4kc5l		Et bien justement, celui-ci a pour objectif de faciliter la tournée de l'Est, celle qui vous oblige à faire un détour de 60km alors que le village à desservir est juste en face d'un village que vous desservez déjà.	Isabelle		
+tm_unym9zhflb778srl		Ce n'est pas mon projet, mais celui de notre cher Hubert !	Isabelle		
+tm_k51pbqeipfbevods		Elle n'est pas si mal que ça.	Isabelle		
+tm_4sqo9848ywzefxyi		Et bien, plutôt que de faire un  détour de 60km, Hubert propose d'utiliser deux drones qui transporteraient les médicaments d'une berge à l'autre.	Isabelle		
+tm_evlkteoic32p5yt4		Aucune idée. Pour cela, il faudra voir ça avec Marc.	Isabelle		
+tm_toyutucrqh4zqayr		Oui, c'est lui qui fait la partie développement système.	Isabelle		
+tm_opa2bcv837df4ho7		Oui, je sais.	Isabelle		
+tm_ytzxdjzy2d3sk3lp		De quel espace penser vous disposer au pire ?	Isabelle		
+tm_x94ezc4xvmskc69w		OK, je note.	Isabelle		
+tm_k25mc5zfhlo4t41u		Les drones doivent rentrer dans une caisse de 50cm de côté.	Isabelle		
+tm_ydajawu9uzq1qy3w		Elle doit être solide et supporter les chocs de cartons avoisinants.	Isabelle		
+tm_mngq4ruywwnddwm2		Les drones doivent être parfaitement calés à l'intérieur.	Isabelle		
+tm_04h2ny2v40djpi7u		Pas tant que ça les amis, car vous devez tous avoir des notions élémentaires de pilotage.	Isabelle		
+tm_mkgbkk0lr8dl9v4r		Mais Émilie pourra vous aider et au pire, on vous paiera une formation.	Isabelle		
+tm_7902q6oudwmh52pu		OK, OK, on en reparlera plus tard.	Isabelle		
+tm_13p07uvuejvosqgy		Mais dans le principe, l'idée vous plaît ?	Isabelle		
+tm_d68xj8pguf1n7fyq		Bonne remarque !	Isabelle		
+tm_mj8k2vf289z2zca1		Je suis allée discuter avec les chefs des deux villages.	Isabelle		
+tm_mga64jqytghhwjyg		Nurumbé propose que nous passions chez eux une fois sur deux en prenant le pont en aval de la rivière.	Isabelle		
+tm_gkptbe7lcpyajacp		Gérard est lui aussi d'accord pour nous voir qu'une fois sur deux.	Isabelle		
+tm_t5nocu68ba825i5r		Du coup, vous pourrez vous arrêter un peu plus longtemps dans chacun des deux villages et effectuer plus de mini-consultations médicales.	Isabelle		
+tm_eeml4ia4bfzc0r94		Bon, pour Gérard, il y a une condition en plus : vous devrez laisser son neveu Édouard piloter le drone et lui permettre d'échanger quelques babioles avec le village voisin.	Isabelle		
+tm_df453t89xzzxtdgl		Ceintures, tongs, sachets d'épices,...	Isabelle		
+tm_f0p658jbvdq3kxew		Et oui !	Isabelle		
+tm_yujpjjmm9pt3o71z		À priori, le neveu est bon pilote. Il pourra vous donner quelques tuyaux !	Isabelle		
+tm_o2sqb19u0wespnma		Bon, donc vous êtes partants ?	Isabelle		
+tm_i2muwow3g0jqjwzv		Alors, où en êtes-vous de votre analyse fonctionnelle ?	Isabelle		
+tm_s6t3g7j3cjxrt7kh		Cela me paraît pertinent.	Isabelle		
+tm_7kh4bz46p7wca0bh		Bon début !	Isabelle		
+tm_u5nzjy6l5jkwwpmj		D'après ce que j'ai vu sur le terrain, il va falloir ajouter quelques contraintes.	Isabelle		
+tm_dqi9q8dd5bcnvcww		Pour Gérard, la rivière peut devenir très brumeuse.	Isabelle		
+tm_z49urb1taybp3upu		Il faudrait donc pouvoir utiliser le drone même si on ne le voit pas.	Isabelle		
+tm_24f1e57bebdif5p7		Pour les équipes de tournée, il faudrait que le drone puisse être rangé dans une caisse de 50 cm de côté, et que cette caisse soit résistante à des chutes de cartons.	Isabelle		
+tm_35jjp7kc7r9w8x6w		Le camion risque de la secouer un peu...	Isabelle		
+tm_eapkvfsrfjwqz7w5		Il faudrait peut-être aussi prévoir un critère de précision sur la zone d'atterrissage.	Isabelle		
+tm_6mr7hwat3duir0pn		Quelque chose comme 1 mètre de marge ?	Isabelle		
+tm_x772mvxo41ugwsna		Non, je pense avoir dit toutes les idées que j'avais.	Isabelle		
+tm_zqp0raiv774boxsb		Bonjour Marc !	Isabelle		
+tm_m7waztppfsl2jp91		Donc notre premier cahier des charges est enfin fini !	Isabelle		
+tm_vnq5nz3bcvw3538h		On ne risque pas grand-chose avec un drone.	Isabelle		
+tm_6spir03q5yfs63xj		Ces études sont souvent couteuses en temps, et elles peuvent engloutir une grande partie du budget.	Isabelle		
+tm_z75vci90mdxnfyg6		Ok, Ok va pour une petite étude de sécurité !	Isabelle		
+tm_c1yv6lu01971qx7d		Alors cette étude de sécurité, ça avance ?	Isabelle		
+tm_gu54026x4kcgv9cx		Mais que vas-tu chercher encore ?	Isabelle		
+tm_2pxj1nlaplcrvbxs		Tu as peur que notre drone se fasse pirater ?	Isabelle		
+tm_plfwkkfuugg1hl70		Non, désolé de te décevoir, mais nous n'avons pas le temps.	Isabelle		
+tm_l4707g9vnw3bdrd1		Tu y tiens vraiment ?	Isabelle		
+tm_a2by4kkh950k1ra8		OK, bon mais tu n’y passes pas plus d’une journée, sinon ça va finir par me coûter cher toutes ces études !!	Isabelle		
+tm_1bxhcgbd91cyfofb		Mince, on nous a volé notre drone...	Isabelle		
+tm_617e7fci4pi9nr8d		Ah Marc, je commence à regretter cette décision...	Isabelle		
+tm_jzcnfo82kb8h3yr8		Alors Alice, ça se passe bien à l'université en ce moment ?	Isabelle		
+tm_i4pwuhxyo3jhultr		Cool, tu vas pouvoir nous aider dans notre tournée.	Isabelle		
+tm_g16z1rmdbmadpo4h		Mais tu sais, cette année, il y a une nouveauté : on va utiliser des drones !	Isabelle		
+tm_lx66leawmdsu2u0s		Pour transporter des médicaments au-dessus d’une rivière.	Isabelle		
+tm_27s3iksc6kp6kddb		On va les faire nous-même.	Isabelle		
+tm_oxmbh4gaw3h76m4u		Mais d’où te vient ce souci de l’environnement ?	Isabelle		
+tm_bgjvgodt7szdl46b		Remarque, tu as peut-être raison, on devrait regarder cela d’un peu plus près.	Isabelle		
+tm_4h5i0koeiht0mc3s		C’est Marc qui va être content, je vais lui rajouter une étude de plus !	Isabelle		
+tm_fagt457bomqs4rob		Merci Hubert.	Isabelle		
+tm_wlifr4tljsw9cm06		Et merci à Marc d’avoir fourni autant d’éléments en si peu de temps.	Isabelle		
+tm_zy5sijt55djtruls		Grâce aux données fournies, nous avons pu faire ensemble une estimation du coût de notre drone dans la configuration basique.	Isabelle		
+tm_68joqhyip4bqsyt7		Marc et moi sommes d’accord pour retenir toutes les fonctions principales présentes sur notre pieuvre fonctionnelle.	Isabelle		
+tm_avwsk7cfbuahy1mo		Dans la configuration de base, nous avons aussi rajouté les fonctions contraintes de 1 à 5 pour que le drone puisse résister à minima aux déstabilisations multiples dues au vent et au sol et transporter une charge d'un kg.	Isabelle		
+tm_e8q6cbwtdiqgepmx		Cette version basique nous coûterait en première estimation 1000 € :	Isabelle		
+tm_6odzlqmwex6eezx7		300 € de matériel,	Isabelle		
+tm_3cj0mwmh0zz84vl9		 et 700 € en ressources humaines, correspondant au travail d’un de nos bénévoles spécialiste en drone ; plus dix jours de travail de Marc et Mathilde qui se sont portés volontaires pour cette tâche.	Isabelle		
+tm_yh9wr6ue9gmwfb7v		Ensuite, plusieurs niveaux de sécurité sont possibles :	Isabelle		
+tm_g4vbffag5gciu8f5	Si nous voulons uniquement protéger notre drone en cas de chute, il faut prendre en compte les fonctions contraintes F C 6 et F C 7	Si nous voulons uniquement protéger notre drone en cas de chute, il faut prendre en compte les fonctions contraintes FC6 et FC7	Isabelle		
+tm_kb1kkc07k55aiavi		La nouvelle structure insubmersible et résistante aux chutes de 10 m nous coûtera le prix du drone dans la version basique.	Isabelle		
+tm_t71c99hqtp3r6wtr		De fait, nous doublons le prix du drone et passons à 2000 €.	Isabelle		
+tm_o5rljsi6tagb45kl		Si nous voulons franchir un niveau de sécurité supplémentaire et pouvoir récupérer le drone facilement, il nous faut rajouter les fonctions contraintes FC8 et FC9.	Isabelle		
+tm_pdkiuwqlwmsiz21j		Ceci implique le développement d’une application logicielle Android, ou son achat, pour suivre le déplacement du drone sur une carte.	Isabelle		
+tm_b1kox6cvvxukvqxt		Cela rajoute aussi du code dans le processeur du drone et un GPS.	Isabelle		
+tm_6s872f08bzfcvyw6		Il faut compter 800 € supplémentaires.	Isabelle		
+tm_8gndsz1wopu24qo8		Pour les fonctions de protection contre le piratage, nous pouvons mettre en place des émissions radio cryptées dont le cout est peu élevé de l’ordre de 200 €.	Isabelle		
+tm_xhdokto87qpqhif1		Pour l’impact sur l’environnement, nous allons nous concentrer sur l’achat de batteries recyclables et sur une structure en bois très résistante.	Isabelle		
+tm_mnexmaxjzx7bqa6j		Comme précédemment, le surcout est négligeable, de l’ordre de 200 €.	Isabelle		
+tm_hte4dro5gebujowy		Pour résumer, le coût de ce drone va de 1000 € à 3200 €, selon les options retenues.	Isabelle		
+tm_zk376cgluzn8kphm		Quant à la durée du projet, Marc et moi l’avons estimé à huit mois, découpés en plusieurs phases que nous devons affiner.	Isabelle		
+tm_2g59uz2lfpq9l3z8		Nous avons aussi travaillé sur une première identification des risques.	Isabelle		
+tm_e3geti2yhlqyq8h7		 Je peux la projeter si tu le souhaites ?	Isabelle		
+tm_l2g21j5sge97i0ut		Le voici.	Isabelle		
+tm_21iv1o2h42zgm9pw		Les trois risques majeurs sont la commande des composants, les conditions climatiques lors des tests, la casse de certains composants pendant les tests.	Isabelle		
+tm_oqcll82i4cgomn8a		La commande des composants parce que notre système administratif est un peu lourd et le temps d'acheminement de certains matériels peut être assez long.	Isabelle		
+tm_1u156elwwc1nm7wd		Notamment les moteurs et les contrôleurs de drone.	Isabelle		
+tm_box1vdd57ykv3x6r		Les conditions climatiques sont un risque, car nous arrivons dans la période des pluies et une pluie diluvienne nous empêchera de faire les tests à l’extérieur.	Isabelle		
+tm_1ql8k4s9mobd2492		Enfin, la casse des composants, car il n’est pas exclu de fausses manœuvres pendant les essais, surtout pendant les tests de solidité.	Isabelle		
+tm_5z4nl8h2sye5a65k		On aura certainement des ailes cassées et des moteurs grillés.	Isabelle		
+tm_o1exz2jnfivi0sjj		Et bien, pour les composants, nous commanderons les composants les plus critiques dès la fin de cette semaine si le projet est approuvé.	Isabelle		
+tm_bxk7am1mcj5uite9		Nous utiliserons deux fournisseurs pour chaque type de composant.	Isabelle		
+tm_ykhchmj8k338n8ya		Avec un peu de chance, l’un des deux sera performant.	Isabelle		
+tm_tg67mb1jpzb65o0i		Pour le risque trois, nous allons commander plusieurs lots d’hélices de tailles différentes et le double de moteurs et contrôleurs nécessaires à deux drones, soient en tout 16 moteurs et contrôleurs.	Isabelle		
+tm_z5phc0xf3isbgys5		Enfin, pour le risque 3, nous cherchons une usine désaffectée qui a gardé son toit intact.	Isabelle		
+tm_beh99tg2ob2ni5kb		Nous pourrons y tenter quelques essais en cas de période de pluie prolongée.	Isabelle		
+tm_ez1z5iv3b070xspy	C’est déjà inclus dans les estimations budgétaires précédentes, au titre de provision pour risque du projet.	C’est déjà inclus dans les estimations budgétaires précédentes, au titre de “provision pour risque du projet”.	Isabelle		
+tm_vetszzz6fjpl2g8j		C’est vrai, j’ai oublié d’en parler !	Isabelle		
+tm_t16k6akam4utawta		C'est à toi de le trouver	Isabelle		
+tm_gr7ggidfuh65c8nu		Oui, je n’y croyais pas.	Isabelle		
+tm_5n3c1w3pworvx2c8		Hubert est vraiment motivé pour ce projet.	Isabelle		
+tm_gd9zfl3de2u6a1fn		Je crois qu’il aime bien voir son association impliquée dans des projets innovants.	Isabelle		
+tm_wzbzjxanbvke117o		J’y ai déjà réfléchi et c’est bien que l’on en discute ensemble.	Isabelle		
+tm_wtokj7ngvxjrauw7		Pendant la réunion, j’ai proposé le développement du drone en version minimale, puis j’ai rajouté deux ensembles d’options.	Isabelle		
+tm_tfq1oomij6qotw61		Je pense que, du coup, on pourrait découper le projet en trois phases, correspondant chacune à un ensemble fonctionnel cohérent :	Isabelle		
+tm_pz75e5twj2x2r2tc		un drone de base,	Isabelle		
+tm_2b94yaxnb6yu81ft		un drone avec des fonctions sécurités légèrement renforcées,	Isabelle		
+tm_vyaq3zn5rqp0uva2		et un drone avec un suivi de localisation.	Isabelle		
+tm_dj9j1z0cf1pagcv6		Pour l’écoconception et la protection contre le piratage, on pourrait peut-être les intégrer directement dans la version de base ?	Isabelle		
+tm_6jr6nioqx5m7c8jd		Ça me va.	Isabelle		
+tm_d6wcgnl3tiyerwyg	Que dirais-tu de travailler en sprint et d’utiliser la méthode screum ?	Que dirais-tu de travailler en sprint et d’utiliser la méthode SCRUM ?	Isabelle		
+tm_lw4gmg7waospvkb3		Ce que l’on va faire s’y prête assez bien.	Isabelle		
+tm_qiv61m0y9k3g13rp		Bon, ben, dans ce cas, je te propose de rédiger une première version de planning, qui inclura trois sprints et un sprint 0.	Isabelle		
+tm_m2npy64l8hb2fu3k		Le sprint 0, je le réserve pour finaliser le cahier des charges, et l’adapter au mode agile.	Isabelle		
+tm_dbjzpsxal62fkueg		Le sprint 0 me permettra aussi de valider la disponibilité des membres de l’équipe projet.	Isabelle		
+tm_3hdz5iegknpazsos		Pour les sprints suivants, que souhaites-tu te fixer en termes de durée et de budget ?	Isabelle		
+tm_lmnu0vy8x6x7i6sw		Oui, d’autant que la formation des pilotes pourrait se faire en parallèle du premier sprint…	Isabelle		
+tm_q2ko6r88vy7v8yvl		À condition de disposer de deux prototypes pour en avoir un dédié à la formation.	Isabelle		
+tm_zjqpvd0fxuk01kl0		Et pour le budget ?	Isabelle		
+tm_be5yhf0q9005ma4e		Es-tu d’accord pour conserver nos estimations initiales ?	Isabelle		
+tm_tb47ku34yqhdaw1o		On ne pourrait pas mettre la protection piratage dans le sprint 2 ?	Isabelle		
+tm_a9mfzvpskt0k286x		Ça paraîtrait plus équilibré comme répartition par rapport à la Direction.	Isabelle		
+tm_rt8fephnk4kqgrfe		Merci Marc.	Isabelle		
+tm_sdfygpe0to7io0iq		Je rédige une nouvelle version un peu plus détaillée que la précédente, et je te l’envoie par mail.	Isabelle		
+tm_118cmq70aa51lk5y		Je t’enverrai aussi mon plan de projet, et la matrice de risques mis à jour.	Isabelle		
+tm_ngqx2feufgkx4h7z		On se dit lundi prochain 9h dans ton bureau ?	Isabelle		
+tm_iopxq29soqebifjs		Tu as trouvé quelque-chose ?	Isabelle		
+tm_bc3oceitdq3gltyu		Je commence à croire que tu avais raison de vouloir faire une étude de cybersécurité...	Isabelle		
+tm_twyvs7s6yobwf03v		Mais pourquoi aurait-il fait cela ?	Isabelle		
+tm_rsebls4kyifdqyai		Cela va faire 5 mois qu'il travaillait sur ces drones.	Isabelle		
+tm_1gmmlgv2oft1m7ll		Cette action n'a aucun sens...	Isabelle		
+tm_n4mhxfctzqzuk0qz		Mais pourquoi quelqu'un de chez nous aurait fait ça ?	Isabelle		
+tm_hn41c7wal82care3		Ça n'a pas de sens de bosser sur quelque chose pendant 5 mois, puis de tout détruire sur un coup de tête...	Isabelle		
+tm_65n75yxxo3c9yutr		John, est-ce que tu aurais le nom de cet employé ?	Isabelle		
+tm_141skucr05o8hpgf		Bon, il me semble que les essais en situation opérationnelle ont été concluants.	Isabelle		
+tm_ell8y3902ij2ue0c		Qu’en penses-tu, Hubert ?	Isabelle		
+tm_x9bwpdhw2czxp5wu		Je te propose de définir ce que l’on met dans le sprint 3, qui aura la même durée et le même budget.	Isabelle		
+tm_2dv63nek5or5cen1		C’est-à-dire 4 semaines et 1 200 €.	Isabelle		
+tm_5rgxaaviho24cbpb		Marc suggère d’associer la thématique de localisation du drone à ce sprint, et d’y inclure toutes les user stories relatives au sujet.	Isabelle		
+tm_2przno44e84bjxa2		Heu, je ne voudrais pas vous brusquer, mais j’ai une réunion qui suit.	Isabelle		
+tm_64267r2a3dgsf4cg		On est d’accord pour ce package, oui ou non ?	Isabelle		
+tm_gq2delayc80ceu4c		Très bien, au boulot	Isabelle		
+					

@@ -1,0 +1,19 @@
+﻿FORMAT:REFORMULATION					
+[TEXT ID]	[TEXTE PRONONCÉ (FRANÇAIS (FRANCE))]	[TEXTE AFFICHÉ]	[PERSONNAGE]	[NOTES]	
+tm_l70e9wcw9kqvwd2f		Ah oui, le village de Ramatowa en face du village de Bamalowi !	Odile		
+tm_qvg1wu77jhi3z7oz		Allez, accouche !	Odile		
+tm_xbmj2te4r91v4mey		Marc est sur le coup ?	Odile		
+tm_afnjzu09s4gn1wy8		Oui, et peut-être un peu plus.	Odile		
+tm_fby7smv9dhbq5tbe		Mais le drone devra être résistant car la route n'est pas tranquille.	Odile		
+tm_o7h080q9onsxqdbr		Je dirai même que c'est souvent le rodéo !	Odile		
+tm_21qk09evc1x0pkxs		Plutôt, oui !	Odile		
+tm_qwn0fj7ie2q22fv5		Nous éviter 60km de pistes, 3h de fatigue, tu parles qu'on est preneurs !	Odile		
+tm_gx0pe4i4xwqevl5w		Quoi comme babioles ?	Odile		
+tm_zaxzwu44xqk82egj		OK, OK au moins, ça va agrémenter notre voyage. Du spectacle en perspective !	Odile		
+tm_kf3i3979qt8i3250		Oui, tu parlais tout à l’heure du bien-être du personnel.	Odile		
+tm_uzwn3ej5hv6q4aya		J'aimerais insister là-dessus.	Odile		
+tm_jmydfs6im4bvddu6		Ce projet pour moi et mes collègues, c’est l’espoir de gagner énormément en confort sur la tournée.	Odile		
+tm_3phsmu4hue5b5shs		Ce détour par le pont de Bisotu nous coûte énormément.	Odile		
+tm_tf2x6ctgvxhshy2b		Nous sommes ballotés dans tous les sens et rien qu’à l’idée de devoir faire le même chemin en sens inverse, mon dos crie grâce.	Odile		
+tm_ypsz0uw16nr33j88		Alors oui, d’accord pour passer plus de temps avec les habitants de Ramatowa et d’accord pour éviter ce cauchemar de route !	Odile		
+					

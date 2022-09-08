@@ -1,0 +1,14 @@
+﻿FORMAT:REFORMULATION					
+[TEXT ID]	[TEXTE PRONONCÉ (FRANÇAIS (FRANCE))]	[TEXTE AFFICHÉ]	[PERSONNAGE]	[NOTES]	
+tm_zu39q16xbpom825o		Oui, John, ton idée est assez originale.	Marjorie		
+tm_xh48s2vqy5m80dem	La faisabilité technique n’est pas mon rayon, mais as-tu regardé si un système équivalant existait déjà ?	La faisabilité technique n’est pas mon rayon, mais as-tu regardé si un système équivalent existait déjà ?	Marjorie		
+tm_bd88umv8h689f0yb		Ce n’est pas suffisant.	Marjorie		
+tm_nqll6vzb0b1jvm8n		Il te faut aussi consulter les bases de données de l’INPI et d’autres bases encore pour être sûr que ce concept n’existe pas encore.	Marjorie		
+tm_w3fac38auaacbinx		Alors, tu pourras protéger ton invention.	Marjorie		
+tm_e1u9uudadptdv1cy		Et là, tu disposes de plusieurs moyens.	Marjorie		
+tm_6g1yx1pm4mr72p27		Et pour conclure, saches que si tu veux aller jusqu’au bout de ton brevet, il nous faudra dépenser initialement 550 €, puis chaque année, il nous faudra de nouveau payer une petite somme qui augmentera à chaque fois pour maintenir le brevet.	Marjorie		
+tm_2xjl09d3to7hisan		Tu as intérêt à être sûr que ça vaille le coup.	Marjorie		
+tm_qneefqhkgzn7whol		Et d’ailleurs pourquoi tu souhaites qu’on dépose un brevet ?	Marjorie		
+tm_js14n5hmx185i80u		La Croix Rouge n’a pas vocation à commercialiser des drones, je me trompe ?	Marjorie		
+tm_pn2bzqzq1jqqaikx		Et d'autres moyens existent pour protéger cette invention.	Marjorie		
+					

@@ -1,0 +1,62 @@
+﻿FORMAT:REFORMULATION					
+[TEXT ID]	[TEXTE PRONONCÉ (FRANÇAIS (FRANCE))]	[TEXTE AFFICHÉ]	[PERSONNAGE]	[NOTES]	
+tm_jzdlebpqkxxg68xt		Il me semble que sa mission principale est d'acheminer de manière sécurisée un paquet de médicaments d'un côté de la rivière Ubangi à l'autre côté ?	Mathilde		
+tm_gnzfduorx8fhr3ad		Parfait !	Mathilde		
+tm_rbmqw72iuxe97qbp	Les acteurs les plus évidents me semblent être le pilote, les médicaments, et le responsable du village village_2 qui va réceptionner le paquet.	Les acteurs les plus évidents me semblent être le pilote, les médicaments, et le responsable du village de Ramatowa qui va réceptionner le paquet.	Mathilde		
+tm_n90xl8hki1vbev2b		Peut-être que les éléments climatiques comme le vent, le soleil ou la pluie vont jouer un rôle ?	Mathilde		
+tm_cdnsfhhm8xezln4s		Bien vu !	Mathilde		
+tm_6amtew3yh9p2wsfv		Pourquoi veux-tu exclure la télécommande du système ?	Mathilde		
+tm_8em1cntaglu5ej2v		Oui, mais sera-t-on sûr que les signaux émis couvrent toute la plage de manœuvre de notre drone ?	Mathilde		
+tm_3v55207cwyurdtwh		Pourquoi ?	Mathilde		
+tm_unpdjfdp57gz0wsf		Oui, effectivement. Quoi d'autre ?	Mathilde		
+tm_sv541rxojkz2v6x1		Pour cela, il faut que le système permette au responsable de l'équipe de tournée de les accrocher solidement et facilement.	Mathilde		
+tm_mhw7mcichjaf1tsw		En parlant de chute, le drone devrait peut-être résister à un impact avec le sol en cas d'erreur de pilotage ?	Mathilde		
+tm_tc30szunj91xksrm		Bonjour Marc !	Mathilde		
+tm_eknij5hcnh29i142		Eh bien, je pense que les fonctions FP4, FP5, FC2, FC4, FC6 et FC7 concernent toutes un sous-système dont la fonction serait le transport, et la protection des médicaments.	Mathilde		
+tm_4m7msihs4mtz1c70		Oui !	Mathilde		
+tm_gndb0i42cjnbivz5		Veinard ! Ramène-nous de l’Ugali pour notre prochain repas.	Mathilde		
+tm_qupw49ynkawgu26d		Oui, mais d’abord, je ne me suis intéressée qu’au logiciel qui sera téléversé sur le processeur du drone.	Mathilde		
+tm_onmzek2k6qf1s813		Je n’ai pas encore touché à l’application de localisation.	Mathilde		
+tm_le1ng4z09p35bgay		Et bien, le code a plusieurs fonctions à réaliser :	Mathilde		
+tm_tf6tep21f0oadsjw		Pour la fonction de guidage, le code doit analyser les signaux reçus par le récepteur de la télécommande, et les convertir en consignes de puissance, et vitesses angulaires de roulis, tangage et lacet.	Mathilde		
+tm_h4l5krtcv7r20rda		Pour la fonction de stabilisation, le code doit analyser les signaux reçus de la centrale à inertie, extraire les vitesses angulaires de roulis, tangage et lacet,	Mathilde		
+tm_aw2jgnmumv6amzpf	puis les comparer aux consignes issues de la fonction de guidage pour appliquer un algorithme de P I D qui calculera la correction à effectuer sur chaque axe afin de stabiliser le drone.	puis les comparer aux consignes issues de la fonction de guidage pour appliquer un algorithme de PID qui calculera la correction à effectuer sur chaque axe afin de stabiliser le drone.	Mathilde		
+tm_t72dy33jrqz93bm7		Enfin pour la fonction de motorisation, le code doit convertir chacune des corrections d’axe en commande moteur sur les quatre moteurs du drone.	Mathilde		
+tm_c3qo7lqxambd8hx1		Tout le monde me suit ?	Mathilde		
+tm_110v9lvrt22rmics		OK, cela n’a pas d’importance. Ce qu’il faut retenir du coup, c'est ce diagramme.	Mathilde		
+tm_6er1s5u4v165gpuy		Ce qu’il faut retenir du coup, c'est ce diagramme.	Mathilde		
+tm_vnc5zq81h1y1xqhm		De ce diagramme, j’en ai déduit la plupart des objets et des méthodes qu’il me faudrait pour réaliser l’application.	Mathilde		
+tm_qyu19vnghxzou4q6		Oui, chef !	Mathilde		
+tm_o79u3mykm7v09i83		Oui, bien sûr !	Mathilde		
+tm_p7wqk5eam8q73p6k		Euh, je ne vois pas le drone !	Mathilde		
+tm_00kiohsj3cg08aks		Mince, attends, je vais zoomer !	Mathilde		
+tm_0fv6lz2t28h461q7		Toujours rien !	Mathilde		
+tm_akai8zohonwiyncm		Zut, j’ai l’impression que l’appli bug.	Mathilde		
+tm_y7gx499a81pp9ymc		John !	Mathilde		
+tm_65g8u3cbl9khj9i0		C’est toi qui as développé cette appli, non ?	Mathilde		
+tm_6aserns2hym90n11		Tu as bien pris en compte la bonne fréquence de réception du signal ?	Mathilde		
+tm_c6kjqdixb5h9cn5a		Et l’émission du signal par le drone a bien été contrôlée ?	Mathilde		
+tm_9v4bpb853ki25qgr		Mais John, ce n’est pas possible !	Mathilde		
+tm_urkibdnl3jphs5uh		On est en train de perdre le drone et on ne sait pas où il est.	Mathilde		
+tm_42yeil7f2uzidi9j		Rien.	Mathilde		
+tm_z8widtvzpxh5hv14		Attends, il me semble l’entendre !	Mathilde		
+tm_cyxr2wf4jyzzzqj1		Bonjour Marc !	Mathilde		
+tm_o6v50nl3p1qtr0da		Oui quel est le problème ?	Mathilde		
+tm_xwhvpkf9pfxcvp9g		Aie ! Jacques était responsable du développement, car il est spécialiste en automatique, mais il est rentré en France avec sa femme pour commencer une nouvelle vie.	Mathilde		
+tm_n99yj1yaq66yttyo		Je vais voir cela.	Mathilde		
+tm_lbqi3pt5xdlokv2l		Tu me laisses une heure ?	Mathilde		
+tm_dyy3harr5jke5w0n		J’ai regardé d’un peu plus près la partie du code associée à l’algorithme de stabilisation.	Mathilde		
+tm_r5oorzjo03dfv36g		Le problème est que Jacques a développé cette partie très rapidement, sans approche modulaire, malgré notre culture de développement orienté objet.	Mathilde		
+tm_rxnhwcsnpkco6l6b		Et bien, c’est la catastrophe !	Mathilde		
+tm_md4ynelbsc2akpva		La fonction de stabilisation est totalement mixée avec la fonction de guidage, et du coup, il est impossible de changer l’algorithme sans refaire toute cette partie du code.	Mathilde		
+tm_unrz6zxmmmytjrc9		Eh bien, à mon avis, le plus simple est de tout réécrire, mais cette fois en respectant les principes d’une bonne conception objet.	Mathilde		
+tm_zc93x8wxswar8uxv		Disons qu’il faut sans doute compter une trentaine d’heures de développement étalée sur trois semaines.	Mathilde		
+tm_xsp785d0qlvdab8h		Je n’ai plus que Marcel pour remplacer Jacques et il est déjà pas mal occupé !	Mathilde		
+tm_3gbl8vxw13hjyfo1		Mais avec lui, au moins, je serai sûre que le travail sera bien fait.	Mathilde		
+tm_6zijs11w3paszqtq		Ben, je crois que l’on n’a pas le choix, si l’on veut que notre pauvre John n’attrape pas de crampes au poignet !!	Mathilde		
+tm_85va0jnfc20kb9xl		"Par contre, vu que le système est assez simple, je propose que l’on ne perde pas trop de temps sur la partie ""tests usines"", et que l’on passe rapidement aux tests sur sites, pour se rendre compte très vite des difficultés liées au contexte."	Mathilde		
+tm_f3j22oo27nsxlr8o		Mais que s’est-il passé ?	Mathilde		
+tm_f9fin9rye9vn88h8		Oui, tu as raison.	Mathilde		
+tm_ytrkgpzwy4rad89z		Ben, non, on avait convenu de réduire cette phase au minimum, et je dois reconnaître que les coefficients ont été très rapidement ajustés...	Mathilde		
+tm_35ef8jq5b3ul52zl		Oui, désolé Marc !	Mathilde		
+					

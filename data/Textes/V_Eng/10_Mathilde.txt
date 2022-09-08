@@ -1,0 +1,62 @@
+﻿FORMAT:REFORMULATION					
+[TEXT ID]	[TEXTE PRONONCÉ (ENGLISH)]	[TEXTE AFFICHÉ]	[PERSONNAGE]	[NOTES]	
+tm_jzdlebpqkxxg68xt		It seems that its mission is to carry safely a pack of medicines accross the Ubangi river.	Mathilde		
+tm_gnzfduorx8fhr3ad		Perfect.	Mathilde		
+tm_rbmqw72iuxe97qbp		The most obvious actors seem to be the pilot, the medicine pack, and the guy from Ramatowa who is going to unload the pack.	Mathilde		
+tm_n90xl8hki1vbev2b		Climatic elements like wind and sun will probably play a role ?	Mathilde		
+tm_cdnsfhhm8xezln4s		Yeah, good idea !	Mathilde		
+tm_6amtew3yh9p2wsfv		Why would you exclude the remote control from the system ?	Mathilde		
+tm_8em1cntaglu5ej2v		Yes, but are we sure the signal will be in the receptor's domain ?	Mathilde		
+tm_3v55207cwyurdtwh		Why ?	Mathilde		
+tm_unpdjfdp57gz0wsf		Yes, that's true. What else ?	Mathilde		
+tm_sv541rxojkz2v6x1		While we're at it, the system needs to allow the guy in charge to attach the pack easily and safely.	Mathilde		
+tm_mhw7mcichjaf1tsw		While we're talking about falling down, maybe the drone should resist small impacts wth the ground in case the pilot makes minor mistakes ?	Mathilde		
+tm_tc30szunj91xksrm		Hello Marc !	Mathilde		
+tm_eknij5hcnh29i142		Well, I think the functions FP4, FP5, FC2, FC4, FC6 and FC7 should all be in the same sub-system whose function would be transport and safekeeping of the medicines.	Mathilde		
+tm_4m7msihs4mtz1c70		Yes !	Mathilde		
+tm_gndb0i42cjnbivz5		Lucky you ! Please bring us some Ugali for our next meal !	Mathilde		
+tm_qupw49ynkawgu26d		Yes, but I only focused on the software that will be flashed in the drone's microprocessor.	Mathilde		
+tm_onmzek2k6qf1s813		I didn't have time to think about the localization app.	Mathilde		
+tm_le1ng4z09p35bgay		Well, the software has several functions to manage :	Mathilde		
+tm_tf6tep21f0oadsjw		For the guidance function, the program mut analyse the signals received from the remote, and convert them in power, and rotation speeds on the yaw, roll, and pitch axis.	Mathilde		
+tm_h4l5krtcv7r20rda		For the stabilization function, the program will have to analyse the output of the inertial unit, calculate the yaw, roll and pitch rotation speeds, and compare them to the orders from the guidance function, then apply a PID to fianlly compute the correction on each axis to stabilize tha drone.	Mathilde		
+tm_aw2jgnmumv6amzpf		Fianlly, for the motorization function, the program has to convert each axis correction, to a motor command on the four engines.	Mathilde		
+tm_t72dy33jrqz93bm7			Mathilde		
+tm_c3qo7lqxambd8hx1		Is eveyone with me ?	Mathilde		
+tm_110v9lvrt22rmics		OK, that's not very important.	Mathilde		
+tm_6er1s5u4v165gpuy		What you have to remember is this diagram.	Mathilde		
+tm_vnc5zq81h1y1xqhm		From this diagram, I extracted most of the objects, and methods I would need to make that appliaction.	Mathilde		
+tm_qyu19vnghxzou4q6		As you wish !	Mathilde		
+tm_o79u3mykm7v09i83		Yes, of course !	Mathilde		
+tm_p7wqk5eam8q73p6k		Euh, I doon't see the drone...	Mathilde		
+tm_00kiohsj3cg08aks		Wait, I'll try to zoom in...	Mathilde		
+tm_0fv6lz2t28h461q7		Still nothing !	Mathilde		
+tm_akai8zohonwiyncm		I think the app isn't working right.	Mathilde		
+tm_y7gx499a81pp9ymc		John !	Mathilde		
+tm_65g8u3cbl9khj9i0		Were you the one who developped this app ?	Mathilde		
+tm_6aserns2hym90n11		Did you put the right frequency to acquire the signal ?	Mathilde		
+tm_c6kjqdixb5h9cn5a		And was the drone's signal emision tested ?	Mathilde		
+tm_9v4bpb853ki25qgr		But John, we can't do these mistakes.	Mathilde		
+tm_urkibdnl3jphs5uh		We are losing our drone, and now, it's impossible to know where it is.	Mathilde		
+tm_42yeil7f2uzidi9j		Nothing...	Mathilde		
+tm_z8widtvzpxh5hv14		Wait, I think I can hear it...	Mathilde		
+tm_cyxr2wf4jyzzzqj1		Hello Marc !	Mathilde		
+tm_o6v50nl3p1qtr0da		What is the problem with these ?	Mathilde		
+tm_xwhvpkf9pfxcvp9g		Ouch... Jacques was tasked with developping that part, as his area of expertize is automatism. But he went back to France with his wife to start a new life...	Mathilde		
+tm_n99yj1yaq66yttyo		I'll check that...	Mathilde		
+tm_lbqi3pt5xdlokv2l		Can you come back in an hour ?	Mathilde		
+tm_dyy3harr5jke5w0n		I looked the part dedicated to the stabilization algorithm.	Mathilde		
+tm_r5oorzjo03dfv36g		The problem is that Jacques programmed that part really fast, without taking our modular object oriented conception into account.	Mathilde		
+tm_rxnhwcsnpkco6l6b		It's a total mess...	Mathilde		
+tm_md4ynelbsc2akpva		The stabilization function is embedded in the guidance function, and we can't change it without rewriting this entire part...	Mathilde		
+tm_unrz6zxmmmytjrc9		Well, the simplest approach is to rewrite everything, but with our standards of development.	Mathilde		
+tm_zc93x8wxswar8uxv		Let's say it's going to take around 30 hours, spread across three weeks, if we want to maintain our schedule...	Mathilde		
+tm_xsp785d0qlvdab8h		I only have Marcel to replace Jacques, and he is pretty busy right now...	Mathilde		
+tm_3gbl8vxw13hjyfo1		At least I know that the code will be done well with him.	Mathilde		
+tm_6zijs11w3paszqtq		I think we don't have a choice...	Mathilde		
+tm_85va0jnfc20kb9xl		On the other hand, as the system seems pretty simple, I suggest we don't spend too much time testing individual parts. That way we can go much faster on the operationnal tests to see for ourselves the context linked problems.	Mathilde		
+tm_f3j22oo27nsxlr8o		What happened ?	Mathilde		
+tm_f9fin9rye9vn88h8		Yes, seems you're right...	Mathilde		
+tm_ytrkgpzwy4rad89z		Well, no, we agreed to shorten the initial tests as much as we could. I have to recognize the PID coefficient were quickly adjusted...	Mathilde		
+tm_35ef8jq5b3ul52zl		Yes, sorry Marc !	Mathilde		
+					

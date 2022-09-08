@@ -1,0 +1,9 @@
+﻿FORMAT:REFORMULATION					
+[TEXT ID]	[TEXTE PRONONCÉ (FRANÇAIS (FRANCE))]	[TEXTE AFFICHÉ]	[PERSONNAGE]	[NOTES]	
+tm_14hb04hokbh8bf7o		Ce n'est rien.	Agente		
+tm_ehu2o9389xqio3ok		Nos groupes d'experts ont pu analyser votre matériel et les copie-images, et ils sont formels.	Agente		
+tm_5e33vfa97cir8m2k		La cyberattaque provient bien de Claude.	Agente		
+tm_5weomezxjra4pmjq		Nous l'avons placé en garde à vue, et il a avoué avoir hacké vos serveurs.	Agente		
+tm_3f9d0r7yjld6j7q7		D'après lui, ces drones étaient une menace pour ses économies.	Agente		
+tm_wlhnvcek13jj8cvh	Il était payé grassement par les villageois de Ramatowa et Bamalowi, pour transporter des marchandises, que vous aviez proposé de livrer à l'autre village gratuitement avec vos drones.	Il était payé grassement par les villageois de Ramatowa et Bamalowi pour transporter des marchandises que vous aviez proposé de livrer à l'autre village gratuitement avec vos drones.	Agente		
+					

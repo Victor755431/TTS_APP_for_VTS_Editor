@@ -1,0 +1,44 @@
+﻿FORMAT:REFORMULATION					
+[TEXT ID]	[TEXTE PRONONCÉ (FRANÇAIS (FRANCE))]	[TEXTE AFFICHÉ]	[PERSONNAGE]	[NOTES]	
+tm_rjiwvmxladd5ufah		Bonjour !	Émilie		
+tm_cgqzhjs6gf04g4jv		C'est quoi alors ton projet ?	Émilie		
+tm_eh0mem3zwtw3ww7y		Et bien ! Pour une innovation, ça c'est une innovation !	Émilie		
+tm_pirzakvq3u80vnjy		Ah ben pour moi, pas de problème.	Émilie		
+tm_y6oa26r06yburcx3		J'ai fait une formation quand j'étais étudiante à l'ENAC.	Émilie		
+tm_5a3zwuhou7vtnlxu	On m'a appris à les piloter dans un espace réservé qu'on appelait la volière : le plus grand espace drone d'Europe !	On m'a appris à les piloter dans un espace réservé qu'on appelait <b>la volière</b> : le plus grand espace drone d'Europe !	Émilie		
+tm_luung5alr23rwbv9		Enfin si c'est un drone classique, genre quadrimoteur.	Émilie		
+tm_8yrfq588j80m7ghz		Mais je ne comprends pas comment les habitants de Ramatowa ont pu accepter ce deal ?	Émilie		
+tm_bl0f7zi1w9aynpqi		On n'ira plus jamais les voir ?	Émilie		
+tm_gd802wrr6d0xjlh6		Yop !	Émilie		
+tm_bgb5bazzbj7d94jn		Et bien, il me semble que dans les coûts, un poste a été oublié : la formation des pilotes.	Émilie		
+tm_2pduui2hrutk1ygd		Comme je l’ai dit à Isabelle, j’ai déjà piloté des drones à l’ENAC dans la volière.	Émilie		
+tm_emku1y33ff9793yq		Mais là, je pense que c’est un peu plus costaud, et qu’une nouvelle formation serait nécessaire.	Émilie		
+tm_fhuwnoynh60rju4m		C’est là le problème !	Émilie		
+tm_4dglpcyg18qxx56b		Ça coûte bonbon.	Émilie		
+tm_vtxfot7jtuero7ef		J’ai regardé sur internet et le moins cher que j’ai trouvé est une formation sur trois jours pour 950 €.	Émilie		
+tm_zd934975owhgq5lb		Au moins deux, je me porte volontaire, mais je ne fais pas toutes les tournées !	Émilie		
+tm_w7gvlc4ytl4vyca6		Et puis il y a aussi le neveu du chef du village de Bamalowi.	Émilie		
+tm_cib9lov6f244muke		Oui, fin prête.	Émilie		
+tm_e1035t49s1q1nytc		C’est parti !	Émilie		
+tm_x49o2k6apsujgsgw		Mais je ne comprends pas.	Émilie		
+tm_3sa379j7ivae6357		Le drone est parti tout de suite en déséquilibre !	Émilie		
+tm_tdihw1q1i53zgn1m		Dis-moi Mathilde, j’ai l’impression que je me suis perdue.	Émilie		
+tm_vsmtyt0j1z8a47fd		Tu pourrais regarder sur l’appli de localisation où j’en suis ?	Émilie		
+tm_yr499w75hthgv1m8		Je vais essayer de le ramener avec la caméra.	Émilie		
+tm_0anlotug2yw4fpzo		Voilà, je refranchis la rivière, mais avec cette brume, on n’y voit rien !	Émilie		
+tm_rrsaaui2wfpmgta4		Vous entendez quelque chose ?	Émilie		
+tm_y29ghenb7ndln72t		Mince, l’écran ne renvoie plus de vidéo !	Émilie		
+tm_pxso45vtbc3q1kbz		Je pilote en aveugle.	Émilie		
+tm_nvt29mthy6p6whfq		Aie ! Ben, j’ai fait ce que j’ai pu.	Émilie		
+tm_43mxw9xbs64l2htd		Oui chef !	Émilie		
+tm_abu922hps5ayo120		Alors Édouard, tu as repéré le drone sur la carte ?	Émilie		
+tm_7tuxk3llod58zamu		Mais cela devrait être automatique, en fonction de là où on se trouve.	Émilie		
+tm_xfjtmr7evbo8gkc4		Ah oui, c’est vrai, j’ai tellement l’habitude en ville !	Émilie		
+tm_hduqjzt84x1gehkc		Bon, mais on devrait pouvoir dézoomer, et se déplacer sur la région !	Émilie		
+tm_43lu12hi4x5mu00v		Édouard, fait moi voir cette appli !	Émilie		
+tm_xrviwmvu1rdqggep		Mince, pas croyable cette appli.	Émilie		
+tm_7u1sw0cpbanwuwkm		On ne trouve même pas comment changer la carte !	Émilie		
+tm_thy6uaghi29yd4gw		Oui, mais j’ai déjà oublié tout ce qu’il fallait faire !	Émilie		
+tm_es0juudocpty22dk		Tiens, prends la tablette.	Émilie		
+tm_h1mbtpt691qyf1mo		Parée !	Émilie		
+					

@@ -1,0 +1,351 @@
+﻿FORMAT:REFORMULATION					
+[TEXT ID]	[TEXTE PRONONCÉ (FRANÇAIS (FRANCE))]	[TEXTE AFFICHÉ]	[PERSONNAGE]	[NOTES]	
+tm_8pshh05x7awu6vbx		Depuis plusieurs années, la croix rouge organise des tournées mensuelles pour alimenter les dispensaires de la région de Nairobi en médicaments. Cette tournée est parfois hasardeuse notamment près du village de Ramatowa qui est souvent en conflit avec le village voisin de Pazimanga.	APPRENANT		
+tm_h8nmxqv19ldt9w6x	Il se trouve que ce village se situe de l'autre côté de la rivière où le dispensaire qui le précède se situe. Le camion de la Croix Rouge doit alors remonter 30 km vers le nord jusqu'au prochain pont et redescendre le long de la rivière pour joindre le village de Ramatowa. Une fois les médicaments distribués, le camion revient au pont situé 30 km en amont et continue sa tournée vers l'ouest.	"Il se trouve que ce village se situe de l'autre côté de la rivière où le dispensaire qui le précède, Balamowi, se situe. Le camion de la Croix Rouge doit alors remonter 30 km vers le nord jusqu'au prochain pont et redescendre le long de la rivière pour joindre le village de Ramatowa. 
+Une fois les médicaments distribués, le camion revient au pont situé 30 km en amont et continue sa tournée vers l'ouest."	APPRENANT		
+tm_bvbli8psn9emqnwh	Cette année, le directeur de la Croix  Rouge local, Hubert Gramont se pose la question de comment optimiser cette tournée pour à la fois diminuer les risques d'agression et éviter ce long détour. La solution retenue serait d'utiliser des drones capables de supporter une charge d'un ou deux kilos et de traverser la rivière avec le médicaments. Les membres du dispensaires de Ramatowa pourraient alors récupérer les médicaments de l'autre côté de la rivière. Il souhaite confier ce projet à Isabelle Boucicaut qui connait bien la topologie des lieux et les habitants de chaque village et qui de plus a une plus large expérience de la conduite de projets humanitaires.	"Cette année, le directeur de la Croix  Rouge local, Hubert Gramont se pose la question de comment optimiser cette tournée pour à la fois diminuer les risques d'agression et éviter ce long détour. La solution retenue serait d'utiliser des drones capables de supporter une charge d'un ou deux kilos et de traverser la rivière avec le médicaments. 
+Les membres du dispensaires de Ramatowa pourraient alors récupérer les médicaments de l'autre côté de la rivière. Il souhaite confier ce projet à Isabelle Boucicaut qui connait bien la topologie des lieux et les habitants de chaque village et qui de plus a une plus large expérience de la conduite de projets humanitaires."	APPRENANT		
+tm_bty7ecxt7x6nh44d		Selon vous, les arguments d'Hubert sont-ils suffisants ? Isabelle a-t-elle tort d'insister ?	APPRENANT		
+tm_4tcdn1xw7otjl43c	Dans tout projet, une étude coût bénéfice doit être menée avec sérieux. En effet, même si les bénéfices attendus semblent être évidents au premier abord, il faut donner des chiffres plus précis sur les gains et les coûts, étudier les stratégies de réalisation, étudier les contre-bénéfices éventuels et surtout considérer que les bénéfices et contre-bénéfices ne sont pas toujours liés à l'aspect financiers. Ils doivent être reliés aux enjeux stratégiques de l'entreprise.	"Dans tout projet, une étude coût bénéfice doit être menée avec sérieux. 
+
+En effet, même si les bénéfices attendus semblent être évidents au premier abord, il faut donner des chiffres plus précis sur les gains et les coûts, étudier les stratégies de réalisation, étudier les contre-bénéfices éventuels et surtout considérer que les bénéfices et contre-bénéfices ne sont pas toujours liés à l'aspect financiers. Ils doivent être reliés aux enjeux stratégiques de l'entreprise."	APPRENANT		
+tm_6hugeluxlg0tfktv	Tout ceci est expliqué dans les cours de Management de Projet que vous suivrez en première et deuxième année.	Tout ceci est expliqué dans les cours de <b>Management de Projet</b> que vous suivrez en première et deuxième année.	APPRENANT		
+tm_cl1p6mj12o9tvp7y	Dans tout projet, une étude coût bénéfice doit être menée avec sérieux. En effet, même si les bénéfices attendus semblent être évidents au premier abord, il faut donner des chiffres plus précis sur les gains et les coûts, étudier les stratégies de réalisation, étudier les contre-bénéfices éventuels et surtout considérer que les bénéfices et contre-bénéfices ne sont pas toujours liés à l'aspect financiers. Ils doivent être reliés aux enjeux stratégiques de l'entreprise.	"Dans tout projet, une étude coût bénéfice doit être menée avec sérieux. 
+
+En effet, même si les bénéfices attendus semblent être évidents au premier abord, il faut donner des chiffres plus précis sur les gains et les coûts, étudier les stratégies de réalisation, étudier les contre-bénéfices éventuels et surtout considérer que les bénéfices et contre-bénéfices ne sont pas toujours liés à l'aspect financiers. Ils doivent être reliés aux enjeux stratégiques de l'entreprise."	APPRENANT		
+tm_x55ewcgg9frwtd6l		Ici, Isabelle a bien pris le temps d'étudier les bénéfices et contre-bénéfices liés aux axes stratégiques de l'association.	APPRENANT		
+tm_7n0uuz3giqy28m05		Le projet peut-il commencer de cette façon là ? A-t-on maintenant suffisamment de données pour le lancer ?	APPRENANT		
+tm_nxdbb9gss1cqojcd	En effet, il faut passer par une nouvelle étape de Go/No-Go avec un cadrage plus précis, des objectifs et des critères de succès clairs, la consultation des parties prenantes, les contraintes et risques majeurs, une planification initiale qui identifie les livrables attendus et les activités pour les produire. Pour chaque activité, il faut aussi penser aux ressources humaines et leurs disponibilités. Il faut aussi penser aux ressources matérielles associées à chaque activité. Bref, tout un tas d'éléments pour établir la réelle faisabilité du projet et garantir son succès.	"En effet, il faut passer par une nouvelle étape de Go/No-Go avec un cadrage plus précis, des objectifs et des critères de succès clairs, la consultation des parties prenantes, les contraintes et risques majeurs, une planification initiale qui identifie les livrables attendus et les activités pour les produire.
+
+Pour chaque activité, il faut aussi penser aux ressources humaines et leurs disponibilités. 
+
+Il faut aussi penser aux ressources matérielles associées à chaque activité. Bref, tout un tas d'éléments pour établir la réelle faisabilité du projet et garantir son succès."	APPRENANT		
+tm_55fco564okz8eru7	Ces aspects là, vous les verrez aussi dans le cours de Management de Projet de première année.	Ces aspects là, vous les verrez aussi dans le cours de <b>Management de Projet</b> de première année.	APPRENANT		
+tm_c7eu8vse2e1ekwfg		La réaction d'Hubert semble justifiée : trois semaines pour produire du papier, est-ce vraiment nécessaire ?	APPRENANT		
+tm_igybkphf79jvvciy	La phase de cadrage et de planification initiale est souvent négligée. Pourtant, elle est cruciale. Elle peut faire gagner beaucoup de temps par la suite. Elle va permettre de se fixer des objectifs atteignables, de bien cerner le rôle de toutes les parties prenantes et leur niveau d'enthousiasme face à ce projet, d'anticiper les difficultés et les plus gros risques. Le fait d'impliquer très en amont un ingénieur est aussi indispensable car c'est lui qui donnera les meilleures estimations sur la faisabilité du système et sur le temps de réalisation de chacune des activités techniques.	"La phase de cadrage et de planification initiale est souvent négligée. Pourtant, elle est cruciale. 
+
+Elle peut faire gagner beaucoup de temps par la suite. Elle va permettre de se fixer des objectifs atteignables, de bien cerner le rôle de toutes les parties prenantes et leur niveau d'enthousiasme face à ce projet, d'anticiper les difficultés et les plus gros risques. 
+
+Le fait d'impliquer très en amont un ingénieur est aussi indispensable car c'est lui qui donnera les meilleures estimations sur la faisabilité du système et sur le temps de réalisation de chacune des activités techniques."	APPRENANT		
+tm_348tsqtyururqyg5	Là, Isabelle fait apparaître le triangle magique du chef de projet : coût, qualité, délai. Le chef de projet jongle continuellement avec ces trois variables. S'il change une de celles-ci, cela impacte de manière systématique l'une ou l'autre des deux variables restantes. Ainsi diminuer les délais peut se faire au dépend de la qualité de service ou du produit délivré. Cela peut aussi se faire en augmentant le budget pour avoir des effectifs plus importants sur le projet.	"Là, Isabelle fait apparaître le triangle magique du chef de projet :
+* coût
+* qualité
+*délai
+
+Le chef de projet jongle continuellement avec ces trois variables. S'il change une de celles-ci, cela impacte de manière systématique l'une ou l'autre des deux variables restantes. 
+Ainsi diminuer les délais peut se faire au dépend de la qualité de service ou du produit délivré. Cela peut aussi se faire en augmentant le budget pour avoir des effectifs plus importants sur le projet."	APPRENANT		
+tm_e5kzts11lnmdvrlr	La phase de cadrage et de planification initiale est souvent négligée. Pourtant, elle est cruciale. Elle peut faire gagner beaucoup de temps par la suite. Elle va permettre de se fixer des objectifs atteignables, de bien cerner le rôle de toutes les parties prenantes et leur niveau d'enthousiasme face à ce projet, d'anticiper les difficultés et les plus gros risques. Le fait d'impliquer très en amont un ingénieur est aussi indispensable car c'est lui qui donnera les meilleures estimations sur la faisabilité du système et sur le temps de réalisation de chacune des activités techniques.	"La phase de cadrage et de planification initiale est souvent négligée. Pourtant, elle est cruciale. 
+
+Elle peut faire gagner beaucoup de temps par la suite. Elle va permettre de se fixer des objectifs atteignables, de bien cerner le rôle de toutes les parties prenantes et leur niveau d'enthousiasme face à ce projet, d'anticiper les difficultés et les plus gros risques. 
+
+Le fait d'impliquer très en amont un ingénieur est aussi indispensable car c'est lui qui donnera les meilleures estimations sur la faisabilité du système et sur le temps de réalisation de chacune des activités techniques."	APPRENANT		
+tm_a99thttyaweswz8e	En effet, il faut passer par une nouvelle étape de Go/No-Go avec un cadrage plus précis, des objectifs et des critères de succès clairs, la consultation des parties prenantes, les contraintes et risques majeurs, une planification initiale qui identifie les livrables attendus et les activités pour les produire. Pour chaque activité, il faut aussi penser aux ressources humaines et leurs disponibilités. Il faut aussi penser aux ressources matérielles associées à chaque activité. Bref, tout un tas d'éléments pour établir la réelle faisabilité du projet et garantir son succès.	"En effet, il faut passer par une nouvelle étape de Go/No-Go avec un cadrage plus précis, des objectifs et des critères de succès clairs, la consultation des parties prenantes, les contraintes et risques majeurs, une planification initiale qui identifie les livrables attendus et les activités pour les produire.
+
+Pour chaque activité, il faut aussi penser aux ressources humaines et leurs disponibilités. 
+
+Il faut aussi penser aux ressources matérielles associées à chaque activité. Bref, tout un tas d'éléments pour établir la réelle faisabilité du projet et garantir son succès."	APPRENANT		
+tm_ntn313vkgcfgwzzy		Le projet peut-il commencer de cette façon là ? A-t-on maintenant suffisamment de données pour le lancer ?	APPRENANT		
+tm_0s5iwqabgr0bfsew	En effet, il faut passer par une nouvelle étape de Go/No-Go avec un cadrage plus précis, des objectifs et des critères de succès clairs, la consultation des parties prenantes, les contraintes et risques majeurs, une planification initiale qui identifie les livrables attendus et les activités pour les produire. Pour chaque activité, il faut aussi penser aux ressources humaines et leurs disponibilités. Il faut aussi penser aux ressources matérielles associées à chaque activité. Bref, tout un tas d'éléments pour établir la réelle faisabilité du projet et garantir son succès. Ces aspects là, vous les verrez aussi dans le cours de Management de Projet de première année.	"En effet, il faut passer par une nouvelle étape de Go/No-Go avec un cadrage plus précis, des objectifs et des critères de succès clairs, la consultation des parties prenantes, les contraintes et risques majeurs, une planification initiale qui identifie les livrables attendus et les activités pour les produire.
+
+Pour chaque activité, il faut aussi penser aux ressources humaines et leurs disponibilités. 
+
+Il faut aussi penser aux ressources matérielles associées à chaque activité. Bref, tout un tas d'éléments pour établir la réelle faisabilité du projet et garantir son succès.
+
+Ces aspects là, vous les verrez aussi dans le cours de <b>Management de Projet</b> de première année."	APPRENANT		
+tm_accx1v43eg8e44im	En effet, il faut passer par une nouvelle étape de Go/No-Go avec un cadrage plus précis, des objectifs et des critères de succès clairs, la consultation des parties prenantes, les contraintes et risques majeurs, une planification initiale qui identifie les livrables attendus et les activités pour les produire. Pour chaque activité, il faut aussi penser aux ressources humaines et leurs disponibilités. Il faut aussi penser aux ressources matérielles associées à chaque activité. Bref, tout un tas d'éléments pour établir la réelle faisabilité du projet et garantir son succès. Ces aspects là, vous les verrez aussi dans le cours de Management de Projet de première année.	"En effet, il faut passer par une nouvelle étape de Go/No-Go avec un cadrage plus précis, des objectifs et des critères de succès clairs, la consultation des parties prenantes, les contraintes et risques majeurs, une planification initiale qui identifie les livrables attendus et les activités pour les produire.
+
+Pour chaque activité, il faut aussi penser aux ressources humaines et leurs disponibilités. 
+
+Il faut aussi penser aux ressources matérielles associées à chaque activité. Bref, tout un tas d'éléments pour établir la réelle faisabilité du projet et garantir son succès.
+
+Ces aspects là, vous les verrez aussi dans le cours de <b>Management de Projet</b> de première année."	APPRENANT		
+tm_l8pqm704g432syax	Isabelle, en tant que bon chef de projet, s'assure ici de deux éléments fondamentaux pour recruter une équipe : la disponibilité et la motivation des participants.Du point de vue de la compétence, elle sait déjà que Marc est le meilleur ingénieur de l'association.	"Isabelle, en tant que bon chef de projet, s'assure ici de deux éléments fondamentaux pour recruter une équipe :
+
+* la <b>disponibilité</b> et
+* la <b>motivation</b> des participants.
+
+Du point de vue de la compétence, elle sait déjà que Marc est le meilleur ingénieur de l'association."	APPRENANT		
+tm_yk3uwcjjczjgg52e		Marc dispose-t-il d'assez d'informations pour définir toutes les exigences techniques du système ?	APPRENANT		
+tm_fjr83vf4s4m6rs7i	Une analyse fonctionnelle ne suffit pas pour réaliser un cahier des charges complet ! Pour cela, il est nécessaire de la compléter par une analyse centrée utilisateur qui va recueillir des fonctions supplémentaires auxquelles un ingénieur ne va pas forcément penser pendant son analyse.	"Une analyse fonctionnelle ne suffit pas pour réaliser un cahier des charges complet !
+
+Pour cela, il est nécessaire de la compléter par une analyse centrée utilisateur qui va recueillir des fonctions supplémentaires auxquelles un ingénieur ne va pas forcément penser pendant son analyse."	APPRENANT		
+tm_f7iskbxx6ko9gto1	Cette façon d'élaborer un cahier des charges est étudiée en détail dans le cours d'Ingénierie du Besoin IENAC 1ère année.	Cette façon d'élaborer un cahier des charges est étudiée en détail dans le cours d'<b>Ingénierie du Besoin</b> IENAC 1ère année.	APPRENANT		
+tm_tmdhtxwsrmotqqzv	Une analyse fonctionnelle ne suffit pas pour réaliser un cahier des charges complet ! Pour cela, il est nécessaire de la compléter par une analyse centrée utilisateur qui va recueillir des fonctions supplémentaires auxquelles un ingénieur ne va pas forcément penser pendant son analyse.	"Une analyse fonctionnelle ne suffit pas pour réaliser un cahier des charges complet !
+
+Pour cela, il est nécessaire de la compléter par une analyse centrée utilisateur qui va recueillir des fonctions supplémentaires auxquelles un ingénieur ne va pas forcément penser pendant son analyse."	APPRENANT		
+tm_nngs974loaodjz15		Le besoin de communication exprimé par Nurumbé va-t-il impacter le cahier des charges du système ?	APPRENANT		
+tm_jom1ylqs3hlkc31b	Les conséquences des besoins exprimés peuvent n'avoir aucun impact technique. Dans ce cas, le besoin est plus lié à la gestion du service utilisant le système. Ce service doit néanmoins lui aussi être précisé.  Il s'agit plus du rôle du chef de projet que de celui de l'ingénieur système.	"Les conséquences des besoins exprimés peuvent n'avoir aucun impact technique.
+
+Dans ce cas, le besoin est plus lié à la gestion du service utilisant le système. Ce service doit néanmoins lui aussi être précisé. 
+
+Il s'agit plus du rôle du chef de projet que de celui de l'ingénieur système."	APPRENANT		
+tm_092ltabxe3nn56b9	Les conséquences des besoins exprimés peuvent n'avoir aucun impact technique. Dans ce cas, le besoin est plus lié à la gestion du service utilisant le système. Ce service doit néanmoins lui aussi être précisé. Il s'agit plus du rôle du chef de projet que de celui de l'ingénieur système.	"Les conséquences des besoins exprimés peuvent n'avoir aucun impact technique.
+
+Dans ce cas, le besoin est plus lié à la gestion du service utilisant le système. Ce service doit néanmoins lui aussi être précisé. 
+
+Il s'agit plus du rôle du chef de projet que de celui de l'ingénieur système."	APPRENANT		
+tm_gvwufzpuj358dakj		Isabelle semble dire oui à tout. Est-ce une bonne attitude ?	APPRENANT		
+tm_mm2fl1v2gk4aw3od	"Elle ne dit pas vraiment ""OUI"" à tout. Elle est plutôt en faveur des propositions. En effet celles-ci ne semblent pas démesurées et dans un projet, la gestion des parties prenantes est primordiale. 
+Si une partie prenante essentielle ne voit aucun intérêt à s'impliquer, le projet aura du mal à se réaliser. Dans ce cas, l'intérêt de Gérard sera multiplié s'il peut se servir du système pour échanger avec le village voisin et s'il peut faire plaisir à son neveu."	"Elle ne dit pas vraiment ""OUI"" à tout. Elle est plutôt en faveur des propositions. En effet celles-ci ne semblent pas démesurées et dans un projet, la gestion des parties prenantes est primordiale.
+
+Si une partie prenante essentielle ne voit aucun intérêt à s'impliquer, le projet aura du mal à se réaliser. Dans ce cas, l'intérêt de Gérard sera multiplié s'il peut se servir du système pour échanger avec le village voisin et s'il peut faire plaisir à son neveu."	APPRENANT		
+tm_bofp76th7nkxfrez	Ceci sera expliqué dans le cours de Gestion de Projet de 1ère année du cycle IENAC.	Ceci sera expliqué dans le cours de <b>Gestion de Projet</b> de 1ère année du cycle IENAC.	APPRENANT		
+tm_obvfzsdm6lh6h5zz	"Elle ne dit pas vraiment ""OUI"" à tout. Elle est plutôt en faveur des propositions. En effet celles-ci ne semblent pas démesurées et dans un projet, la gestion des parties prenantes est primordiale. Si une partie prenante essentielle ne voit aucun intérêt à s'impliquer, le projet aura du mal à se réaliser. Dans ce cas, l'intérêt de Gérard sera multiplié s'il peut se servir du système pour échanger avec le village voisin et s'il peut faire plaisir à son neveu."	"Elle ne dit pas vraiment ""OUI"" à tout. Elle est plutôt en faveur des propositions. En effet celles-ci ne semblent pas démesurées et dans un projet, la gestion des parties prenantes est primordiale.
+
+Si une partie prenante essentielle ne voit aucun intérêt à s'impliquer, le projet aura du mal à se réaliser. Dans ce cas, l'intérêt de Gérard sera multiplié s'il peut se servir du système pour échanger avec le village voisin et s'il peut faire plaisir à son neveu."	APPRENANT		
+tm_psl20a5a5ii443vk	Pourquoi demander à Marc de choisir la solution technique ? Isabelle gère le budget, elle peut donc décider d'acheter une caméra pour répondre au besoin !	"Pourquoi demander à Marc de choisir la solution technique ? 
+Isabelle gère le budget, elle peut donc décider d'acheter une caméra pour répondre au besoin !"	APPRENANT		
+tm_9c1j8zy3k24tx37b	Un chef de projet gère effectivement le budget, et le temps associé à un projet. Mais la qualité et le contenu technique du système doivent être discutés en priorité et avant tout avec l'ingénieur système. Le chef de projet remonte les besoins. L'ingénieur système trouve la solution technique adaptée.	"Un chef de projet gère effectivement le budget, et le temps associé à un projet.
+
+Mais la qualité et le contenu technique du système doivent être discutés en priorité et avant tout avec l'ingénieur système.
+
+Le chef de projet remonte les besoins. L'ingénieur système trouve la solution technique adaptée."	APPRENANT		
+tm_d07c0met12q8fubu	Ceci sera vu dans le cours d'Ingénierie du Besoin de première année du cycle IENAC.	Ceci sera vu dans le cours d'<b>Ingénierie du Besoin</b> de première année du cycle IENAC.	APPRENANT		
+tm_vokj0adujcark7xm	Un chef de projet gère effectivement le budget, et le temps associé à un projet. Mais la qualité et le contenu technique du système doivent être discutés en priorité et avant tout avec l'ingénieur système. Le chef de projet remonte les besoins. L'ingénieur système trouve la solution technique adaptée.	"Un chef de projet gère effectivement le budget, et le temps associé à un projet.
+
+Mais la qualité et le contenu technique du système doivent être discutés en priorité et avant tout avec l'ingénieur système.
+
+Le chef de projet remonte les besoins. L'ingénieur système trouve la solution technique adaptée."	APPRENANT		
+tm_n7a4i8f91fgp0iex		Pendant ce temps, Marc avance sur l'analyse fonctionnelle du nouveau drone. Il a convoqué John et Mathilde pour l'aider dans le premier brainstorming sur le sujet.	APPRENANT		
+tm_hcdjf7q4fuzk69b7		Le début d'une analyse fonctionnelle d'un système débute toujours par l'identification de sa mission opérationnelle.	APPRENANT		
+tm_9u116u4dngs3jfa8	Ici, Marc aborde un point sensible de l'analyse fonctionnelle : Définir les limites du système que l'on veut développer. De nombreuses considérations sont à prendre en compte : Le coût, La sécurité, La compétence, etc En fonction de ces dernières, les limites du système seront plus ou moins étendues.	"Ici, Marc aborde un point sensible de l'analyse fonctionnelle :
+
+<b>    Définir les limites du système que l'on veut développer.</b>
+
+De nombreuses considérations sont à prendre en compte : 
+* Le <b>coût</b>
+* La <b>sécurité</b>
+* L a <b>compétence</b>
+* ...
+
+En fonction de ces dernières, les limites du système seront plus ou moins étendues."	APPRENANT		
+tm_4r6u9upgty9oekdb	En analyse fonctionnelle, la pieuvre est un schéma représentant toutes les fonctions du système. Une fonction principale met en relation deux acteurs. Si une fonction n'interagit qu'avec un acteur, il s'agit d'une fonction contrainte.  Toutes les fonctions sont numérotées. C'est pourquoi Marc donne à chaque fois un identifiant unique aux fonctions.	"En analyse fonctionnelle, la pieuvre est un schéma représentant toutes les fonctions du système.
+
+Une fonction principale met en relation deux acteurs. Si une fonction n'interagit qu'avec un acteur, il s'agit d'une fonction contrainte. 
+
+Toutes les fonctions sont numérotées. C'est pourquoi Marc donne à chaque fois un identifiant unique aux fonctions."	APPRENANT		
+tm_65w9du2puxscn5ey		Marc, Mathilde et John ont fini leur analyse fonctionnelle. Isabelle, de retour de ses interviews dans les deux villages, fait le point pour produire un cahier des charges du système.	APPRENANT		
+tm_qgb2jl0bqla1pdx3		Isabelle, de retour des ses interviews dans les deux villages fait le point pour produire un cahier des charges du système.	APPRENANT		
+tm_x4vm6k6qqw9kfwiv		Choisissez la phrase la réponse la plus adaptée pour Marc	APPRENANT		
+tm_7mrka6wbjkm8hovo		Les études de sécurité sont utiles, même si le système n’est pas dangereux pour l’homme, car elles permettent d’anticiper le comportement du système dans des situations critiques, et d’éviter non seulement des dégâts humains, mais aussi des dégâts matériels.	APPRENANT		
+tm_4aupub9nmo5e9x33	Les méthodes type barrière de protection, ou type AMDEC (Commentaire des Modes de Défaillances, de leurs Effets et de leur Criticité) seront vues dans vos cours de Sureté de fonctionnement en troisième année.	Les méthodes type barrière de protection, ou type AMDEC (Commentaire des Modes de Défaillances, de leurs Effets et de leur Criticité) seront vues dans vos cours de <b>sureté de fonctionnement</b> en troisième année.	APPRENANT		
+tm_kp63l53mtfi31www	Les études de sécurité sont développées dans le System Safety Engineering du référentiel INCOSE.	"Les études de sécurité sont développées dans la partie ""<b>System Safety Engineering</b>"" du référentiel INCOSE."	APPRENANT		
+tm_2beobrp4gyl0uxie		La scène se passe au bord de la rivière lors d’un essai en vol du drone. Le drone est en train de voler au-dessus de la rivière. Tout d’un coup, une forte rafale se déclenche. Le pilote perd le contrôle du drone qui part en vrille et tombe dans la rivière. Le drone disparait dans l’eau au bout de quelques secondes.	APPRENANT		
+tm_pxm57lyhbckokrd6		Aurait-on pu éviter cet évènement redouté, c’est-à-dire la chute dans l’eau ? Oui, en réfléchissant au moyen pouvant être déployé en amont et en aval de l’évènement. Dans notre cas, en amont, cela serait la mise en œuvre d’un algorithme de stabilisation efficace dans le contrôleur logiciel du drone (PID) qui permettrait au drone de résister à des rafales de plus de 40 km/h. En aval, il faudrait protéger le drone avec une coque de protection insubmersible et l’équiper d’un GPS pour pouvoir le localiser et le récupérer en aval de la rivière.	APPRENANT		
+tm_yfc89bs8ozzgfe4d		Les études de sécurité sont utiles, même si le système n’est pas dangereux pour l’homme, car elles permettent d’anticiper le comportement du système dans des situations critiques, et d’éviter non seulement des dégâts humains, mais aussi des dégâts matériels.	APPRENANT		
+tm_8rnrp37x99tx5lby	Les méthodes type barrière de protection, ou type AMDEC (Commentaire des Modes de Défaillances, de leurs Effets et de leur Criticité) seront vues dans vos cours de Sureté de fonctionnement en troisième année.	Les méthodes type barrière de protection, ou type AMDEC (Commentaire des Modes de Défaillances, de leurs Effets et de leur Criticité) seront vues dans vos cours de <b>sureté de fonctionnement</b> en troisième année.	APPRENANT		
+tm_2kxh1pzk6gegke5n			APPRENANT		
+tm_g1qx8ytrtb7qqxnl			APPRENANT		
+tm_j5xsxsfasi1q3bxa		Choisis ce qu'Isabelle vas dire :	APPRENANT		
+tm_i7n7t7a2vjsje9l6		"Le village voisin de Ramatowa est souvent en conflit avec ce dernier pour des questions séculaires liées aux zones de chasse et de pêche.
+Un des habitants a entendu parler du projet drone ; il s’est renseigné sur le type d’émetteur acheté par l’équipe de la croix rouge et s’est acheté le même. Il se positionne aux abords de la rivière et au moment d’un des vols du drone en direction de Ramatowa, il émet des signaux de commande pour en prendre le contrôle et le ramener de son côté. Il récupère le drone et s’enfuit en courant."	APPRENANT		
+tm_rw9kc9ftq9rwiy2m		À quoi servent les études d’éco-conception ?	APPRENANT		
+tm_1fdhxmw4lzwqq88y		"Les études d’écoconception doivent être menées en amont au même titre que les études de sécurité et de cybersécurité. 
+
+Elles ont toutes les trois un impact potentiel sur la conception du système. Dans le cas du drone, on peut imaginer d’utiliser des matériaux facilement recyclables pour l’armature (comme le bois) et des batteries intelligentes à très longue durée de vie."	APPRENANT		
+tm_0o6rty3rphnmxjl3		Vous verrez ces notions si vous choisissez l’option ISI de la majeure SITA.	APPRENANT		
+tm_z18b13gs55uehev6		"Les études d’écoconception doivent être menées en amont au même titre que les études de sécurité et de cybersécurité. 
+
+Elles ont toutes les trois un impact potentiel sur la conception du système. Dans le cas du drone, on peut imaginer d’utiliser des matériaux facilement recyclables pour l’armature (comme le bois) et des batteries intelligentes à très longue durée de vie."	APPRENANT		
+tm_9r9vhoom5t0o8tfs		Marc a-t-il raison de conseiller à John d’aller voir Marjorie avant même d’avoir discuté de la faisabilité technique ?	APPRENANT		
+tm_ce6b4a95uvwc1tln	Il est possible de déposer des brevets sur un concept non développé à condition d’avoir réalisé des schémas. Pour cela, il faut que le concept : Soit une invention autorisée par loi. Par example, les espèces végétales ou animales obtenues par croisement ne sont pas brevetables. Soit nouveau. Soit susceptible d'application industrielle. Ne doit pas découler de manière évidente de la technique connue par “l’homme du métier”	"Il est possible de déposer des brevets sur un concept non développé à condition d’avoir réalisé des schémas… 
+
+Pour cela, il faut que le concept :
+    _ Soit une <b>invention autorisée par loi</b> (Par example, les espèces végétales ou animales obtenues par croisement ne sont pas brevetables.)
+    _ Soit <b>nouveau</b>
+    _ Soit <b>susceptible d'application industrielle</b>.
+    _ Ne doit pas découler de manière évidente de la technique connue par “l’homme du métier”"	APPRENANT		
+tm_c1btadwxoh9oyf2y	Vous verrez cela en deuxième année dans le cours de Propriété Intellectuelle.	Vous verrez cela en deuxième année dans le cours de <b>Propriété Intellectuelle</b>.	APPRENANT		
+tm_19xvuxmbggwiac7h	Il est possible de déposer des brevets sur un concept non développé à condition d’avoir réalisé des schémas. Pour cela, il faut que le concept : Soit une invention autorisée par loi. Par example, les espèces végétales ou animales obtenues par croisement ne sont pas brevetables. Soit nouveau. Soit susceptible d'application industrielle. Ne doit pas découler de manière évidente de la technique connue par “l’homme du métier”	"Il est possible de déposer des brevets sur un concept non développé à condition d’avoir réalisé des schémas… 
+
+Pour cela, il faut que le concept :
+    _ Soit une <b>invention autorisée par loi</b> (Par example, les espèces végétales ou animales obtenues par croisement ne sont pas brevetables.)
+    _ Soit <b>nouveau</b>
+    _ Soit <b>susceptible d'application industrielle</b>.
+    _ Ne doit pas découler de manière évidente de la technique connue par “l’homme du métier”"	APPRENANT		
+tm_0ywxu6b8tjuzxzua			APPRENANT		
+tm_fre1arkm3hcig1p1		Une longue conversation sur les détails techniques des brevets plus tard...	APPRENANT		
+tm_pteqwvt4twpnd4is	Ici, Hubert introduit la réunion dans les règles de l’art. Il parle d'abord de l’objet de la réunion puis il décrit son déroulement. Il est parfois utile de faire un tour de table pour se présenter, mais dans le cas présent, tout le monde se connaît.	"Ici, Hubert introduit la réunion dans les règles de l’art.
+
+Il parle d'abord de l’objet de la réunion puis il décrit son déroulement. Il est parfois utile de faire un tour de table pour se présenter, mais dans le cas présent, tout le monde se connaît."	APPRENANT		
+tm_rxk5i13yrtyqjqr4		Ceci vous sera enseigné dans le cours de conduite de réunion, qui est normalement en deuxième année, dans la semaine de communication internationale.	APPRENANT		
+tm_rjgaztfw9w6rg7v1	Ici, Marc agit en bon ingénieur système. Il présente les fonctionnalités puis il challenge l’importance et la priorité de chacune d’entre elles en fonction des enjeux stratégiques de la Direction.	"Ici, Marc agit en bon ingénieur système. 
+
+Il présente les fonctionnalités puis il challenge l’importance et la priorité de chacune d’entre elles en fonction des enjeux stratégiques de la Direction."	APPRENANT		
+tm_yo5z7mj9v1v26dbs		Choix : choisis une option.	APPRENANT		
+tm_myaz42p24fyxrubv	Cet accord sur la planification et le budget entre Marc et Isabelle est très important. Il est essentiel que le chef de projet et l’ingénieur système aient la même vision de la complexité du projet et du budget associé. Une coordination étroite entre les deux est donc nécessaire.	"Cet accord sur la planification et le budget entre Marc et Isabelle est très important. 
+
+Il est essentiel que le chef de projet et l’ingénieur système aient la même vision de la complexité du projet et du budget associé. Une coordination étroite entre les deux est donc nécessaire."	APPRENANT		
+tm_gti0ojt7axf9kpps	La gestion des risque correspond à la partie Risk Management Process du référentiel INCOSE	"La gestion des risque correspond à la partie ""<b>Risk Management Process</b>"" du référentiel INCOSE"	APPRENANT		
+tm_65s2gzvvhyzgqqxg	Dans les projets, la formation à l’utilisation du nouveau système est capitale. Elle est souvent sous-estimée voire oubliée.	"Dans les projets, la formation à l’utilisation du nouveau système est capitale. 
+
+Elle est souvent sous-estimée voire oubliée."	APPRENANT		
+tm_3dzscdv8uw8cdalf		En quoi la méthode agile est meilleure que le cycle en V ?	APPRENANT		
+tm_gfr685ekc21au4en		"Seules la deuxième et troisième option sont vraies.
+
+Pour la première option, même si le développement est plus souple et si l'on a moins de formalisme documentaire, la méthode SCRUM est très rigoureuse et suit un ensemble de rituels obligatoires."	APPRENANT		
+tm_um6b57qhd2gxl5ic		Le choix du cycle de développement du produit, service ou système sera vu en deuxième année dans le cours de gestion de projet agile majeure SITA.	APPRENANT		
+tm_p23vqktotj2yk2ey		"En mode agile, le cahier des charges est ce qu’on appelle un ""backlog"". 
+
+Il est constitué de ""user stories"" qui sont en fait les fonctionnalités attendues du produit exprimées dans le formalisme SCRUM."	APPRENANT		
+tm_8ljmoldeber4zd3p		Ce n’est pas parce qu’on est en mode agile que l’on abandonne le plan de projet, et la gestion des risques !	APPRENANT		
+tm_k0ls4c9u2gb5bpk4		Ça y est, le cahier des charges est rédigé. Les besoins identifiés. Tous les feux sont au vert.	APPRENANT		
+tm_u7saujboa1pcygq7		Peut-on passer au développement ?	APPRENANT		
+tm_2mxdwv4jo6ab23xa		Et non, il faut maintenant concevoir l’architecture fonctionnelle du drone.	APPRENANT		
+tm_om56up98at4u551t	Ceci sera expliquée dans votre cursus au semestre 9 au travers du cours : Conception fonctionnelle.	Ceci sera expliquée dans votre cursus au semestre 9 au travers du cours : <b>Conception fonctionnelle</b>.	APPRENANT		
+tm_zpi8als3xaa23zvj	Cette étape est normalisée dans le processus INCOSE suivant : Architecture definition process.	Cette étape est normalisée dans le processus INCOSE suivant : <b>Architecture definition process</b>.	APPRENANT		
+tm_ytbg5hl47ld8qy4o		En effet, il faut maintenant concevoir l’architecture fonctionnelle du drone.	APPRENANT		
+tm_ubbalnzeyde973uu		Deux heures plus tard, la réunion est sur le point de se terminer.	APPRENANT		
+tm_6xopz3o3khshkxyv		Pensez vous que John a raison ?	APPRENANT		
+tm_yymo88pyyf1hely7	Et non pas encore : Il faut maintenant concevoir l’architecture matérielle du drone.	"Et non pas encore : 
+
+Il faut maintenant concevoir l’architecture matérielle du drone."	APPRENANT		
+tm_ek5qw3t9ogk0egdn	Cette étape est expliquée dans votre cursus au semestre 9 au travers du cours : Conception fonctionnelle.	Cette étape est expliquée dans votre cursus au semestre 9 au travers du cours : <b>Conception fonctionnelle</b>.	APPRENANT		
+tm_t1yt3fwwmnqn4keg	Ceci est normalisée dans le processus INCOSE suivant : Design definition process.	Ceci est normalisée dans le processus INCOSE suivant : <b>Design definition process</b>.	APPRENANT		
+tm_tyr1j2mh6zickt08	Et non pas encore : Il faut maintenant concevoir l’architecture matérielle du drone.	"En effet, John va devoir attendre encore un petit peu plus.
+
+Il faut maintenant concevoir l’architecture matérielle du drone."	APPRENANT		
+tm_8kd4p31yzsw5hsj4		"Vous voyez que dans ce jeu, on peut explorer différentes architectures matérielles pour répondre aux mêmes fonctions. 
+
+Dans le cas de systèmes complexes, le nombre de possibilités d’architecture peut être important. C’est le rôle de l’ingénieur d’utiliser ses connaissances et des méthodes pour choisir celle qui répondra le mieux aux besoins."	APPRENANT		
+tm_omb0rwsmmkgqu4f8		John va-t'il enfin pouvoir coder ?	APPRENANT		
+tm_9rqtralzrihcfjz0	Toujours pas, encore une étape avant le développement et le codage :  réaliser la conception logicielle de l’application.	Et non, encore une étape avant le développement et le codage :  réaliser la conception logicielle de l’application.	APPRENANT		
+tm_58gmruuzavhcdxzf	Cela correspond au Procédé de développement logiciel du standard INCOSE.	Cela correspond au <b>Procédé de développement logiciel</b> du standard INCOSE.	APPRENANT		
+tm_6pr6d1yk5t4ry0qv		Cette étape est expliquée dans votre cursus au semestre 8 au travers des cours : <b>Conception orientée objet</b>.	APPRENANT		
+tm_hqj0coltiibx47tf		Toujours pas, encore une étape avant le développement et le codage :  réaliser la conception logicielle de l’application.	APPRENANT		
+tm_wijvfrkak2smyi9p		Marc est revenu de Nairobi.	APPRENANT		
+tm_gmfyg3bc06gut18i	La création de ce type de diagramme est enseignée dans le cours de Conception Orienté Objet du semestre 8 en majeure SITA.	La création de ce type de diagramme est enseignée dans le cours de <b>Conception Orienté Objet</b> du semestre 8 en majeure SITA.	APPRENANT		
+tm_83klv1o240bohm76	La Programmation Orientée Objet est abordée dans les cours de Python de première année.	La Programmation Orientée Objet est abordée dans les cours de <b>Python</b> de première année.	APPRENANT		
+tm_7mv0rxx6jeoqufkg		Elle fait l'objet d'un cours plus approfondi au semestre 8 de la majeure SITA.	APPRENANT		
+tm_65547vjkm4qp2w29		Marc vient d'entrer dans le bureau de John	APPRENANT		
+tm_daievuisfticn86e		John a-t-il raison de ne pas trop s’appesantir sur la conception sachant que l’application de localisation semble très simple ?	APPRENANT		
+tm_xatvz4xvbq1vwmd0	Non, John a tort. Surtout dans le cas d’interface homme machine. Le rôle de l’utilisateur est crucial. C’est pour cela d’ailleurs que la notion de conception IHM fait l’objet de formation à part entière. Les grands principes de la conception IHM sont : Impliquer dès le début les utilisateurs. Prototyper, itérer, jeter jusqu’à ce que l’utilisateur soit satisfait. Seulement alors, on peut envisager de passer à la conception orienté objet puis à la programmation.	"Non, John a tort.
+
+Surtout dans le cas d’interface homme machine. Le rôle de l’utilisateur est crucial. C’est pour cela d’ailleurs que la notion de conception IHM fait l’objet de formation à part entière. Les grands principes de la conception IHM sont : Impliquer dès le début les utilisateurs. Prototyper, itérer, jeter jusqu’à ce que l’utilisateur soit satisfait. Seulement alors, on peut envisager de passer à la conception orienté objet puis à la programmation."	APPRENANT		
+tm_bwr50gp7r3ma9o8y		Dans votre cursus, vous le verrez au semestre 8, dans le cours de Conception IHM.	APPRENANT		
+tm_7ao8xpp54c11aywt	Dans le référentiel INCOSE, les enjeux liés à la conception IHM sont développées au chapitre 9-6 : Interface management.	Dans le référentiel INCOSE, les enjeux liés à la conception IHM sont développées au chapitre 9-6 : <b>Interface management</b>.	APPRENANT		
+tm_frmxwhhvzdij290n	En effet, John a tort. Surtout dans le cas d’interface homme machine. Le rôle de l’utilisateur est crucial. C’est pour cela d’ailleurs que la notion de conception IHM fait l’objet de formation à part entière. Les grands principes de la conception IHM sont : Impliquer dès le début les utilisateurs. Prototyper, itérer, jeter jusqu’à ce que l’utilisateur soit satisfait. Seulement alors, on peut envisager de passer à la conception orienté objet puis à la programmation.	"En effet, John a tort.
+
+Surtout dans le cas d’interface homme machine. Le rôle de l’utilisateur est crucial. C’est pour cela d’ailleurs que la notion de conception IHM fait l’objet de formation à part entière. Les grands principes de la conception IHM sont : Impliquer dès le début les utilisateurs. Prototyper, itérer, jeter jusqu’à ce que l’utilisateur soit satisfait. Seulement alors, on peut envisager de passer à la conception orienté objet puis à la programmation."	APPRENANT		
+tm_5eym9mnlb0ulggsj		Émilie se tient devant le drone.	APPRENANT		
+tm_z4zu3rixu8vzp9si		"Émilie appuie sur la commande de gaz. Le drone fait tourner ses hélices. 
+
+Il commence à se soulever, mais prend de la gîte. Émilie tente de redresser. Le drone part dans l’autre sens, s’élève d’un mètre puis redevient instable. 
+
+Émilie tente une ultime manœuvre, mais le drone finit par se renverser et s’écrase sur le sol. Une hélice se brise et un des moteurs émet une petite fumée grise."	APPRENANT		
+tm_se8na2xk7qgkqqdp		Quelques minutes plus tard, Marc revient :	APPRENANT		
+tm_o4rem6q6oqr33ueg	"Que s’est-il passé ? La fonction interne ""distribuer l’énergie à tous les sous-systèmes"" a été partiellement réalisée.  Elle a été oubliée pour le sous-système de stabilisation. Du coup, la centrale à inertie n’est pas alimentée et ne renvoie aucune correction angulaire. D’où le comportement erratique du drone dès le décollage."	"Que s’est-il passé ? 
+
+La fonction interne ""distribuer l’énergie à tous les sous-systèmes"" a été partiellement réalisée. 
+
+Elle a été oubliée pour le sous-système de stabilisation. Du coup, la centrale à inertie n’est pas alimentée et ne renvoie aucune correction angulaire. D’où le comportement erratique du drone dès le décollage."	APPRENANT		
+tm_cz3fhefe04zsxbul	Une forte brume s’est installée. La pilote de drone, Émilie, reçoit la vidéo du drone grâce à sa caméra. Le drone est en train de franchir la rivière. Il est bientôt sur l’autre rive, mais Émilie ne voit pas le ponton d’atterrissage.	"Une forte brume s’est installée. 
+
+La pilote de drone, Émilie, reçoit la vidéo du drone grâce à sa caméra. Le drone est en train de franchir la rivière. Il est bientôt sur l’autre rive, mais Émilie ne voit pas le ponton d’atterrissage."	APPRENANT		
+tm_lowpkuq6b28gx0mp		"Tout d’un coup, le drone passe juste au-dessus de leur tête, manquant de les heurter.
+
+Émilie tente de reprendre le contrôle, mais le drone est trop bas et il atterrit en catastrophe, puis se retourne et casse deux de ses ailes."	APPRENANT		
+tm_bv47j05lgewnh9tm		"Le problème a été analysé : 
+
+En ne réalisant pas l’étape d’architecture matérielle, la fonction FC8 : montrer sa position GPS au pilote n’a pas été décomposée. 
+
+Du coup, la partie émission du signal GPS n’a été attribuée à aucun élément physique du drone. 
+L’émetteur de signal GPS n’a même pas été commandée ! Seule la partie réception dont John était responsable a été développée."	APPRENANT		
+tm_euis4c8ae1o1rqam		Une heure plus tard	APPRENANT		
+tm_hdotf0mswavla65s	En négligeant l’étape de conception logicielle, Jacques a rendu le code très difficile à maintenir.  Il aurait dû anticiper la possibilité de changer l’algorithme et faire en sorte que l’algorithme soit dans une méthode dédiée à un objet pour être facilement interchangeable.	"En négligeant l’étape de conception logicielle, Jacques a rendu le code très difficile à maintenir.  
+
+Il aurait dû anticiper la possibilité de changer l’algorithme et faire en sorte que l’algorithme soit dans une méthode dédiée à un objet pour être facilement modifiable."	APPRENANT		
+tm_7i04b7w2yyaee3k4			APPRENANT		
+tm_03p15ns7pl4o4wcb	Édouard fait décoller le drone qui s'envole sans problème dans les airs. Puis Émilie prend les commandes et se sert de sa vue et de la caméra du drone pour poser le drone délicatement sur la rivière. Ils perdent rapidement le drone de vue, alors que celui-ci est emporté par le courant. Édouard prend la tablette pour pouvoir le géolocaliser. Il s’agite un peu sur la tablette puis ne bouge plus et semble consterné.	"Édouard fait décoller le drone qui s'envole sans problème dans les airs. 
+
+Puis Émilie prend les commandes et se sert de sa vue et de la caméra du drone pour poser le drone délicatement sur la rivière. Ils perdent rapidement le drone de vue, alors que celui-ci est emporté par le courant. 
+
+Édouard prend la tablette pour pouvoir le géolocaliser. Il s’agite un peu sur la tablette puis ne bouge plus et semble consterné."	APPRENANT		
+tm_1mdn9rco5lvw3gne		"Émilie prend la tablette et essaie de voir comment centrer la carte sur le village de Ramatowa. 
+
+Après avoir cliqué sur plusieurs menus, elle non plus ne trouve pas."	APPRENANT		
+tm_h0yxh241ch7bijgh		Marc prend son téléphone et appelle John.	APPRENANT		
+tm_wjxfapp9dj4eqrop		"Marc prend la tablette et effectue les commandes de menu. 
+
+La carte apparait enfin avec la position du drone. On s’aperçoit qu’il est maintenant à plus de 10 km en aval de la rivière et qu’il va falloir plus d’une heure à l’équipe pour aller le chercher !"	APPRENANT		
+tm_d3oyp5bzm523xmyc		"En omettant l'étape de conception IHM, John a totalement oublié d’impliquer les utilisateurs finaux. 
+
+Ce faisant, il a développé l’interface en considérant facile des opérations non évidentes pour un utilisateur débutant et surtout en multipliant le nombre de clics pour arriver à une fonction essentielle. 
+
+Il a aussi inventé des besoins qui n’existaient pas, mais qui lui ont fait plaisir en tant que concepteur, comme le grand nombre de cartes. Une bonne conception IHM aurait simplifié tous ces problèmes en permettant par exemple à l’utilisateur de se déplacer sur une carte globale avec des fonctions de zoom et dé zoom."	APPRENANT		
+tm_tkv9p5q0pcwge9yg		Dans le bureau d'Hubert, Marc organise une réunion de crise avec Hubert et Isabelle.	APPRENANT		
+tm_rb5fwiexrsyfauto		Clique sur des éléments du décor pour faire avancer l'enquête.	APPRENANT		
+tm_9sbeifratg4ni9yt		Après quelques temps à analyser l'ordinateur, l'expression de Marc change subitement	APPRENANT		
+tm_tsrab0psbxmtdot7	La création de copie de sauvegarde de données critiques sur des supports fiables et séparés du réseau (disque dur externe, serveur de backup, ...) est une partie importante de toute politique de sécurité des systèmes informatique. Cela permet de relancer l'activité rapidement après une attaque ou une panne informatique majeure. Ces sauvegardes sont souvent accompagnées de moyens de vérifier leur intégrité pour que l'on puisse être certain que les données sont utilisables.	"La création de copie de sauvegarde de données critiques sur des supports fiables et séparés du réseau (disque dur externe, serveur de backup, ...) est une partie importante de toute politique de sécurité des systèmes informatiques. 
+
+Cela permet de relancer l'activité rapidement après une attaque ou une panne informatique majeure.
+
+Ces sauvegardes sont souvent accompagnées de moyens de vérifier leur intégrité pour que l'on puisse être certain que les données sont utilisables."	APPRENANT		
+tm_4jegkm5q6woucbli	Ceci est enseigné dans le cours de Sécurité de Systèmes de l'Information de deuxième année.	Ceci est enseigné dans le cours de <b>Sécurité de Systèmes de l'Information</b> de deuxième année.	APPRENANT		
+tm_5gr4v23oqvu5rddk	"La création de copie de sauvegarde de données critiques, sur des supports fiables, et séparés du réseau, comme des disque durs externe,  des serveurs de backup, etc, est une partie importante de toute politique de sécurité des systèmes informatiques. 
+
+Cela permet de relancer l'activité rapidement après une attaque, ou une panne informatique majeure.
+
+Ces sauvegardes sont souvent accompagnées de moyens de vérifier leur intégrité, pour que l'on puisse être certain que les données sont utilisables.
+
+Ici, l'équipe a eu de la chance, ils ont créé une copie par mégarde, et cela leur évitera de recommencer à partir de 0."	"La création de copie de sauvegarde de données critiques sur des supports fiables et séparés du réseau (disque dur externe, serveur de backup, ...) est une partie importante de toute politique de sécurité des systèmes informatiques. 
+
+Cela permet de relancer l'activité rapidement après une attaque ou une panne informatique majeure.
+
+Ces sauvegardes sont souvent accompagnées de moyens de vérifier leur intégrité pour que l'on puisse être certain que les données sont utilisables.
+
+Ici, l'équipe a eu de la chance, ils ont créé une copie par mégarde, et cela leur évitera de recommencer à partir de 0."	APPRENANT		
+tm_61d08wyw3lc7hamv		Quelques jours plus tard, une policière vient présenter les résultats de son enquête à Hubert.	APPRENANT		
+tm_v3efmgcybhbsr2ku		"Les cyberattaques ne viennent pas toujours de l'extérieur. Au contraire, une large proportion (de l'ordre de 60 % d'après certaines études) de ces attaques est lancée par des employés ou anciens employés d'une entreprise.
+
+C'est pourquoi il est nécessaire de faire attention et de rester vigilant, même quand c'est un de vos collègues qui vous envoie un mail.
+
+De plus,  il est fortement recommandé de porter une importance toute particulière à la gestion des ressources humaines. Toute entreprise doit faire un minimum attention aux stagiaires et intervenants qui ont accès à leurs réseaux. Et la gestion des départs est également très importante. Il convient de supprimer rapidement les comptes qui n'ont plus lieu d'être, en particulier après un départ à la retraite, un licenciement ou une démission."	APPRENANT		
+tm_yajukrhef097dbqx		Remets dans l'ordre les différentes étapes d'une cyberattaque classique.	APPRENANT		
+tm_giwos7nbayz32qpj		Après un petit temps d'attente, John entre dans le bureau.	APPRENANT		
+tm_6skxuvanv612zcv8	Les mails et les pièces jointes sont un des moyens les plus communs d'introduire du code malveillant dans une entreprise. C'est pourquoi il faut prendre des précautions avant d'ouvrir celles-ci. Ici, le message était peut-être étrange, mais John a pu penser que le mail était légitime. On appelle ces pratiques de manipulation : Ingénierie Sociale.	"Les mails et les pièces jointes sont un des moyens les plus communs d'introduire du code malveillant dans une entreprise. C'est pourquoi il faut prendre des précautions avant d'ouvrir celles-ci.
+
+Ici, le message était peut-être étrange, mais John a pu penser que le mail était légitime. On appelle ces pratiques de manipulation <b>Ingénierie Sociale</b>."	APPRENANT		
+tm_i4yk9ooqv8a294yn	Vous verrez cela au semestre 9, dans le cours Advanced Security de la majeure SITA.	Vous verrez cela au semestre 9, dans le cours <b>Advanced Security</b> de la majeure SITA.	APPRENANT		
+tm_3tjyd4w5ej3te0ib	Non, les tests de validation opérationnelle du système doivent être écrits dès la rédaction des exigences sur ce système. Ceci permet de voir entre autres si toutes les exigences sont facilement testables, réalistes et le cas échéant les moyens de test à mettre en œuvre pour la validation. Certains outils de test demandent parfois eux-mêmes du temps de développement ou un temps de commande assez long ! La durée des tests doit être intégrée dans le planning prévisionnel.	"Non, les tests de validation opérationnelle du système doivent être écrits dès la rédaction des exigences sur ce système. Ceci permet de voir entre autres si toutes les exigences sont facilement testables, réalistes et le cas échéant les moyens de test à mettre en œuvre pour la validation. Certains outils de test demandent parfois eux-mêmes du temps de développement ou un temps de commande assez long !
+
+La durée des tests doit être intégrée dans le planning prévisionnel."	APPRENANT		
+tm_19lhmbjcz8043xnb	 Vous verrez les notions Vérification & Validation dans les cours de deuxième et troisième année portant sur ce thème.	 Vous verrez les notions <b>Vérification & Validation</b> dans les cours de deuxième et troisième année portant sur ce thème.	APPRENANT		
+tm_87a9sqa969b857hh	 Les enjeux et les méthodes sont largement décrits dans les processus INCOSE Verification Process.	" Les enjeux et les méthodes sont largement décrits dans les processus INCOSE <b>Verification Process</b>""."	APPRENANT		
+tm_7964isxfzhp5009o		Souhaitez vous suivre le conseil de Mathilde ?	APPRENANT		
+tm_27d78o6f6oqnn3t7	Non, les tests de validation opérationnelle du système doivent être écrits dès la rédaction des exigences sur ce système. Ceci permet de voir entre autres si toutes les exigences sont facilement testables, réalistes et le cas échéant les moyens de test à mettre en œuvre pour la validation. Certains outils de test demandent parfois eux-mêmes du temps de développement ou un temps de commande assez long ! La durée des tests doit être intégrée dans le planning prévisionnel.	"Les tests de validation opérationnelle du système doivent être écrits dès la rédaction des exigences sur ce système. Ceci permet de voir entre autres si toutes les exigences sont facilement testables, réalistes et le cas échéant les moyens de test à mettre en œuvre pour la validation. Certains outils de test demandent parfois eux-mêmes du temps de développement ou un temps de commande assez long !
+
+La durée des tests doit être intégrée dans le planning prévisionnel."	APPRENANT		
+tm_tvbq9l5tr2069wmn		"Émilie met les gaz, le drone s’élève lentement quand une petite rafale de vent survient. Le drone dévie puis récupère sa trajectoire, mais se met à osciller légèrement, puis de manière  de plus en plus prononcée pour finalement partir en piqué vers le sol. 
+
+Bilan : un moteur et une aile cassés."	APPRENANT		
+tm_gusciykerkrko026	Les tests unitaires et les tests d’intégration qui se déroulent avant les tests su site sont très importants, car ils permettent d’identifier la majorité des problèmes dès lors que l’on essaie de recréer des conditions un peu près réalistes de fonctionnement. Ainsi pour le drone, faire des tests dans un hangar permet déjà de voir si le drone peut décoller, et s’il n’y a pas de défaut de conception ou d’ajustement de paramètres.	"Les tests unitaires et les tests d’intégration qui se déroulent avant les tests su site sont très importants, car ils permettent d’identifier la majorité des problèmes dès lors que l’on essaie de recréer des conditions un peu près réalistes de fonctionnement. 
+
+Ainsi pour le drone, faire des tests dans un hangar permet déjà de voir si le drone peut décoller, et s’il n’y a pas de défaut de conception ou d’ajustement de paramètres."	APPRENANT		
+tm_bktxnw4l1mzwcnvt		La méthode Scrum est enseignée en gestion de projet deuxième année.	APPRENANT		
+tm_a6lnblu9z3rpjsw9		Elle est décrite dans le chapitre X du Handbook INCOSE V6.	APPRENANT		
+tm_vfuo6un9548thzbn		"Cette méthode traduit les fonctions attendues du drone en petites histoires à réaliser. Elles sont écrites selon un formalisme bien précis.
+
+Par exemple : en tant que pilote de drone, je souhaite pouvoir agir sur la puissance des moteurs afin de faire décoller le drone.
+On appelle ces petites histoires ""user story"" car elles impliquent toujours un et un seul utilisateur. Dans notre cas, on pourrait développer des user stories propres au pilote, au responsable des médicaments, à l'agent chargé du transport du drone."	APPRENANT		
+tm_pxkx7we3t95hnj4n		"Contrairement aux idées reçues, la méthode agile n’est pas une méthode empirique où l’on fait fluctuer la durée et le budget des sprints en fonction des besoins et évènements.
+
+La seule variable d’ajustement dans cette méthode est le nombre de fonctions que l’on va développer selon le temps et le budget consacrés."	APPRENANT		
+tm_dbtymstob7viooic		Tous les habitants du village de Ramatowa sont rassemblés. Des représentants du village de Bamalowi ainsi que leur chef sont là aussi. Émilie est un peu émue. Le drone est prêt à décoller. Bruno a accroché la charge de médicaments en bas du drone et Hubert vient de demander le silence.	APPRENANT		
+tm_esv6inkaculn2yup		"Émilie prend la télécommande du drone et commence à mettre les gaz. Le bruit s’amplifie. 
+
+Le drone commence à bouger puis à s’élever en l’air. On le voit partir au-dessus de la rivière. Tout se passe bien. Une petite rafale de vent survient alors. Le drone semble tanguer vers la droite. Tout le monde s’écrie ""Oh"". Mais le drone récupère automatiquement de la rafale et reprend son cap. La foule est soulagée. Émilie pilote à merveille et pose le drone à 2 mètres de la croix cible grâce à la caméra fixée à l’avant qui lui permet de voir où le drone se trouve. Tout le monde l'applaudit.
+
+Vient le tour d'Édouard, neveu du chef. Une nouvelle cargaison est attachée. Édouard actionne les gaz et le drone s’envole très rapidement. La conduite est plus nerveuse que celle d'Émilie et le drone zigzague un peu, mais finalement, il arrive à bon port. 
+
+Tout le monde applaudit de nouveau. Le drone ramène dans sa cargaison : quatre jolis colliers de perles. Hubert s’approche de la cargaison, s’empare des colliers et reprend la parole."	APPRENANT		
+tm_qzfbnxdas09u0777		Hubert met le collier autour du cou des 4 membres de l’équipe pendant que de nouveau les applaudissements retentissent.	APPRENANT		
+tm_1pjoz7tjq3pndln4		"L’intervention d’Hubert illustre parfaitement de ce qu’il faut faire à la fin d’un projet : un évènement festif où l’on invite toutes les parties prenantes, où l’on fait un bilan du travail réalisé avec les points forts et les points faibles et surtout où l’on remercie toute l’équipe du projet ! 
+
+La phase de conclusion d’un projet est souvent bâclée et provoque dans ce cas des frustrations. Elle peut même entrainer une certaine répugnance des participants à participer aux futurs projets. Il ne faut pas la sous-estimer. D’autant plus qu’elle est l’occasion pour l’entreprise de capitaliser du savoir et d’enregistrer les leçons apprises dans un document dédié."	APPRENANT		
+tm_nx3z5k11rpl26pu9		"Voilà, cette histoire est finie.
+
+Il ne vous reste plus qu'à vous embarquer à votre tour dans cette fabuleuse aventure de l'ingénierie aéronautique, qui vous permettra de concevoir, développer et maintenir de manière fiable, durable et responsable nos futurs systèmes de navigation et de contrôle. 
+
+Bonne chance !"	APPRENANT		
+					

@@ -1,0 +1,76 @@
+﻿FORMAT:REFORMULATION					
+[TEXT ID]	[TEXTE PRONONCÉ (FRANÇAIS (FRANCE))]	[TEXTE AFFICHÉ]	[PERSONNAGE]	[NOTES]	
+tm_swcnf9j47qgnftcl		Dans ce cas, ne peut-on pas aussi préciser le poids maximum du paquet de médicaments à transporter ?	John		
+tm_sy0xo8preervsko5		Oui. On devra vérifier avec l'équipe de tournée, mais ça me paraît raisonnable.	John		
+tm_7m694au5kmcwwyyx		"Peut-être que le pilote ne sera pas chargé de mettre les médicaments dans le drone. Il faudrait peut-être identifier un responsable côté ""équipe de tournée"" ?"	John		
+tm_0bmr6pyns6wucmxb		La rivière pourrait avoir une influence, mais si tout va bien, elle ne devrait pas interagir !	John		
+tm_lqeym32ideu7eyau		Ben, pour le pilote c'est évident. C'est lui qui guide le drone vers l'autre rive.	John		
+tm_qgt576j4x2rz7gwg		Euh, d'une télécommande ?	John		
+tm_t36iub1wzj4jdamj		Oui, mais notre système va-t-il bien obéir aux ordres émis ?	John		
+tm_07kfaapxervkvsca		Et bien, il va falloir les déplacer ces médicaments. Ça me semble être une fonction principale !	John		
+tm_v9h2rpog5tbrrdja		Effectivement, nous devrions assurer la protection des médicaments et de l'électronique.	John		
+tm_ecwm4w5lc1fas47k		L'eau ne doit en aucun cas rentrer en contact avec ces éléments.	John		
+tm_3yv72mim21pr82nj		La télécommande me fait penser à quelque chose d'autre :	John		
+tm_hin1kvkzr5pgefh0		La dernière fois que j'ai essayé de bricoler un circuit téléguidé, mon système captait des signaux émis par un autre émetteur, et se comportait de manière aléatoire.	John		
+tm_qi1am9qzp3byz0i8		Dis-moi Marc, ça fait une heure que je réfléchis à notre étude de sécurité et au moyen pour le drone de résister à une chute dans la rivière.	John		
+tm_qos6lknnsy7s5i1d		Et là, tout d’un coup, j’ai eu une idée.	John		
+tm_kcilhlw7mkr7962m		On pourrait imaginer une sorte d’airbag pour drone.	John		
+tm_wdh3aq6mutj3dyu7		Un truc spécialement conçu pour qu’à partir d’une certaine accélération verticale et en l’absence de toute commande, il se déclenche avant le choc et protège à la fois les médicaments et le drone !	John		
+tm_ybcktlf0nda12y6g		Je me suis même dit que cela pourrait prendre la forme d’un ballon accroché sous le drone.	John		
+tm_uyih2jgwdcxttvvo		Il s’ouvrirait dans les conditions précédentes, et prendrait la forme d’un parapluie renversé.	John		
+tm_j4rror8n3jh6zpu3		Je suis sûr que cela n’existe pas encore. On pourrait même déposer un brevet.	John		
+tm_4ixnl3mnfnq1ga74		OK, Marc ! Je vais suivre ton conseil.	John		
+tm_92t21hyplvono4tk		J’ai regardé un peu sur internet et je n’ai rien trouvé.	John		
+tm_dcz25eqppltg20vf		Et si effectivement, je ne trouve rien ?	John		
+tm_gn7jyocc7uzekq5q		C'est-à-dire ?	John		
+tm_9sydqu7kdwyv3w72		Euh, c’est vrai, c’est vrai, mais l’idée me paraissait tellement bonne…	John		
+tm_wo6zkwdfvbybep4j		Mais d’un autre côté, c'est vrai qu'un brevet coûte un peu cher...	John		
+tm_gw9p0isu609jielc		Je vais y réfléchir...	John		
+tm_g69zj2w2fv7pumsg		Faut réfléchir, faut réfléchir...	John		
+tm_gpg2y4gcv2gbjbgj		Oui, super !	John		
+tm_3vr056o3ma11noin		La voilà.	John		
+tm_3hdt6cjmsv8nyc53		Et les fonctions FC5 et FC3 pourraient être liées à un sous-système de stabilisation.	John		
+tm_uro5p0qofsa69e5u		Chouette, on va pouvoir commencer à développer ce fameux drone !	John		
+tm_i9d3se4xp12crn2q		Je vais pouvoir m’attaquer au code !	John		
+tm_iyz7gmz51cnakco8		Chouette, je vais pouvoir coder !	John		
+tm_ep9bpuugem46z7pw		Ben, il va nous en falloir deux !	John		
+tm_8iupvy3kqq0mb2gm		Ah, enfin !	John		
+tm_o5oz8lb1v8n6c76j		Ok, on va faire ça.	John		
+tm_o285yz6fv3w3p1gq		Bien, chef !	John		
+tm_4yrmzosq4fa30c7s	...		John		
+tm_yqv2quqlnkbspogk		Oui, je m’y suis collé.	John		
+tm_mbqc9fgd0j6snel0		J’ai déjà commencé à coder.	John		
+tm_l6viczhwyk4ctrbr		Détrompe-toi, j’ai réalisé ma conception objet, mais en fait, elle est très simple.	John		
+tm_zrct99owepgg8trk		L’application doit juste montrer la position du drone sur une carte, et afficher un message quand la batterie du drone devient critique.	John		
+tm_vencosr1rhfdz6b7		Du coup, je n’ai que quatre ou cinq objets à implanter.	John		
+tm_mnv4gp5fnqnd9w07		Pas de quoi fouetter un chat !	John		
+tm_vjzx9bub0nr8dt5p		Oui ?	John		
+tm_atxoxonwnf6rra7o		Si.	John		
+tm_f17t6q1sstvp6vtk		Oui, tout à fait.	John		
+tm_nfm0dorpjaw82c5w		L’émission ?	John		
+tm_eb74cslbsksbi1pe		Mais je n’étais pas chargé de l’émission.	John		
+tm_xub1i3hxo59prk48		D’ailleurs, je ne me rappelle aucun test concernant cette partie.	John		
+tm_ptbx6ozwvg78vo28		Désolé, je n’y comprends rien.	John		
+tm_49ivbqtf7yhkacz2		Non.	John		
+tm_dy2miye0ps6ss3ru		Tu t’en es bien sortie !	John		
+tm_nq3cguq9oq7vgcrl		J’ai l’impression qu’on a juste cassé deux hélices.	John		
+tm_xut0ybjzq3nqpby5		Mais il va falloir éclaircir le problème.	John		
+tm_98rou7cqf7wf5p2f	Mais c’est pourtant simple : tu vas dans le menu édition.	"Mais c’est pourtant simple : tu vas dans le menu ""édition""."	John		
+tm_wkq6wyc597plicyv	Là, tu trouveras le menu préférences.	"Là, tu trouveras le menu ""préférences""."	John		
+tm_n1paohcxjfmhwqvh	Dans le menu préférences, tu vas trouver préférences de visualisation.	"Dans le menu ""préférences"", tu vas trouver ""préférences de visualisation""."	John		
+tm_9m7292tk5vowr1hd	Et dans ce menu, tu verras choix de la carte géographique.	"Et dans ce menu, tu verras ""choix de la carte géographique""."	John		
+tm_ia2da10oh2wqm5jt	Et là, j'ai toutes les régions du pays au un vingt cinq millième	Et là, j'ai toutes les régions du pays au 1/25 000ième.	John		
+tm_8j8vyrghvsugfc8a		Et bien, je me suis dit que les utilisateurs seraient contents s’ils avaient le choix.	John		
+tm_xesd6y45belwlppg		Oui, mais on ne sait jamais.	John		
+tm_2z0tryu1b41kroj0		Au revoir patron.	John		
+tm_in114w4f4q0t24vb		Je suis à vous.	John		
+tm_x495y2g04361sr9q		Je crois qu'on m'a dit que je pouvais aider pour trouver la source de la panne.	John		
+tm_cvzw8lukn5b4gkl8		Pas que je me souvienne...	John		
+tm_11myi8k1a9thha9v		Attends, si !	John		
+tm_6jkt3ernn2jdpymz		J'ai reçu un mail avec pour sujet un problème avec mon IHM, qui venait d'un de mes collègues.	John		
+tm_hi0fakpi8ogw8nq9		Il contenait une pièce jointe étrange que je ne suis pas arrivé à charger, ou à afficher quand je l'ai ouverte.	John		
+tm_y4fasm04yq40wn43		Oh, mais on a plein de temps avant de les faire ces tests !	John		
+tm_22bjh6te9yahxq4k		Il faudrait peut-être commencer à développer ce drone maintenant !	John		
+tm_tszs045sh5d4d975		On ne va pas passer notre temps à écrire des documents !	John		
+tm_ngym24wzsapbfb20		Miséricorde, encore de la paperasse, cela n’en finira jamais...	John		
+					

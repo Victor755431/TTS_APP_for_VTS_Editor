@@ -1,0 +1,15 @@
+﻿FORMAT:REFORMULATION					
+[TEXT ID]	[TEXTE PRONONCÉ (FRANÇAIS (FRANCE))]	[TEXTE AFFICHÉ]	[PERSONNAGE]	[NOTES]	
+tm_89gi8wfxeff27uvi		Oui, c’est génial et en plus c’est bientôt les vacances.	Alice		
+tm_l5uce8xa517xpkwx		Oh Maman, j’ai d’autres projets.	Alice		
+tm_gd5l1nhrtpvq99z7		Des drones ?	Alice		
+tm_tcxv7985efaup8fe		Top, mais pour quoi faire ?	Alice		
+tm_6qi2bj39vwe242tn		Whaou ! Cool ! C'est trop ouf !	Alice		
+tm_4yymm7rd32adsjl6		Là, je suis partante. Ils viennent d’où vos drones ?	Alice		
+tm_ag6syqprvksu0d8o		Tu as pensé à leur impact sur l’environnement ?	Alice		
+tm_iy6dhvnr70qazoo3		Les drones ça fait du bruit et puis ça utilise beaucoup de batterie !	Alice		
+tm_kuvbcmw4yht60e1r		Ce sont nos enseignants, ils sont de plus en plus sensibles aux enjeux écologiques, et ils nous en parlent à chaque occasion possible !	Alice		
+tm_0f9fh89ac1v9rbl8		En ce moment, c’est notre prof de conception système qui nous fait un cours sur l’écoconception.	Alice		
+tm_pv7k2016e9dw1oak		Bien sûr que j’ai raison, comme toujours.	Alice		
+tm_1sy06vjsrw78uash		Et puis pense à l’image de marque de la Croix Rouge !	Alice		
+					

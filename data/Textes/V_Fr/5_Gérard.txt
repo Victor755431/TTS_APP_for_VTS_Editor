@@ -1,0 +1,25 @@
+﻿FORMAT:REFORMULATION					
+[TEXT ID]	[TEXTE PRONONCÉ (FRANÇAIS (FRANCE))]	[TEXTE AFFICHÉ]	[PERSONNAGE]	[NOTES]	
+tm_6eirwit5rantaayv		Oui Isabelle, comme tu le dis.	Gérard		
+tm_zb0clpcx9djsb089		Et si vous restez une petite heure de plus tous les deux mois, ce sera parfait !	Gérard		
+tm_qad7765oy3mbrfoi		Nous pourrions en profiter pour réaliser des échanges avec le village de Kamatowa.	Gérard		
+tm_efekxxjn0p33rusp		Ils disposent d'épices que nous ne produisons pas, et en échange nous leur livrons régulièrement des sandales ou des ceintures en cuir que nous fabriquons nous-même.	Gérard		
+tm_v3fzei8o1eshnpxb		On pourrait utiliser les drones pour transporter tout cela.	Gérard		
+tm_24j3y7xz1915iq3f		Pourquoi ne pas utiliser notre équipement solaire ?	Gérard		
+tm_87bz72u1lsvjq373		Nous pourrions les recharger sur notre chargeur de batteries de voiture ?	Gérard		
+tm_cxkvv2xf0tcajx9r		Et puis, si tu veux vraiment que ton projet soit populaire, ce serait bien qu'Édouard mon neveu qui est passionné de drone puisse les piloter.	Gérard		
+tm_tmse58nry6a07fno		C'est un peu la star locale.	Gérard		
+tm_p32umc6y6uszpu1h		Il s'est acheté un petit drone quadrimoteur qu'il manipule dans les champs pour rassembler les bêtes.	Gérard		
+tm_3uhv02z37ptacul4		Mais bien sûr, ce drone est sans doute beaucoup plus petit que celui que vous allez utiliser.	Gérard		
+tm_hjqz51xvu0hjtxl1		Et peut-être lui fournir un mode d'emploi ?	Gérard		
+tm_avjy3gzat3uioxak		Comme cela, il pourra le lire avant de suivre la formation.	Gérard		
+tm_y73ftscu4jq4agdx		Bon, je te propose d'aller voir l'endroit de la rivière où la traversée serait possible.	Gérard		
+tm_3a1xzpt3vkbexohx		Voilà, à cet endroit la rivière est un peu plus étroite qu'ailleurs et de l'autre côté, il y a un ponton où le drone pourrait atterrir.	Gérard		
+tm_n4ny93aaoyf2aixs		La nature est sauvage ici.	Gérard		
+tm_lukusdpx8r9tp7k4		Parfois, on ne voit même pas l'autre rive tellement il y a de brume.	Gérard		
+tm_ulpbfv2fku7ra2ck		Et en plus, elle s'installe sans crier gare.	Gérard		
+tm_yhr643wq29po8yr0		Impossible de prévoir son arrivée.	Gérard		
+tm_tvz3s8xlllutedth		Ben il vaudrait mieux éviter ces jours là, car c'est sûr que ce sera plus difficile.	Gérard		
+tm_jpmroxspxmx31ylg		Dans ce cas, il va falloir trouver une solution pour savoir où le drone se trouve et surtout pour le faire atterrir de l'autre côté, car la rive Est est quand même à 700m.	Gérard		
+tm_xive1shji76e25xo		Il va te coûter cher ton drone...	Gérard		
+					

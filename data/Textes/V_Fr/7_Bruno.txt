@@ -1,0 +1,14 @@
+﻿FORMAT:REFORMULATION					
+[TEXT ID]	[TEXTE PRONONCÉ (FRANÇAIS (FRANCE))]	[TEXTE AFFICHÉ]	[PERSONNAGE]	[NOTES]	
+tm_j3grup48xj9j0rj5		Quelle plaie ce détour, avec en plus une piste horrible et pleine de nids de poule !	Bruno		
+tm_fsqagkx9q2gut36n		Houla, alors l'idée doit être brillante !	Bruno		
+tm_mpi9oyir1m8z5lie		Ah ben là, j'y crois un peu plus !	Bruno		
+tm_avi9xiazdre7j99y		Ben, je pense qu'une caisse de 50cm de côté pourrait encore rentrer.	Bruno		
+tm_5b0e5syvenah5wx0		Vous êtes d'accord les autres ?	Bruno		
+tm_wzpcsn2u4n5mmrx2		Bon, OK pour le transport, mais qui va les piloter ?	Bruno		
+tm_4wrngjklij39vyva		Je connais pas ces engins moi !	Bruno		
+tm_h975vgkx58oyras1		Et ben, on est sauvés !	Bruno		
+tm_5ynrsmpnkzn7uy2k		Une formation ?	Bruno		
+tm_vv1dzr0me4xv78jf		Mais moi, j'en veux pas de cette formation !	Bruno		
+tm_n6r4ampxd95l6360		Je saurai très bien me débrouiller tout seul.	Bruno		
+					

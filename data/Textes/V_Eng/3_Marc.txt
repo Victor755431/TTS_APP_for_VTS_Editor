@@ -1,0 +1,259 @@
+﻿FORMAT:REFORMULATION					
+[TEXT ID]	[TEXTE PRONONCÉ (ENGLISH)]	[TEXTE AFFICHÉ]	[PERSONNAGE]	[NOTES]	
+tm_ey24jrbkfsv7oge8		Yes, it's a very original idea. It doesn't surprise me from Hubert.	Marc		
+tm_surarrnstpkhn88z		He is always trying to find ideas to better the way we do our runs.	Marc		
+tm_fwu18m465kz3z8ck		But that time, it sure is original !	Marc		
+tm_uhou15z01gb7zfov		Yes, we can do everything if we have the means.	Marc		
+tm_2nhzrhsvzhuzngcu		And if we apply the right engineering principles to build that new system !	Marc		
+tm_j1jzaowvjr5xq3eh		I'm not available this week.	Marc		
+tm_xlycpf1042ddtn9u		But I have three free days next week.	Marc		
+tm_siyqvsiksvpefvbs		And yes, I'm eager to participate in the development of a drone to serve the people !	Marc		
+tm_globk1kfojzh73z6		Monday morning, I have a team reunion.	Marc		
+tm_yaflwo7bqtuxal5c		But I'm OK for the afternoon.	Marc		
+tm_y7miusnjd698ite5		OK for me !	Marc		
+tm_v4qaylbohlht85ii		Thank you, have a good day too !	Marc		
+tm_b18s16oyuwskcdi4		So let's go. First of all, we need to set the limits of our system.	Marc		
+tm_8mfewpn3gykq9m9k		What are the elements it is going to interact with ? What is its main mission ?	Marc		
+tm_zgn6xneves8smg2z		Yes, it seems right, but I think we could be a bit more precise on the distance. I looked it up on Google maps.	Marc		
+tm_eph5ztzl5xamizds		The river near Bamalowi half a mile. With safety margins, we could say 0.6 miles.	Marc		
+tm_gk7gytvstm8fp5fa		You're 100% right. These two elements are essential to dimension the system.	Marc		
+tm_yuin9uij2edgy63d		So let's say two pounds ?	Marc		
+tm_e6axa099gxc1j2ey		So, our mission would be :	Marc		
+tm_v6oqfyuw9wanh374	Airlift a two pounds pack of medicines over a distance of three fifth of a mile.	"<b>Airlift a two pounds pack of medicines over a distance of three fifth of a mile.""</b>"	Marc		
+tm_kgtg7bc668b193fi		Is that OK with you ?	Marc		
+tm_nr15bcldmt4xmmrd		Now let's address the limits of our system.	Marc		
+tm_6mw90t5hkp2pgt41		With what and who is it going to interact ?	Marc		
+tm_cz668fj0ycev99t1		This would allow us to define the principal functions and the constraints.	Marc		
+tm_2ne8wde70aakwe53		Yes, but I doubt about the direct interaction with the pilot. We'll see this later.	Marc		
+tm_vacn9ud3y44ri6hd		Yes, it seems a great idea.	Marc		
+tm_zwbxezezkyhr7ne5		So I think we have all the actors who will interact with the system.	Marc		
+tm_2ir0qujkvj7ssai8		Do you see any factors that will add constraints ?	Marc		
+tm_z9rx99en6iqjpf23		Yes, we'll think about it. Anything else ?	Marc		
+tm_l8sn3k6jil9oyxsc		We'll have to develop that in the safety study. I think we have more or less every actors. I'd add the landform of the take off fields.	Marc		
+tm_fxwag987ngvh1kon		It plays an important role with ground/air interactions when the propellers start to lift the drone off the ground.	Marc		
+tm_dck7mk1uamjvkieq		Let's get back to the actors and see how they interract with the system.	Marc		
+tm_oi1dkow9sxbcxum7		Is this that obvious ? What would he need to guide the drone ?	Marc		
+tm_k2wraqabecunt6ob		There's the problem !	Marc		
+tm_m6ofuffwn5n45440		Should we consider the remote control in the system ? If so, yes, the pilot directly interracts with it.	Marc		
+tm_xxaxrirbwf1gqsee		Or should we exclude the remote from the system, and then it would be the remote that guides the system, not the pilot !	Marc		
+tm_h8gnezoyf6xfpdyy		Well, it's mainly linked with costs, competency, and flexibility with the pilot.	Marc		
+tm_hqvyl2rpru442hgm		I do not want to be responsible for guiding the drone from the ground.	Marc		
+tm_et88ram9d54phpxp		Today, we could find some cheap radio remotes ont the Internet, with an excellent reach.	Marc		
+tm_dl33ii6yjhrca289		We don't really have the competencies to developp this thing, and it will definitely be more expensive to develop than to buy it. And the results won't be better.	Marc		
+tm_r1r0kaz1ub9bz2ty		So we could consider that this element is out of the system and we subcontract it elsewhere.	Marc		
+tm_avuikhybhwgypfxd		In that case, we become dependent on a external builder, but at least, the pilot could choose a remote and configure it as he pleases.	Marc		
+tm_k9rv6ttpsrhde8y4		Nice point !	Marc		
+tm_akvazm0c1abf0hqq		Luckily, today, the radio transmitters come with a little box to put in the drone.	Marc		
+tm_3fxy5kkk2bnufzqd		We just have to choose which receptors to be compatible with, and the job is done !	Marc		
+tm_ivvmhn2yg3hl0m8i		That's another good question Mathilde.	Marc		
+tm_yi0c7sbwhwrebwmw		Our system will have to include a calibration function to adapt with the remote's frequency.	Marc		
+tm_6xirmf35p59cn0lx		So we already two main functions for our system :	Marc		
+tm_rjc16n1x42rxx09q	FP1 : Accept the guidance signals of the remote to move in the air like the pilot commands to do.	FP1 : <b>Accept the guidance signals of the remote to move in the air like the pilot commands to do.</b>	Marc		
+tm_wgabtat370um1iba	FP2 : Calibrate the receptor on the the remote.	FP2 : <b>Calibrate the receptor on the the remote.</b>.	Marc		
+tm_st6o4h4rc1zguw7j		Though FP2 looks moe like a constraint to me.	Marc		
+tm_auw54g87li6ofhic		Because it only links the remote and the system.	Marc		
+tm_susw5qe9yuhkohg6		And that's another constraint.	Marc		
+tm_uzoypg6yx0epohr2		The sytem needs to be able to lift two pounds !	Marc		
+tm_fp32rpon3d2bihpe		OK, that is a new main function. So we add :	Marc		
+tm_s752aba7yxq0ttk1	FC2 : Lift and carry two pounds of medicines links the system and the medicines.	FC2 : <b>Lift and carry two pounds of medicines links the system and the medicines.</b>	Marc		
+tm_6ymfgefm4l5ygp7n	FP2 : Attach strongly and easily 2 pounds of medicines links the the guy in charge and the medicines through the system.	FP2 : <b>Attach strongly and easily 2 pounds of medicines links the the guy in charge and the medicines through the system.</b>	Marc		
+tm_bu44heucrktwbfbr		We could start to draw our octopus diagram.	Marc		
+tm_ljk2ijrvq831dm7w		We defined two main functions and two constraint functions.	Marc		
+tm_hjf9m6niriu4u7p5	The first main function is : Move through the air following the remote's orders.	"The first main function is : ""<b>Move through the air following the remote's orders</b>"""	Marc		
+tm_aolynwy1f24r01yu	The second one is : Allow the guy in charge in the village to attach a medicine pack quickly and safely.	"The second one is : ""<b>Allow the guy in charge in the village to attach a medicine pack quickly and safely.</b>"""	Marc		
+tm_777jq4eovtlsmy7o	"And we have two constraints : ""Be able to tune in to the remote's frequency"" and ""Be able to lift a two pounds pack""."	"And we have two constraints : ""<b>Be able to tune in to the remote's frequency</b>"" and ""<b>Be able to lift a two pounds pack</b>""."	Marc		
+tm_r6wcks027d5732hu		We will add these three functions.	Marc		
+tm_g6umqzxwhqk4vni7		Precision is a value critera for the FP1 function.	Marc		
+tm_4eg03on0nfc47gnb		I will add it too.	Marc		
+tm_7f42nk4sjoebfwi5		Any other point ?	Marc		
+tm_kdoblejvg4ghg774		In this case, I'm back to my analysis.	Marc		
+tm_m6c3aijdi2fkij68		Do you think we will need to run some safety studies ?	Marc		
+tm_7u7nnzzwwiuzde7f		Yes, you're maybe right...	Marc		
+tm_34adt9cct4rh0802		So let's forget about it.	Marc		
+tm_4cv77sv5wtrsj56n		But please, allow me to do a short one.	Marc		
+tm_q7ggaa0c8k5kytlq		The drone will cost us 500€, and if we can avoid amaging it with a small saftey analysis, I think it could be worth doing it.	Marc		
+tm_bjhrivmkmaxgelxl		We will limit ourselves to the most critical elements.	Marc		
+tm_ktjol3hwip9827hf		What do you tgink about this ?	Marc		
+tm_evi5bwcy1p3ooe19		OK, I'm going ahaead with it.	Marc		
+tm_8fjue8y0iqx8agay		So, we have identified some main functions and some constraints on our system.	Marc		
+tm_nl8d1enog9zsmlsb		Now, let's try to focus on the safety analysis, and identify the actors that might interfere with it.	Marc		
+tm_qivyh67gf12huste		The river was listed previously, and I think this is an idea worth considering.	Marc		
+tm_mjxgaetwb2z3cnz9		Good point !	Marc		
+tm_ous5bxcwfqx9y9xl		That adds two constraint functions.	Marc		
+tm_8n1rdxe4q8iqyawo		Not all at the same time, please.	Marc		
+tm_pni1nzwh02fwuol8	That add us two more constraints : Resist a 15 feet fall. and Be operationnal and finish the mission, even if the remote's signal is jammed.	"That add us two more constraints : ""<b>Resist a 15' fall.</b>"" and ""<b>Be operationnal and finish the mission, even if the remote's signal is jammed</b>"""	Marc		
+tm_18al15a0lpuykm48	I will also add another constraint regarding the batteries : Manage the power level	"I will also add another constraint regarding the batteries : ""<b>Manage the power level</b>"""	Marc		
+tm_kx4vn9gi3fidv7ib		It will be better if we don't fall on an empty battery in the middle of the river.	Marc		
+tm_bonxsivczgy7pxz3		So, I think we can complete our octopus diagram.	Marc		
+tm_tn8hsy95ovo8qqbp		Yes, we thought about several chains of events to prevent.	Marc		
+tm_gdhcyzu8e3h0oi9g		But thinking about it, I was wondering if we should considering cybersecurity aspects ?	Marc		
+tm_4cnfm25m3elaisc8		Why wouldn't it happen ?	Marc		
+tm_ler5y7ya30vo477s		Yes, mostly to not have regret if an easily preventable attack happens.	Marc		
+tm_0dgj4pu3deikfcc7		Of course, we didn't implement any protectionon the communications.	Marc		
+tm_3k7bh5gb6v5eifg5		Not even some encryption of the command signal.	Marc		
+tm_m2r5fbz9gzpcaubp		So any mildly competent pirate was able to take control of our drone.	Marc		
+tm_7b1qyl0bn70dia33		I asked if I could do a cybersecurity analysis, but you refused categorically.	Marc		
+tm_a7k5y9md5r5uxa1f		Yes, that's an interesting concept !	Marc		
+tm_bcgepyo81u4si4ik		Interesting, interesting,...	Marc		
+tm_qb699pfzkdri71e8		Yes, yes, yes,...	Marc		
+tm_c23csfco6odn7fe9		Listen John, I wish you don't take too much time doing it, but you should probably go talk about it with Majorie.	Marc		
+tm_x6fe8bqi29eq0a4m		She's our legal expert, and she is quite knowlegeable about intelectual property.	Marc		
+tm_3nzb9aa5wkikri5v		Go talk about your invention with her.	Marc		
+tm_bso1msrbdh42ts1r		Hello you all !	Marc		
+tm_6d7doktagkm8eszj		We worked hard to produce a result in a timely manner.	Marc		
+tm_qy5qvycn2kok4mjg		I will project a diagram of the functions we retained for our drone.	Marc		
+tm_x3i3stedvtf7fpyj		This functionnal set takes in account several analysis, particularly theresults of our safety, cybersecurity, and environmental impact, along with technical needs of the final users.	Marc		
+tm_fkddoj8rmlp3kfgj		As you see, the result is a 15 functions octopus diagram.	Marc		
+tm_zs14mv5nu2h6crq2		Their technical feasability is established, but some of them will be quite expensive to develop, and we will have to set priorities.	Marc		
+tm_6yd1nl7v4lw9audc		I'm thinking more particularly about the functions that will ensure the system's safety in case of a fall in the river.	Marc		
+tm_hiannypsq8e4b56j		To answer a loss of signal, I'd say we could solve it with some software.	Marc		
+tm_kr12tzznyhc4l0a1		The drone will basically home in to a predefined point, if it can not detect any control signals.	Marc		
+tm_ojtueezd1rvs8len		To answer a fall in the river, we should probably reinforce the structure, and make th edrone waterproof, but where to stop ?	Marc		
+tm_8epbgqx3ds3wf6h0		We need to reach a compromise between making the drone as light as possible, and protect the motors, rotors, and medicines.	Marc		
+tm_y2u36cgvy2nofeoe		The eco-conceptions aspects may also influence us, particularly on the material choices.	Marc		
+tm_3q8nmn4n0xuroxko		For exemple, a wood structure wood be easily disposable, and probably also help us make our drone float.	Marc		
+tm_obuyfb1aee1r8b1p		To make it short, the price could be tripled depending on the choices we make.	Marc		
+tm_8bdncwiuwekdo0gi		I will let you, Hubert, decide what should take priority, depending on the association's strategies.	Marc		
+tm_gaklwwfvx7917wdr		This functionnal set takes in account several analysis, particularly theresults of our safety, and environmental impact, along with technical needs of the final users.	Marc		
+tm_zxe31z87jt8566ug		So, that's it, you got your budget !	Marc		
+tm_gapu2n39id4diaxm		Yes, it's a pleasure to see him that keen.	Marc		
+tm_bt0amvv72iw2h24o		I came to see you, to reach an agreement on the different phases of the project.	Marc		
+tm_t3wlw0a7fjdq5r9h		I was thinking almost the same way.	Marc		
+tm_vjrmpkjis1p4q0pz		Just one thing on the two last points : taking into account environmental impacts should absolutely be done right from the start, and it's not negociable.	Marc		
+tm_ux5v9x26gqx56xbk		On the other hand, I'd put anti-piracy protection in the last phase, because it's not particularly hard to realize, and could be placed anywhere.	Marc		
+tm_nak353zhh70smxky		It would be an ajustment variable.	Marc		
+tm_0c251r443ck3j1bu		Yes, by all means.	Marc		
+tm_f1ytrgbmw1nj8yb7		Shorts sprints during 4 to 5 weeks, with each time a new version of the drone, which will allow us to see if we proceed further.	Marc		
+tm_n1xrcsdzvxqp69ep		It's far better than using a V-Model.	Marc		
+tm_zplcqpk58tvm7t8u		Our project is to last for 8 months.	Marc		
+tm_a0kjglc0hu0jvc37		If we remove two months for your sprint 0, that would let a bit more than two months for the other sprints.	Marc		
+tm_5amhiyogna8v0jby		Let's say 8 week for each of them, and keep around one week to test the sytem.	Marc		
+tm_jhywpxs16guhccqa	Yes. We have 12 hundred € for the first sprint, as it includes eco-conception,	Yes. We have 1 200 € for the first sprint, as it includes eco-conception,	Marc		
+tm_4tlkqlywe486htsz		800 € for the second sprint,	Marc		
+tm_62vfmhze6tdyqv5j	and 12 hundred € for the last sprint, which would include the anti-piracy protection, if everything goes well.	and 1 200 € for the last sprint, which would include the anti-piracy protection, if everything goes well.	Marc		
+tm_1ldakvyuf66b3abs		OK, OK, but we lose some of the margins we had in the third sprint.	Marc		
+tm_2ctr46nkd6f71mgz	Let's roll with that. 12 hundred , 1000 and 1000 € it is.	Let's roll with that. 1 200, 1 000 and 1 000 € it is.	Marc		
+tm_8wi0ruxu8wiwhevj		No problem ! So, when do we see each other to finalize that backlog ?	Marc		
+tm_6ioe3i5phzcpqg76		OK, I'll be there.	Marc		
+tm_km8ekyurno7eq6r1		Hello you all !	Marc		
+tm_bbvnd1j51vpwwzql		So, today, we will work on the functionnal architecture of the drone.	Marc		
+tm_7cwj7ei1s7cfa6lj		Our starting material will be the finalized functionnal analysis, which includes environmental constraints, security constraints, and protection against piracy.	Marc		
+tm_b5ytdhnskuf8p9cw		Let's dig a bit deeper the way we're going to dispatch the functions inside the drone.	Marc		
+tm_qyefi1ftwc82j5d7		John, can you project the octopus ?	Marc		
+tm_md7ypt9vnqkwf3al		What do you suggest to group these functions ?	Marc		
+tm_0s0mh2ykezwwu32e		I agree with you.	Marc		
+tm_mz2m0jigq934ivhz		Yes, definitely !	Marc		
+tm_sogm5vnx374b6a2q		Well, we move on quickly. We now have 5 coherent subsystems :	Marc		
+tm_q7ayx2bsbbee5irp		an energy management substem,	Marc		
+tm_hku89e23w9uphzcd		a stabilization subsystem,	Marc		
+tm_uf6vyspvi858wt94		a transport subsystem,	Marc		
+tm_fb5b3qorbt6fmxyp		a motorization subsystem,	Marc		
+tm_773ux7bzr4e5p0wb		and a guidance subsystem.	Marc		
+tm_8cio3d17irnsth2u		Is everyone OK with it ?	Marc		
+tm_l6xgkpbcykcxk69k		I suggest we stop here for today.	Marc		
+tm_d2d79i8ejb7sy8o2		Today's goal is to see how the functions of our subsystems will be spread on the drone's physical components.	Marc		
+tm_v9s0v8jv7cvhtcek		As you can see, I put all the subsystems on one side, and the pysical components on the other side.	Marc		
+tm_4ci7dy3d3a8mebfc		It's up to you to associate the pysical components to the subsystems.	Marc		
+tm_kknf3b3rxbgf94kv		Nice job !	Marc		
+tm_zci655880sta84zn		This seems to be coherent !	Marc		
+tm_t8y1rnv7ottj78ls		Sadly John, it's still too early for you to start programming.	Marc		
+tm_nh3pkaw4t12opjsr		We first need to give a structure to our code, and for that, we will use the object oriented conception.	Marc		
+tm_q750e6hqr9r40nhh		I'll let you next week to think about it.	Marc		
+tm_ah8so1mugmitmqj2		Try thinking about all of the use cases, and the classes you can deduct from them.	Marc		
+tm_2o4spz265dvzesgq		Have a nice weekend !	Marc		
+tm_wd18v0nfjytym37m		I gotta go to my mission in Nairobi !	Marc		
+tm_0yr8z6w5s8fkyn2s		Not easy, but I'll try ...	Marc		
+tm_19o360qtuet2jt6w		So, did you take some time to think about the software conception of our drone ?	Marc		
+tm_th1gpg9bb4c6jof6		That's alright.	Marc		
+tm_e5ikguocwbghx628		We'll see that later...	Marc		
+tm_qm79u7a9kpyu26nj		John, can you send me a buoy ? I'm sinking...	Marc		
+tm_hpsjg5a35nb3k3cq		Perfect, that's more understandable.	Marc		
+tm_fmti87ffh1p7jjwd		John, I got good news for you !	Marc		
+tm_m3y8k3s871zn2uba		You will finally be allowed to develop the software !	Marc		
+tm_s8puawo4agt4w1nn		But before that, draft proper ducments using the models we usually use.	Marc		
+tm_q63cmwmuuyc3icn7		I'm counting on you.	Marc		
+tm_9l4ap9fqtx0blbrg		And of course, you will use object oriented programmation, right ?	Marc		
+tm_nlbz2nc46ekeq2xd		I was thinking about the localization app.	Marc		
+tm_i7wmbkawboxftv8x		Did you make some progress on that part ?	Marc		
+tm_mxgo7eld5dpnkipg		But I didn't see any document on the conception of this part...	Marc		
+tm_2cfz863p4g1opvhr		Did you skip that part ?	Marc		
+tm_odywtit5x3fw2sai		Ready for take off, Émilie ?	Marc		
+tm_hp7dr6057ptg3mca		Let's go, full power !	Marc		
+tm_ywbs88ib212wmc0t		Not very good piloting...	Marc		
+tm_41cx90ko0bdqo94j		Well, let's check that...	Marc		
+tm_vg23b7vyucggj1ev		The inertial unit was never powered.	Marc		
+tm_xxopqsxdiwc553ti		Its power LED isn't on.	Marc		
+tm_01tzab57fnc6ude8		With that part not sending any information, the drone wasn't able to correct its position.	Marc		
+tm_7r20up3dtzvp4031		That explains the crash...	Marc		
+tm_qvw0igp3qxhqcicr		Hey Mathilde !	Marc		
+tm_4598o1a34owj1qn4		I came to discuss about the last tests we did in the closed down factory.	Marc		
+tm_npvhieckx3woa6d3		The algorithm we use isn't reactive enough.	Marc		
+tm_l5k34oaqtgsxlrme		Émilie always loses control while landing the drone.	Marc		
+tm_lw6l4gvk3kh7073t		I'd like to change or optimize it a bit.	Marc		
+tm_qsdoa19eja9tgdzw		OK, but changing the program should be possible if it is documented.	Marc		
+tm_qaywpk7z3c7d5lvz		OK, see you !	Marc		
+tm_mc8kcd5jwhb5cbq9		Here I am !	Marc		
+tm_jgjvbqmmvqp330na		Yes, and ?	Marc		
+tm_pdy7pyuhy5g1n7pk		How much is it gonna take, in terms of time and workload ?	Marc		
+tm_zd51bfb48inlntxr		Three weeks ?	Marc		
+tm_y2y1smwc43gex4bk		I'll have to negociate it with Isabelle.	Marc		
+tm_73n6fgfxfhmzhmjh		Let's hope she will accept !	Marc		
+tm_hzirsmzlepiy8toj		So, today's goal is to test a loss of the drone on the river.	Marc		
+tm_438w1mqel2f0uovp		Édouard, you're going to fly the drone for a bit.	Marc		
+tm_mk6pv3lc2qtjuiaf		Then Émilie will land it softly on the river.	Marc		
+tm_6dnmkz74ief0h900		Next you're going to use the app on the tablet to localize the drone on a map, and go get it. Understood ?	Marc		
+tm_021rn8y75ezdbmic		Émilie, you forgot this tablet isn't equiped with a GPS chip, and there is no network to geolocalize a tablet here...	Marc		
+tm_1s9mvfsuvur3i363		Please calm yourselves, I'll try to phone John.	Marc		
+tm_umwrfivqx1rtdpyf		Hey John, I'm with Édouard and Émilie. We're trying to use your localization app, but it seems we can't change the map.	Marc		
+tm_mil6f5wuiee32qfs		But did you put that many maps ?	Marc		
+tm_m5jjpk7noh56x7v1		But John, for now, the app is only useful for the Ramatowa village !	Marc		
+tm_fdq6g5cxlvgqvkux		OK, we'll see that later, but we're going to have to make changes.	Marc		
+tm_63tbt5eyaoil8lc9		Bye John.	Marc		
+tm_uy0r5nwk9262x1za		So did you hear what he said ?	Marc		
+tm_8aaul03q1vj3athz		So, let's try to investigate the issue. Apparently, the code, and most of the technical mechanical data of the drone, mysteriously disapeared from our servers...	Marc		
+tm_ye0rgv8lzej6ngen		I got a copy of the server from the cops.	Marc		
+tm_9xn493gmchgkmnk8		Let's see if the log files are still there.	Marc		
+tm_rkc37s91rsxgxesd		Good news, we still have the logs.	Marc		
+tm_bbp4936lzeh4rtvm		One of the last entries is raher surprising...	Marc		
+tm_kdfvyxd58waunpn5		The admin account has been connected on John's computer between midnight and 1AM.	Marc		
+tm_y3tooay2xtb2x8tv		I'm intrigued, John was still with me at a friend's birthday party at that time...	Marc		
+tm_q1txx2a7jd1p8qyo		I have a question for John...	Marc		
+tm_u3d9tecao791640m		Of course, there are saves.	Marc		
+tm_jrk57wxbmj7kero4		I made some data saves every two days on an external hard drive.	Marc		
+tm_eyrot4pqs2tuz093		It was because I feared the server might die during the development. I will put the data back on our servers as soon as we have a confirmation that our network is safe.	Marc		
+tm_0pr0mzuvir36elnr		By luck, I think I copied an important part of the code and conception on my personnal laptop before going on a run, so that I could develop on the run.	Marc		
+tm_tvimwl7nuyv2kzz3		Most of the mechinal data will have to be remade by measuring the prototypes we have though...	Marc		
+tm_qxf9b3ibnlzkxr5c		We will likely lose a week or two to get back to where we were.	Marc		
+tm_qq585zntpvmlnkng		Yes. Did you find anything unusual with your computer two days ago, in the afternoon ?	Marc		
+tm_v1z9jjfg4es9spdm		Hello you guys ! I asked to come here, because I fear we forgot a step...	Marc		
+tm_kkfvkbqqup7vrn0d		We still didn't talk about the tests we will make to validate the system.	Marc		
+tm_ni5od8clyfdjtfo3		John, I know you hate these paper study phases, and that you find them especially tiring, but we can't skip them.	Marc		
+tm_vgnthx7g7im5iy0p		We have to anticipate the way we're going to do these tests to know if we need some tools, if have to create a specific environment, and how we could cover all of the requirements.	Marc		
+tm_36sb9nwkeajzkmzk		Mathilde, do you think you can draft these tests and validation documents, while implying John to verify the documents ?	Marc		
+tm_n18k2cx6io3i58h0		OK, nice of you to accept it.	Marc		
+tm_mvekvdjf9tser8v0		Ready for take off ?	Marc		
+tm_740zhadycs5mxfzd	Go !	GO !!!	Marc		
+tm_kg6tfxm4lx5ce90x		I'd say the drone overreacted to a small gust of wind.	Marc		
+tm_odf4nlguefqjks6i		This strangely looks like poorly adjusted PIDs.	Marc		
+tm_gt5c46oaspf71omp		What do you think about it Mathilde ?	Marc		
+tm_82z1ibgc9okjzczy		Did you do any destabilization tests before coming here ?	Marc		
+tm_u8bljhqhivthaxar		An hour of additional tests would have saved us from the week of delays we're going to experience...	Marc		
+tm_d5z0bnpywmucmwm7		Now, we'll have to change the rotor and that motor, go back to our testing lab in Nairobi, and adjust all these coefficient to avoid repeating the same mistake...	Marc		
+tm_ik4vtx0cjet6unzg		Well, I hope you learned a lesson.	Marc		
+tm_r7x596gzvzypluby		Let's go back home...	Marc		
+tm_cnm1zpyy8kmz6w3l		We succeded in the realization of almost all of the User Stories we had.	Marc		
+tm_8lrwn2z46uwzfbpv		Only the third one couldn't have been finished, but we're going t put it in the third sprint.	Marc		
+tm_i7y0g28q5uumvnq8		It's some slang associated with our agile development method : SCRUM.	Marc		
+tm_ospjn7z4czc3tcm5		"The third user story is about the drone's autonomy : ""As the pilot, I wish to have 15 minutes of flight time to cross the river, and bring back the drone. """	Marc		
+tm_n3wufuxdraojrm0n		Indeed, the flight tests showed that after flying for ten minutes, the battery wasn't able to sustain the drone with a 2 pounds payload.	Marc		
+tm_fiyedl5jii7wqaib		Yes, I think this is possible.	Marc		
+tm_z8p0rd4a76sd9zlt	Our estimations during the team planning poker, made us think these were worth 32 points.	Our estimations during the team planning poker made us think these were worth 32 points.	Marc		
+tm_6g7susudbsnafwa4		This is slightly above the 28 points of the last sprint, but we're getting more efficient each day.	Marc		
+tm_7nqvzslx66x3jr2t		Of course not !	Marc		
+tm_cu421ase0dtzr2tl		But it's played with cards.	Marc		
+tm_kp1zxa2wnbpv0u55		For each user story, each partaker chooses a card in his hand.	Marc		
+tm_nqocb4x5zdr5yd7s		The value on the card represents the estimated difficulty.	Marc		
+tm_vnijg24l54xbipl1		At first, no one shows his card.	Marc		
+tm_tvkk5xmqitiez7my		Then, everyone shows his card at the same time.	Marc		
+tm_75gqrs8krryajqif		Why not ?	Marc		
+					

@@ -1,0 +1,5 @@
+﻿FORMAT:REFORMULATION					
+[TEXT ID]	[TEXTE PRONONCÉ (ENGLISH)]	[TEXTE AFFICHÉ]	[PERSONNAGE]	[NOTES]	
+tm_9f6uwzwrd3cgc7fi		Euh... I can't find find the right map.	Édouard		
+tm_76n3ccj25txkiag7		Right now, it displays a map of Bangoutou, and I don't know how to change that...	Édouard		
+					
