@@ -115,3 +115,11 @@ class SoundRecorder(QMainWindow):
         tempData = self.extractFromFile()
         self.data = [l.Line(self).fromLine(replique) for replique in tempData if l.Line(self).fromLine(replique) !=None]
         self.toRecording()
+
+    def countCars (self):
+        """Méthode qui permet de compter les caractères des voix à prononcer.
+        Permet d'évaluer le prix pour générer les voix automatiquement."""
+        S =0
+        for l in self.data:
+            S+= len(l.textToPronounce)
+        print ("Les voix du projet font [{}]caractères. \nPour les générer, il faut compter [{}] crédits, c'est à dire [{}] €".format(S,S/40,S/400) )
