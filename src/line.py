@@ -32,9 +32,9 @@ class Line(ClickDetectionWidget):
         """Prend une ligne du fichier VTS et extrait les données utiles pour l'enregistrement des voix"""
         liste = line.split('\t')
         if not self.SR.outputPath :
-            self.savename = os.path.join(PATH_TO_TEMP_SOUND_FILES, liste[0])
-        else :
             self.savename = os.path.join(PATH_TO_TEMP_SOUND_FILES, "{}.wav".format(liste[0]))
+        else :
+            self.savename = os.path.join(self.SR.outputPath, "{}.wav".format(liste[0]))
         self.textToPronounce = liste[1] if liste[1] != "" else liste[2]
         if self.textToPronounce == "":
             return None
