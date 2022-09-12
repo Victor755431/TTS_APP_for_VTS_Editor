@@ -112,6 +112,8 @@ class SoundRecorder(QMainWindow):
     
     @pyqtSlot()
     def onConfirmButtonClicked (self):
+        """Callback Qt déclenchée par l'appui du bouton de confirmation.
+        Appelle la lecture du fichier texte, et l'affichage de l'interface d'enregistrement."""
         tempData = self.extractFromFile()
         self.data = [l.Line(self).fromLine(replique) for replique in tempData if l.Line(self).fromLine(replique) !=None]
         self.toRecording()
